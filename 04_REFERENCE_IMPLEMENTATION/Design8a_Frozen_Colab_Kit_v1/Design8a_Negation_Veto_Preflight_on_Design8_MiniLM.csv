@@ -1,0 +1,3 @@
+Suite,Test_ID,Primary_SCR,Design8_Secondary_SCR,Negated_Facet,Facet_Semantic_Score,Rare_Match_Count,IDF_Score,Design8a_Preflight_Decision
+ALL59,XD014,SCR_0076,SCR_0077,no specific polluter-liability rule is invoked,0.5856,1,0.235787,VETO_SECONDARY_PROMOTION
+EDUCATOR24,EI011,SCR_0076,SCR_0077,no polluter-liability rule is invoked,0.576535,1,0.314382,VETO_SECONDARY_PROMOTION

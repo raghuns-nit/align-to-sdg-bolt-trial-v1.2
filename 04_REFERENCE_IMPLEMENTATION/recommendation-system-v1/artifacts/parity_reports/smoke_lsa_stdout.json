@@ -1,0 +1,24 @@
+{
+  "backend": "lsa",
+  "case_count": 3,
+  "passed_count": 3,
+  "failed_count": 0,
+  "passed": true,
+  "cases": [
+    {
+      "test_id": "SMOKE_RECOMMEND",
+      "passed": true,
+      "mismatches": []
+    },
+    {
+      "test_id": "SMOKE_ABSTAIN",
+      "passed": true,
+      "mismatches": []
+    },
+    {
+      "test_id": "SMOKE_NEGATION",
+      "passed": true,
+      "mismatches": []
+    }
+  ]
+}

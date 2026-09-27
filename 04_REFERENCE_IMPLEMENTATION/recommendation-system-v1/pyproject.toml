@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sustainability-recommendation-system"
+version = "0.1.0"
+description = "Ontology and knowledge-graph driven sustainability recommendation system"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=1.26",
+  "scikit-learn>=1.4",
+  "networkx>=3.2",
+  "pydantic>=2.7",
+]
+
+[project.optional-dependencies]
+semantic = ["sentence-transformers>=3.0"]
+ui = ["streamlit>=1.37", "streamlit-cytoscapejs>=0.0.5"]
+dev = ["pytest>=8.2", "pytest-cov>=5.0", "ruff>=0.6", "mypy>=1.11"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,12 @@
+{
+  "release": "Design8a-Colab-Kit-v1",
+  "runtime_sha256": "71e36cfe5d754be0d951b98c23334778ea67677d43e836104cec366ab77d8bed",
+  "blind_harness_sha256": "cd04ad2db191b67795bc5e95e00a38b7d4365aa05233530de765f4b9dd371e5e",
+  "gold_harness_sha256": "b821eafb30fb8c58938c89d5d1187f4442acdf0352182e1e076d2ddf1d6b2729",
+  "repo_sha256": "bb07eb9bc34c84f2b1c1d006cc44fcb287798e9b5eaed1665dc9c3c2d3083e85",
+  "notebook_sha256": "43f57c0a1bcb217c97f20acfe46d3f64754eb35e07884b2131c57bdeb2033b3a",
+  "design8a_spec_sha256": "2cd12a78d0ca8e26afb4daa6d21a5b552d2e03794a3522d9e8989d94f6bdaf4b",
+  "preflight_sha256": "4cfb81e21173816eab2df9e32c959945a1766affe26575ac46479b2eb9cc7e86",
+  "gold_and_blind_inputs_unchanged": true,
+  "design8a_scope": "secondary-promotion polarity/veto only"
+}

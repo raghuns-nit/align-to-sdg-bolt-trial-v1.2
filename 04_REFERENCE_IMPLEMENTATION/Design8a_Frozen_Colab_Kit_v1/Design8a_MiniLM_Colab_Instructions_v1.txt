@@ -1,0 +1,34 @@
+DESIGN-8A CONTROLLED MINILM VALIDATION
+
+Purpose
+-------
+Design-8a is a narrow safety correction to Design-8 v1. Explicitly negated mechanism facets may veto a secondary SCR but can never create positive promotion evidence. Primary Top-1 ranking is unchanged.
+
+Prediction-stage uploads
+------------------------
+1. Hybrid_KG_Runtime_v5a_Design8a_NegationAwareFacetPromotion.zip
+2. Neo4j_Lean_CSV_Bundle_v1.1.zip
+3. Design8a_Blind_Validation_Harness_v1.zip
+
+Open Design8a_52Units_59Executions_MiniLM_Colab_v1.ipynb and Run all.
+
+Gold-stage upload
+-----------------
+Only when the notebook explicitly requests gold, upload:
+Design8a_Gold_Validation_Harness_FROZEN_v1.zip
+
+The frozen benchmark, counterfactual pairs, educator-input inputs/gold, and context-quality gold are unchanged from Design-8.
+
+Acceptance gates
+----------------
+- 15-case legacy regression passes.
+- Educator input suite returns 24/24 end-to-end and 4/4 context quality.
+- Frozen59 forbidden promoted violations = 0.
+- Unsupported inference = 0.
+- Counterfactual direction = 5/5.
+- No intersection between Promoted_SCR_IDs and Negation_Vetoed_SCR_IDs.
+- Primary Top-1 path remains unchanged.
+
+Expected output
+---------------
+Design8a_52Units_59Executions_MiniLM_v1_Results.zip

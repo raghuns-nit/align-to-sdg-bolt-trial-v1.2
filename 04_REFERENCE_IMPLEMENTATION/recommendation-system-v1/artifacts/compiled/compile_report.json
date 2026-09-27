@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "compiled_at_utc": "2026-09-26T09:09:06.038291+00:00",
+  "source_files": {
+    "01_course.csv": {
+      "sha256": "60a642e40639821a41fa35cea151be029f51a9d82ebbdc319e048df3caeab43b",
+      "bytes": 58147
+    },
+    "02_module.csv": {
+      "sha256": "8d5f776e31539bb1ef8219592e030249c65687420719ee0478e94add7df5d9e8",
+      "bytes": 149109
+    },
+    "03_subtopic.csv": {
+      "sha256": "2ce73da30a9f1ee5e769545b9729391b3d6eeb567adccd4d759ae98fba73acfb",
+      "bytes": 659469
+    },
+    "04_kcr.csv": {
+      "sha256": "26ed55dc83708508ca7949e5a488d9c55750203e7c564459c4725551adc2b0ef",
+      "bytes": 1842527
+    },
+    "05_kpr.csv": {
+      "sha256": "812650953bc4433136e502f19a7519754cb0349d4acb9ab758d36c63b3f6bedd",
+      "bytes": 114761
+    },
+    "06_kfr.csv": {
+      "sha256": "aca90a112a018c393f2d709872e717334fa170cd04af92de7b1f140b8154cd33",
+      "bytes": 196453
+    },
+    "07_scr.csv": {
+      "sha256": "a9f37da32724ee7659a117157720b2a98f9bd6e6dacc622db9875f13ec29c818",
+      "bytes": 221319
+    },
+    "08_guardrail.csv": {
+      "sha256": "dc8883eb3563b947168352d6bde736876e947e4c3267518436bf7aaf8f4580b7",
+      "bytes": 307827
+    },
+    "09_application_context.csv": {
+      "sha256": "5b579b25cbf7b0d6483bb6b177b02cce67d35e237f617a004b456be527b1759f",
+      "bytes": 65041
+    },
+    "10_sdg_goal.csv": {
+      "sha256": "8c5ef24aa88f9d0a5887bd0ad4230dc0dd5eec5f58c9042bf864c6c8c25e851c",
+      "bytes": 7463
+    },
+    "11_sdg_target.csv": {
+      "sha256": "826c002bfb128238b0c7217ea0543974d4d3e5c0d1ebecb66957749edf1f4bf3",
+      "bytes": 41022
+    },
+    "12_sdg_indicator.csv": {
+      "sha256": "9ac4bd1b03dc903c0f5c56b1b2fa9a4e8f48f3037539089ab24eb7f0b022a79c",
+      "bytes": 39478
+    },
+    "13_esd_objective.csv": {
+      "sha256": "5935f91a1f604ecc0a7a676ef86f151c0189d1cae8a466b515f57dfa06ebad14",
+      "bytes": 53229
+    },
+    "14_esd_competency.csv": {
+      "sha256": "d47b60be8f3fae910b64b057ffe2a0fd6faec798e3f28bd99221783c22305030",
+      "bytes": 2706
+    },
+    "15_cf_knowledge.csv": {
+      "sha256": "3d93313679ce69e6f61fad0952396e046cdda6e94442cfad8fe7658add9e6c60",
+      "bytes": 213201
+    },
+    "16_cf_skill.csv": {
+      "sha256": "deb3b6f755bb3a96c1d55dd82644ab16384dfeff9e0d14b8061024c06f234d9b",
+      "bytes": 201242
+    },
+    "17_cf_value.csv": {
+      "sha256": "d7dc0aa8c14b859eae92135335b234fce731418dac980dfa52f27f858cd0f0e2",
+      "bytes": 184931
+    },
+    "18_cf_competency.csv": {
+      "sha256": "78fba4e221e3667bc50a128f2f51d1f325739b115d1b5fea2eaad74827cfe2ea",
+      "bytes": 1984
+    },
+    "relationships.csv": {
+      "sha256": "ba140a9a1dd75206e80ff090d3966f20a961b0893bd4f0b2068c446300c7b4f1",
+      "bytes": 517428
+    }
+  },
+  "node_count": 9033,
+  "edge_count": 10347,
+  "semantic_corpus_count": 3456,
+  "graph_sha256": "faa7a7eb839151ba9454a9d9f704a9803181ce521f76a3662be00206b52e0a2b",
+  "semantic_corpus_sha256": "81fec57dbfac794436470e6af28ca910ba47729caa615f0126875214ed504296",
+  "validation": {
+    "passed": true,
+    "warnings": 0
+  }
+}
