@@ -1,0 +1,987 @@
+cf_value_id:ID,education_level,sub_heading,text,status,:LABEL
+CFV_SDG01_SEC_001,Secondary education,Poverty as a justice and ethical issue,Develop a sense of social justice and recognise poverty as an ethical concern.,Active,CFValue
+CFV_SDG01_SEC_002,Secondary education,Poverty as a justice and ethical issue,"Challenge stereotypes about poverty and understand its complex, systemic causes.",Active,CFValue
+CFV_SDG01_SEC_003,Secondary education,Poverty as a justice and ethical issue,Critically reflect on inequality and ethical business practice.,Active,CFValue
+CFV_SDG01_SEC_004,Secondary education,"Empathy, values and civic responsibility",Cultivate empathy and respect for diverse communities affected by poverty.,Active,CFValue
+CFV_SDG01_SEC_005,Secondary education,"Empathy, values and civic responsibility",Commit to eradicating poverty and supporting policies that promote economic equity.,Active,CFValue
+CFV_SDG01_SEC_006,Secondary education,"Empathy, values and civic responsibility",Value inclusive economic participation and the power of collective action.,Active,CFValue
+CFV_SDG01_SEC_007,Secondary education,"Agency, empowerment and innovation",Develop self-confidence in their ability to drive change.,Active,CFValue
+CFV_SDG01_SEC_008,Secondary education,"Agency, empowerment and innovation",Value education and financial literacy as tools for economic empowerment.,Active,CFValue
+CFV_SDG01_SEC_009,Secondary education,"Agency, empowerment and innovation","Develop a mindset of innovation, resilience and social responsibility.",Active,CFValue
+CFV_SDG01_SEC_010,Secondary education,Active engagement and advocacy,Understand the impact of individual and collective actions in addressing poverty.,Active,CFValue
+CFV_SDG01_SEC_011,Secondary education,Active engagement and advocacy,Engage in community initiatives and advocacy to promote social change.,Active,CFValue
+CFV_SDG01_TVET_001,TVET,Personal development and lifelong learning,Cultivate a strong work ethic and a commitment to lifelong learning.,Active,CFValue
+CFV_SDG01_TVET_002,TVET,Personal development and lifelong learning,"Develop self-confidence, initiative and adaptability for entrepreneurial success.",Active,CFValue
+CFV_SDG01_TVET_003,TVET,Personal development and lifelong learning,Build confidence in taking calculated risks and demonstrating leadership.,Active,CFValue
+CFV_SDG01_TVET_004,TVET,Entrepreneurial mindset and career readiness,"Take proactive steps in career planning, aligning aspirations with economic and community needs.",Active,CFValue
+CFV_SDG01_TVET_005,TVET,Entrepreneurial mindset and career readiness,Value financial independence and self-sufficiency as key drivers of empowerment.,Active,CFValue
+CFV_SDG01_TVET_006,TVET,Entrepreneurial mindset and career readiness,Recognise the importance of education and vocational training in breaking cycles of poverty.,Active,CFValue
+CFV_SDG01_TVET_007,TVET,"Ethics, sustainability and social impact","Commit to sustainability, ensuring enterprises operate in environmentally and socially responsible ways.",Active,CFValue
+CFV_SDG01_TVET_008,TVET,"Ethics, sustainability and social impact",Appreciate the social responsibility of businesses and workers in creating equitable economies.,Active,CFValue
+CFV_SDG01_TVET_009,TVET,"Ethics, sustainability and social impact","Develop empathy and social consciousness, recognising how people’s skills and businesses can contribute to poverty reduction.",Active,CFValue
+CFV_SDG01_TVET_010,TVET,Equity and inclusion in economic participation,Challenge gender biases and stereotypes in employment and business.,Active,CFValue
+CFV_SDG01_TVET_011,TVET,Equity and inclusion in economic participation,Promote inclusivity and equitable access to entrepreneurship and decent work.,Active,CFValue
+CFV_SDG01_TER_001,Tertiary education,"Social justice, equity and ethical responsibility","Commit to social justice and equity, ensuring universal access to opportunities and resources.",Active,CFValue
+CFV_SDG01_TER_002,Tertiary education,"Social justice, equity and ethical responsibility",Recognise the dignity and rights of marginalised communities through a pro-poor and ethically responsible approach.,Active,CFValue
+CFV_SDG01_TER_003,Tertiary education,"Social justice, equity and ethical responsibility","Demonstrate ethical leadership and civic-minded entrepreneurship in professional, academic and community settings.",Active,CFValue
+CFV_SDG01_TER_004,Tertiary education,"Empathy, inclusion and intercultural understanding","Promote inclusion and economic participation for vulnerable populations, including migrant workers, women and disadvantaged groups.",Active,CFValue
+CFV_SDG01_TER_005,Tertiary education,"Empathy, inclusion and intercultural understanding","Manifest empathy, intercultural understanding and awareness of the lived realities of those affected by poverty.",Active,CFValue
+CFV_SDG01_TER_006,Tertiary education,"Empathy, inclusion and intercultural understanding","Advocate for inclusive decision-making, ensuring marginalised voices are heard and empowered in policy processes.",Active,CFValue
+CFV_SDG01_TER_007,Tertiary education,"Resilience, adaptability and lifelong learning","Show resilience and adaptability in addressing global challenges, including economic shocks and environmental crises.",Active,CFValue
+CFV_SDG01_TER_008,Tertiary education,"Resilience, adaptability and lifelong learning","Embrace lifelong learning, critical reflection and ethical leadership as tools for personal and societal transformation.",Active,CFValue
+CFV_SDG01_TER_009,Tertiary education,Advocacy and engagement,"Develop advocacy campaigns for social justice, policy reform and economic inclusion.",Active,CFValue
+CFV_SDG01_TER_010,Tertiary education,Advocacy and engagement,Participate in debates and dialogues on poverty and global inequality.,Active,CFValue
+CFV_SDG01_TER_011,Tertiary education,Advocacy and engagement,"Collaborate with NGOs, research institutions, governments and development agencies on pro-poor initiatives.",Active,CFValue
+CFV_SDG01_ADULT_001,Adult education,Empowerment and financial responsibility,Develop self-confidence and a sense of empowerment to participate actively in economic life and advocate for financial rights.,Active,CFValue
+CFV_SDG01_ADULT_002,Adult education,Empowerment and financial responsibility,Encourage financial responsibility and resilience to support long-term income stability and economic independence.,Active,CFValue
+CFV_SDG01_ADULT_003,Adult education,Equity and inclusion,Commit to economic inclusion by recognising the importance of equitable access to resources and opportunities for all.,Active,CFValue
+CFV_SDG01_ADULT_004,Adult education,Equity and inclusion,"Embrace solidarity and shared responsibility, understanding that poverty reduction depends on collective action and support networks.",Active,CFValue
+CFV_SDG01_ADULT_005,Adult education,Collaboration and civic participation,Engage in community participation and collaborative economic decision-making that promotes inclusive development.,Active,CFValue
+CFV_SDG01_ADULT_006,Adult education,Collaboration and civic participation,Value co-operation and mutual support in addressing local and global economic challenges.,Active,CFValue
+CFV_SDG01_ADULT_007,Adult education,Proactive and lifelong learning mindset,"Cultivate an initiative-taking, solution-oriented mindset that embraces lifelong learning to navigate and overcome economic challenges.",Active,CFValue
+CFV_SDG02_SEC_001,Secondary education,Empathy and global citizenship,Show empathy and solidarity with individuals and communities affected by hunger and malnutrition.,Active,CFValue
+CFV_SDG02_SEC_002,Secondary education,Empathy and global citizenship,Embrace a strong sense of social responsibility and a willingness to act on issues related to food equity and justice.,Active,CFValue
+CFV_SDG02_SEC_003,Secondary education,Empathy and global citizenship,Demonstrate a commitment to reducing personal and collective food waste.,Active,CFValue
+CFV_SDG02_SEC_004,Secondary education,Personal and community health,"Develop positive attitudes toward nutrition, sustainability and responsible food choices.",Active,CFValue
+CFV_SDG02_SEC_005,Secondary education,Personal and community health,Promote good dietary practices and encourage peers and family members to adopt healthy habits.,Active,CFValue
+CFV_SDG02_SEC_006,Secondary education,Personal and community health,Value lifelong learning and self-empowerment in maintaining health and wellbeing.,Active,CFValue
+CFV_SDG02_SEC_007,Secondary education,Respect for culture and sustainability,Appreciate the cultural and environmental value of indigenous food systems and traditional knowledge.,Active,CFValue
+CFV_SDG02_SEC_008,Secondary education,Respect for culture and sustainability,"Advocate for fair, inclusive and sustainable food systems that serve the needs of all communities.",Active,CFValue
+CFV_SDG02_SEC_009,Secondary education,Respect for culture and sustainability,"Support school and community efforts aimed at improving access to nutritious food, such as school meal programmes, food banks and agricultural projects.",Active,CFValue
+CFV_SDG02_TVET_001,TVET,Sustainability and social responsibility,"Demonstrate commitment to sustainable food production, environmental protection, and ethical treatment of people and animals within the food system.",Active,CFValue
+CFV_SDG02_TVET_002,TVET,Sustainability and social responsibility,"Promote health and nutrition within the workplace and community, supporting a culture of wellbeing and informed food choices.",Active,CFValue
+CFV_SDG02_TVET_003,TVET,Rural empowerment and innovation,"Cultivate an entrepreneurial mindset, seeing opportunities in food production, processing and marketing that contribute to rural development and self-reliance.",Active,CFValue
+CFV_SDG02_TVET_004,TVET,Rural empowerment and innovation,Value the importance of food tourism and artisanal food initiatives in enhancing community identity and economic opportunity.,Active,CFValue
+CFV_SDG02_TVET_005,TVET,Equity and advocacy,"Show dedication to equitable food access, recognising the social, economic and environmental significance of food security for vulnerable populations.",Active,CFValue
+CFV_SDG02_TVET_006,TVET,Equity and advocacy,Advocate for inclusive agricultural policies and innovations that respond to local needs and respect indigenous knowledge and sustainable practices.,Active,CFValue
+CFV_SDG02_TVET_007,TVET,Adaptability and leadership,"Embrace innovation, technology and lifelong learning to remain responsive to shifts in agriculture, food markets and global challenges.",Active,CFValue
+CFV_SDG02_TVET_008,TVET,Adaptability and leadership,"Take initiative to lead or support community efforts that advance food system resilience, nutrition security and sustainable development.",Active,CFValue
+CFV_SDG02_TER_001,Tertiary education,Sustainability and responsibility,"Demonstrate a strong commitment to sustainable food systems that prioritise environmental conservation, ethical food production and social equity.",Active,CFValue
+CFV_SDG02_TER_002,Tertiary education,Sustainability and responsibility,"Show leadership in promoting responsible consumption, reducing food waste and advocating for fair and resilient food systems.",Active,CFValue
+CFV_SDG02_TER_003,Tertiary education,Equity and cultural respect,"Respect diverse dietary practices, cultural food traditions and indigenous knowledge as vital elements of sustainable development and inclusive education.",Active,CFValue
+CFV_SDG02_TER_004,Tertiary education,Equity and cultural respect,"Champion equitable access to nutritious food, especially for marginalised or vulnerable populations.",Active,CFValue
+CFV_SDG02_TER_005,Tertiary education,Innovation and entrepreneurship,"Exhibit motivation to explore new opportunities in agriculture, food tourism and artisanal production that support local economies and sustainable practices.",Active,CFValue
+CFV_SDG02_TER_006,Tertiary education,Innovation and entrepreneurship,"Display adaptability and innovation in response to shifting environmental conditions, technological changes and evolving food systems.",Active,CFValue
+CFV_SDG02_TER_007,Tertiary education,Advocacy and global citizenship,"Embrace a global perspective on food security, recognising interdependence across nations and sectors.",Active,CFValue
+CFV_SDG02_TER_008,Tertiary education,Advocacy and global citizenship,"Commit to taking informed action on hunger, malnutrition and food justice as agents of change within academic, professional and civic spaces.",Active,CFValue
+CFV_SDG02_ADULT_001,Adult education,Community empowerment and collaboration,Embrace a collaborative mindset by supporting others and working collectively to strengthen local food security and agricultural livelihoods.,Active,CFValue
+CFV_SDG02_ADULT_002,Adult education,Community empowerment and collaboration,"Promote women’s leadership and participation in farming groups, co-operatives and food governance structures.",Active,CFValue
+CFV_SDG02_ADULT_003,Adult education,Responsibility and stewardship,"Take responsibility for sustainable land use, promoting ethical farming practices that protect biodiversity and ensure fair treatment of workers.",Active,CFValue
+CFV_SDG02_ADULT_004,Adult education,Responsibility and stewardship,"Respect and protect traditional and indigenous knowledge systems related to food, farming and health.",Active,CFValue
+CFV_SDG02_ADULT_005,Adult education,Equity and inclusion,"Support equal access to agricultural resources, land, markets and education, especially for women, youth and disadvantaged groups.",Active,CFValue
+CFV_SDG02_ADULT_006,Adult education,Equity and inclusion,"Advocate for inclusive food systems that consider cultural preferences, dietary needs and local food traditions.",Active,CFValue
+CFV_SDG02_ADULT_007,Adult education,Resilience and agency,"Cultivate resilience by responding constructively to climate challenges, price fluctuations and food insecurity.",Active,CFValue
+CFV_SDG02_ADULT_008,Adult education,Resilience and agency,"Recognise the link between healthy diets and economic prosperity and act to improve nutrition access in families, schools and community spaces.",Active,CFValue
+CFV_SDG02_ADULT_009,Adult education,Advocacy and lifelong learning,"Commit to lifelong learning about food systems, agriculture and community health.",Active,CFValue
+CFV_SDG02_ADULT_010,Adult education,Advocacy and lifelong learning,"Engage in local advocacy efforts that push for better agricultural policies, nutrition programmes and equitable land distribution.",Active,CFValue
+CFV_SDG03_SEC_001,Secondary education,Respect for health as a human right,"Develop an appreciation for equitable access to healthcare, clean water, nutritious food and safe environments.",Active,CFValue
+CFV_SDG03_SEC_002,Secondary education,Respect for health as a human right,"Advocate for the right to health and wellbeing for all, especially marginalised or vulnerable groups.",Active,CFValue
+CFV_SDG03_SEC_003,Secondary education,Self-respect and autonomy,"Value bodily autonomy, personal boundaries and informed choices in health and relationships.",Active,CFValue
+CFV_SDG03_SEC_004,Secondary education,Self-respect and autonomy,Build confidence in making independent decisions that support personal and collective wellbeing.,Active,CFValue
+CFV_SDG03_SEC_005,Secondary education,Empathy and inclusion,"Show empathy toward those experiencing mental illness, disability, illness or marginalisation.",Active,CFValue
+CFV_SDG03_SEC_006,Secondary education,Empathy and inclusion,Promote inclusive attitudes and challenge stigma and discrimination in health and education.,Active,CFValue
+CFV_SDG03_SEC_007,Secondary education,Empathy and inclusion,Recognise importance of respectful relationships and understanding rights in both physical and digital spaces.,Active,CFValue
+CFV_SDG03_SEC_008,Secondary education,Empathy and inclusion,"Avoid risks such as sexting, online exploitation, and strategies for safe digital behaviour and digital safety.",Active,CFValue
+CFV_SDG03_SEC_009,Secondary education,Social justice and global solidarity,"Recognise and value the role of global co-operation in tackling health inequities (for example, SDG3, global vaccination efforts).",Active,CFValue
+CFV_SDG03_SEC_010,Secondary education,Social justice and global solidarity,Support policies and actions that reduce disparities and improve health outcomes worldwide.,Active,CFValue
+CFV_SDG03_SEC_011,Secondary education,"Commitment to healthy, sustainable living",Value long-term health and sustainability over short-term convenience or trends.,Active,CFValue
+CFV_SDG03_SEC_012,Secondary education,"Commitment to healthy, sustainable living","Embrace habits that contribute to physical, mental, social and environmental wellbeing.",Active,CFValue
+CFV_SDG03_TVET_001,TVET,For all health-related fields,"Promote respect for human dignity, cultural sensitivity and commitment to equity in health access.",Active,CFValue
+CFV_SDG03_TVET_002,TVET,For all health-related fields,"Promote public health values such as prevention, inclusion and sustainability.",Active,CFValue
+CFV_SDG03_TVET_003,TVET,For all health-related fields,Recognise health as a human right and a shared community responsibility.,Active,CFValue
+CFV_SDG03_TVET_004,TVET,Health and social care/community health work,Promote empathy and confidentiality in client care.,Active,CFValue
+CFV_SDG03_TVET_005,TVET,Health and social care/community health work,Empower individuals to take charge of their health.,Active,CFValue
+CFV_SDG03_TVET_006,TVET,Health and social care/community health work,"Recognise and respect cultural and faith-based health-promoting practices in client care, ensuring that health interventions are inclusive, respectful and aligned with individuals’ cultural and spiritual beliefs.",Active,CFValue
+CFV_SDG03_TVET_007,TVET,Public and environmental health,Promote responsibility for sustainable practices that protect long-term community health.,Active,CFValue
+CFV_SDG03_TVET_008,TVET,Public and environmental health,Advocate for environmental justice.,Active,CFValue
+CFV_SDG03_TVET_009,TVET,Hospitality and food services,Be accountable for food safety and client wellbeing.,Active,CFValue
+CFV_SDG03_TVET_010,TVET,Hospitality and food services,"Take pride in serving healthy, nutritious and culturally appropriate meals.",Active,CFValue
+CFV_SDG03_TVET_011,TVET,Agriculture and food safety,Take stewardship of food systems that support nutrition and wellbeing.,Active,CFValue
+CFV_SDG03_TVET_012,TVET,Agriculture and food safety,Promote ethical responsibility in pesticide and antibiotic use.,Active,CFValue
+CFV_SDG03_TVET_013,TVET,Emergency and disaster response,Be calm under pressure and prioritise human life.,Active,CFValue
+CFV_SDG03_TVET_014,TVET,Emergency and disaster response,Show solidarity and co-operation during crises.,Active,CFValue
+CFV_SDG03_TVET_015,TVET,Occupational health and safety,"Commit to zero harm, accident prevention and worker wellbeing.",Active,CFValue
+CFV_SDG03_TVET_016,TVET,Occupational health and safety,Respect workplace diversity and inclusion in safety planning.,Active,CFValue
+CFV_SDG03_TER_001,Tertiary education,Health equity,"Commit to health equity, community empowerment and people-centred care.",Active,CFValue
+CFV_SDG03_TER_002,Tertiary education,Health equity,"Promote ethical leadership, transparency and social accountability in public health.",Active,CFValue
+CFV_SDG03_TER_003,Tertiary education,Health equity,"Value participatory approaches, community health initiatives and local knowledge.",Active,CFValue
+CFV_SDG03_TER_004,Tertiary education,Health provision,"Respect diversity, dignity and cultural needs in care provision.",Active,CFValue
+CFV_SDG03_TER_005,Tertiary education,Health provision,"Commit to continuous learning, reflection and lifelong service.",Active,CFValue
+CFV_SDG03_TER_006,Tertiary education,Health provision,Advocate for universal health coverage and human rights in health.,Active,CFValue
+CFV_SDG03_TER_007,Tertiary education,People centred care,Respect children’s rights and child-centred care approaches.,Active,CFValue
+CFV_SDG03_TER_008,Tertiary education,People centred care,"Value inclusive, trauma-informed and non-discriminatory education systems.",Active,CFValue
+CFV_SDG03_TER_009,Tertiary education,People centred care,Empower learners to be advocates for health and social justice.,Active,CFValue
+CFV_SDG03_TER_010,Tertiary education,Sports science and physical education,Promote lifelong physical activity and healthy lifestyles.,Active,CFValue
+CFV_SDG03_TER_011,Tertiary education,Sports science and physical education,"Respect inclusion, gender equity and cultural diversity in sport.",Active,CFValue
+CFV_SDG03_TER_012,Tertiary education,Sports science and physical education,Believe in the role of movement in holistic wellbeing.,Active,CFValue
+CFV_SDG03_TER_013,Tertiary education,Sustainable development,"Commit to sustainable development, health justice and ecological stewardship.",Active,CFValue
+CFV_SDG03_TER_014,Tertiary education,Sustainable development,Value interdisciplinary collaboration to promote healthy societies.,Active,CFValue
+CFV_SDG03_TER_015,Tertiary education,Sustainable development,"Uphold the principles of equity and social justice in the design and implementation of policies and interventions, ensuring all communities, particularly vulnerable and marginalised groups, have access to the benefits of sustainable development and environmental health.",Active,CFValue
+CFV_SDG03_TER_016,Tertiary education,Sustainable development,"Commit to a systems-oriented mindset that values the interconnectedness of health, the environment and socio-economic factors, developing holistic solutions for sustainable wellbeing.",Active,CFValue
+CFV_SDG03_TER_017,Tertiary education,Sustainable development,"Champion community empowerment and participation, advocating for the active involvement of local stakeholders in decision-making processes that affect their health and environment.",Active,CFValue
+CFV_SDG03_TER_018,Tertiary education,Sustainable development,"Demonstrate ethical responsibility by advocating for policies that prioritise human rights, environmental integrity and public health, while considering long-term societal and ecological impacts.",Active,CFValue
+CFV_SDG03_TER_019,Tertiary education,Sustainable development,"Promote a culturally sensitive and inclusive approach to policymaking, acknowledging diverse perspectives, values and traditional knowledge in the pursuit of sustainable solutions.",Active,CFValue
+CFV_SDG03_TER_020,Tertiary education,Sustainable development,"Cultivate a sense of global citizenship, recognising the collective responsibility to address global health and environmental challenges, and developing solidarity across borders and cultures.",Active,CFValue
+CFV_SDG03_ADULT_001,Adult education,Healthy lifestyles,Appreciate healthy lifestyles and positive mental health practices.,Active,CFValue
+CFV_SDG03_ADULT_002,Adult education,Healthy lifestyles,Recognise the lifelong role of parents and caregivers in shaping children’s wellbeing.,Active,CFValue
+CFV_SDG03_ADULT_003,Adult education,Healthy lifestyles,"Respect all community members’ health needs, including vulnerable or marginalised groups.",Active,CFValue
+CFV_SDG03_ADULT_004,Adult education,Healthy lifestyles,Promote a sense of personal and collective responsibility for health and wellbeing.,Active,CFValue
+CFV_SDG03_ADULT_005,Adult education,Healthy lifestyles,"Be willing to take initiative in building a supportive, informed and resilient community.",Active,CFValue
+CFV_SDG03_ADULT_006,Adult education,Family dynamics,"Value nurturing, respectful family dynamics.",Active,CFValue
+CFV_SDG03_ADULT_007,Adult education,Family dynamics,Believe in every child’s right to a safe and loving upbringing.,Active,CFValue
+CFV_SDG03_ADULT_008,Adult education,Family dynamics,"Recognise empathy, patience and mutual respect as foundations of strong families.",Active,CFValue
+CFV_SDG03_ADULT_009,Adult education,Self-and mutual care,Respect self-care and mutual care in professional settings.,Active,CFValue
+CFV_SDG03_ADULT_010,Adult education,Self-and mutual care,"Recognise health as a shared responsibility between individuals, employers and communities.",Active,CFValue
+CFV_SDG03_ADULT_011,Adult education,Self-and mutual care,Provide motivation for continuous personal development and lifelong learning for health.,Active,CFValue
+CFV_SDG04_SEC_001,Secondary education,Recognition of education’s transformative power,"Value education not only as a tool for employment but as a means for personal growth, social inclusion and empowerment.",Active,CFValue
+CFV_SDG04_SEC_002,Secondary education,Recognition of education’s transformative power,"Respect diverse paths and forms of education, including vocational, academic, formal and informal learning.",Active,CFValue
+CFV_SDG04_SEC_003,Secondary education,Empowerment and agency,Develop confidence in personal capacity to advocate for education rights for self and others.,Active,CFValue
+CFV_SDG04_SEC_004,Secondary education,Empowerment and agency,"Cultivate resilience and determination, especially for girls and under-represented groups navigating transitions in life and work.",Active,CFValue
+CFV_SDG04_SEC_005,Secondary education,"Equity, justice and co-operation","Commit to fairness and equal opportunity in education, regardless of background or identity.",Active,CFValue
+CFV_SDG04_SEC_006,Secondary education,"Equity, justice and co-operation",Collaborate with others to explore and address educational barriers in the community or beyond.,Active,CFValue
+CFV_SDG04_SEC_007,Secondary education,Global citizenship and solidarity,Express empathy for those denied educational opportunities and engage in actions that support inclusive education worldwide.,Active,CFValue
+CFV_SDG04_SEC_008,Secondary education,Global citizenship and solidarity,Recognise oneself as part of a global community working toward quality education for all.,Active,CFValue
+CFV_SDG04_TVET_001,TVET,Lifelong learning and self-development,Value ongoing education and reskilling as essential for personal growth and future resilience.,Active,CFValue
+CFV_SDG04_TVET_002,TVET,Lifelong learning and self-development,Cultivate a growth mindset and motivation for continuous improvement.,Active,CFValue
+CFV_SDG04_TVET_003,TVET,Transformative power of TVET,"Recognise TVET as a driver of innovation, inclusion and sustainable development.",Active,CFValue
+CFV_SDG04_TVET_004,TVET,Transformative power of TVET,Take pride in vocational skills as powerful tools for change and community development.,Active,CFValue
+CFV_SDG04_TVET_005,TVET,Responsibility and community engagement,Value ethical responsibility in one’s trade or sector and actively contribute to local wellbeing.,Active,CFValue
+CFV_SDG04_TVET_006,TVET,Responsibility and community engagement,Promote environmental stewardship and workplace practices that protect future generations.,Active,CFValue
+CFV_SDG04_TVET_007,TVET,Visioning a sustainable future,"Envision and act upon alternative, sustainable ways of working, consuming and living.",Active,CFValue
+CFV_SDG04_TVET_008,TVET,Visioning a sustainable future,"Show commitment to integrating sustainability into one’s career, enterprise and role in society.",Active,CFValue
+CFV_SDG04_TVET_009,TVET,Visioning a sustainable future,"Commitment to ethical leadership, transparency, and accountability in education governance.",Active,CFValue
+CFV_SDG04_TVET_010,TVET,Visioning a sustainable future,"Respect for equity, fairness, and the use of education as a means to reduce social and gender inequalities.",Active,CFValue
+CFV_SDG04_TVET_011,TVET,Visioning a sustainable future,"Openness to challenging biased norms and promoting dignity, inclusion, and participation for all learners.",Active,CFValue
+CFV_SDG04_TVET_012,TVET,Visioning a sustainable future,Appreciation of STEM as a driver of sustainable development and willingness to adapt to innovation and change.,Active,CFValue
+CFV_SDG04_TVET_013,TVET,Visioning a sustainable future,"Respect for diverse knowledge systems, including Indigenous, cultural, and community-based learning traditions.",Active,CFValue
+CFV_SDG04_TVET_014,TVET,Visioning a sustainable future,"Belief in ECCE as a right and a foundation for social inclusion, holistic development, and lifelong learning.",Active,CFValue
+CFV_SDG04_TER_001,Tertiary education,Appreciation of education as a human right,"Uphold education as a right, not a privilege, and commit to advancing access for all, particularly underserved populations.",Active,CFValue
+CFV_SDG04_TER_002,Tertiary education,Appreciation of education as a human right,"Recognise the interdependence of education with other human rights, such as health, equality and participation.",Active,CFValue
+CFV_SDG04_TER_003,Tertiary education,Inclusivity and social justice,"Promote inclusive, equitable education that embraces diversity of identity, culture, language and ability.",Active,CFValue
+CFV_SDG04_TER_004,Tertiary education,Inclusivity and social justice,Challenge all forms of discrimination and exclusion within and beyond educational settings.,Active,CFValue
+CFV_SDG04_TER_005,Tertiary education,Commitment to nation building and global citizenship,"Value education’s role in shaping responsible, engaged citizens for national cohesion and sustainable development.",Active,CFValue
+CFV_SDG04_TER_006,Tertiary education,Commitment to nation building and global citizenship,"Embrace education’s potential to build peace, justice and social solidarity locally and globally.",Active,CFValue
+CFV_SDG04_TER_007,Tertiary education,Professional integrity and empowerment,"Embody ethical leadership in education with a focus on community empowerment, especially for women and marginalised groups.",Active,CFValue
+CFV_SDG04_TER_008,Tertiary education,Professional integrity and empowerment,Value and support ecce as a transformative field that benefits both learners and their caregivers.,Active,CFValue
+CFV_SDG04_TER_009,Tertiary education,Respect for knowledge diversity,"Value different systems of knowledge, including scientific, indigenous, experiential and informal learning.",Active,CFValue
+CFV_SDG04_TER_010,Tertiary education,Respect for knowledge diversity,Appreciate the relevance of traditional and local knowledge in addressing global and local sustainability challenges.,Active,CFValue
+CFV_SDG04_ADULT_001,Adult education,Valuing education at all ages,"Appreciate the value of education for personal growth, empowerment and improved quality of life – at any age or stage.",Active,CFValue
+CFV_SDG04_ADULT_002,Adult education,Valuing education at all ages,"Recognise education as a lifelong journey and embrace continuous learning for employment, social connection, leisure and active citizenship.",Active,CFValue
+CFV_SDG04_ADULT_003,Adult education,Parental and community engagement,Encourage and support children’s schooling and learning through active involvement at home and in school life.,Active,CFValue
+CFV_SDG04_ADULT_004,Adult education,Parental and community engagement,"Value the role of families and communities in creating a culture of education, care and opportunity.",Active,CFValue
+CFV_SDG04_ADULT_005,Adult education,Empowerment and self-worth,Develop a strong sense of self-worth and agency to pursue personal learning goals and life improvements.,Active,CFValue
+CFV_SDG04_ADULT_006,Adult education,Empowerment and self-worth,"Build confidence in one’s ability to learn, grow and contribute meaningfully to the household and community.",Active,CFValue
+CFV_SDG04_ADULT_007,Adult education,Inclusion and social responsibility,"Commit to equitable access to education and the inclusion of all learners regardless of gender, literacy level, disability, or life experience.",Active,CFValue
+CFV_SDG04_ADULT_008,Adult education,Inclusion and social responsibility,"Show solidarity with others in learning and collective problem solving to build stronger, more resilient communities.",Active,CFValue
+CFV_SDG05_SEC_001,Secondary education,"Promoting respect, equality and inclusion","Demonstrate respect for all individuals regardless of gender identity, expression or roles and uphold gender equality as a fundamental human right.",Active,CFValue
+CFV_SDG05_SEC_002,Secondary education,"Promoting respect, equality and inclusion","Advocate for inclusive school environments where diversity is valued and all learners feel safe, respected and represented.",Active,CFValue
+CFV_SDG05_SEC_003,Secondary education,"Promoting respect, equality and inclusion","Encourage peers to explore activities and careers traditionally dominated by the opposite gender, supporting freedom of choice and personal expression.",Active,CFValue
+CFV_SDG05_SEC_004,Secondary education,"Promoting respect, equality and inclusion","Actively challenge stereotypes and discriminatory attitudes in classroom interactions, media content and social settings.",Active,CFValue
+CFV_SDG05_SEC_005,Secondary education,"Promoting respect, equality and inclusion",Promote emotional literacy by supporting the expression of diverse emotions across all genders and dismantling stereotypes about how boys and girls should behave or feel.,Active,CFValue
+CFV_SDG05_SEC_006,Secondary education,Challenging gender-based violence and discrimination,"Show commitment to ending gender-based violence (GBV) by promoting non-violence, equality and safe relationships.",Active,CFValue
+CFV_SDG05_SEC_007,Secondary education,Challenging gender-based violence and discrimination,"Design and lead education campaigns, peer mediation programmes or community outreach initiatives to raise awareness of GBV and offer support to those affected.",Active,CFValue
+CFV_SDG05_SEC_008,Secondary education,Challenging gender-based violence and discrimination,"Critically assess and advocate for the improvement of laws and policies protecting individuals from GBV and gender discrimination at the local, national and global levels.",Active,CFValue
+CFV_SDG05_SEC_009,Secondary education,Challenging gender-based violence and discrimination,Respect and support the enforcement of regional and global agreements such as the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW).,Active,CFValue
+CFV_SDG05_SEC_010,Secondary education,Critical reflection and collective action,"Recognise and speak out against unjust gender norms and cultural practices, such as child marriage or unequal educational opportunities, especially when they harm girls and women.",Active,CFValue
+CFV_SDG05_SEC_011,Secondary education,Critical reflection and collective action,Value and promote diverse gender perspectives by collaborating on school and community initiatives that celebrate and protect gender rights.,Active,CFValue
+CFV_SDG05_SEC_012,Secondary education,Critical reflection and collective action,"Develop media literacy by examining how stereotypes and gender roles are constructed across platforms and create content (for example, podcasts, posters, blogs) that challenge biases and promote fairness.",Active,CFValue
+CFV_SDG05_SEC_013,Secondary education,Critical reflection and collective action,"Acknowledge how intersectionality (race, class, disability, sexual orientation) shapes gendered experiences and actively support inclusive, anti-discriminatory practices.",Active,CFValue
+CFV_SDG05_SEC_014,Secondary education,Global solidarity and cultural sensitivity,Understand and respect cultural diversity while promoting universal values of fairness and equality.,Active,CFValue
+CFV_SDG05_SEC_015,Secondary education,Global solidarity and cultural sensitivity,"Engage with stories and experiences from different parts of the world to understand how gender inequality is experienced and addressed globally, especially in Commonwealth countries.",Active,CFValue
+CFV_SDG05_SEC_016,Secondary education,Global solidarity and cultural sensitivity,Promote inclusive global citizenship by supporting international efforts to uphold women’s and girls’ rights and by participating in cross-cultural dialogues on gender justice.,Active,CFValue
+CFV_SDG05_SEC_017,Secondary education,Global solidarity and cultural sensitivity,Be an engaged global citizen by advocating for gender equality and working towards solutions that ensure equality worldwide.,Active,CFValue
+CFV_SDG05_SEC_018,Secondary education,Global solidarity and cultural sensitivity,Promote the importance of SDG5 and encourage others to participate in initiatives that support global gender equality.,Active,CFValue
+CFV_SDG05_TVET_001,TVET,"Promoting equity, inclusion and respect",Demonstrate empathy and understanding of the barriers faced by women and gender minorities in education and employment.,Active,CFValue
+CFV_SDG05_TVET_002,TVET,"Promoting equity, inclusion and respect","Advocate for inclusive policies that ensure equal access to training, mentorship and job opportunities.",Active,CFValue
+CFV_SDG05_TVET_003,TVET,"Promoting equity, inclusion and respect",Support flexible and family-friendly workplace arrangements that accommodate diverse needs.,Active,CFValue
+CFV_SDG05_TVET_004,TVET,"Promoting equity, inclusion and respect",Encourage enrolment of girls and women in non-traditional fields and promote gender-neutral career guidance.,Active,CFValue
+CFV_SDG05_TVET_005,TVET,"Promoting equity, inclusion and respect",Acknowledge and challenge personal and institutional biases that impact gender equity.,Active,CFValue
+CFV_SDG05_TVET_006,TVET,"Leadership, empowerment and accountability",Lead or contribute to initiatives that improve gender representation in technical sectors.,Active,CFValue
+CFV_SDG05_TVET_007,TVET,"Leadership, empowerment and accountability","Support peer mentoring, leadership training and advocacy networks for women in TVET and the workforce.",Active,CFValue
+CFV_SDG05_TVET_008,TVET,"Leadership, empowerment and accountability",Encourage inclusive leadership practices and fair decision-making processes in educational and workplace settings.,Active,CFValue
+CFV_SDG05_TVET_009,TVET,"Leadership, empowerment and accountability",Take personal responsibility for addressing gender-based discrimination and supporting those affected.,Active,CFValue
+CFV_SDG05_TVET_010,TVET,"Leadership, empowerment and accountability",Promote emotional literacy and supportive environments that allow all individuals to express themselves without fear of judgment.,Active,CFValue
+CFV_SDG05_TVET_011,TVET,"Awareness, advocacy and global citizenship","Stay informed about gender equality trends, laws and best practices in the workplace and education.",Active,CFValue
+CFV_SDG05_TVET_012,TVET,"Awareness, advocacy and global citizenship",Engage in dialogue and action that promote awareness of SDG5 and the importance of gender equality for sustainable development.,Active,CFValue
+CFV_SDG05_TVET_013,TVET,"Awareness, advocacy and global citizenship",Promote the value of diverse teams and inclusive workplaces as a foundation for innovation and growth.,Active,CFValue
+CFV_SDG05_TVET_014,TVET,"Awareness, advocacy and global citizenship","Be an active agent of change, advocating for gender equality policies in your institution, community or industry.",Active,CFValue
+CFV_SDG05_TVET_015,TVET,"Awareness, advocacy and global citizenship",Communicate the role of gender equality in achieving broader societal goals and speak out against inequality and discrimination.,Active,CFValue
+CFV_SDG05_TVET_016,TVET,Systemic change and sustainability,Champion reforms that remove systemic obstacles to gender equality in education and the labour market.,Active,CFValue
+CFV_SDG05_TVET_017,TVET,Systemic change and sustainability,"Collaborate with others to create scalable, sustainable solutions to gender inequality in technical and vocational sectors.",Active,CFValue
+CFV_SDG05_TVET_018,TVET,Systemic change and sustainability,"Recognise that gender equality is an evolving goal requiring continuous learning, reflection and adaptation.",Active,CFValue
+CFV_SDG05_TVET_019,TVET,Systemic change and sustainability,Navigate diversity effectively within potentially hostile environments.,Active,CFValue
+CFV_SDG05_TVET_020,TVET,Systemic change and sustainability,"Commit to equipping educators and learners with context-specific strategies to counter discrimination, harassment and gender-based hostility in professional and civic spaces.",Active,CFValue
+CFV_SDG05_TVET_021,TVET,Systemic change and sustainability,"Develop and apply approaches that address harmful masculinities and promote respectful, inclusive forms of identity and leadership.",Active,CFValue
+CFV_SDG05_TVET_022,TVET,Systemic change and sustainability,"Collaborate with various stakeholders, including educators, policymakers, employers and advocacy groups, to strengthen gender-responsive practices and ensure that gender equality is a core component of TVET systems.",Active,CFValue
+CFV_SDG05_TER_001,Tertiary education,"Equity, justice and empathy","Value gender equality as central to human rights, democracy and inclusive development.",Active,CFValue
+CFV_SDG05_TER_002,Tertiary education,"Equity, justice and empathy",Show empathy and allyship by recognising the lived experiences of those affected by gender-based exclusion and violence.,Active,CFValue
+CFV_SDG05_TER_003,Tertiary education,"Equity, justice and empathy","Commit to challenging patriarchal norms, sexism and discrimination in both academic and community settings.",Active,CFValue
+CFV_SDG05_TER_004,Tertiary education,Leadership and responsibility,"Take personal and professional responsibility for promoting inclusive, respectful learning and working environments.",Active,CFValue
+CFV_SDG05_TER_005,Tertiary education,Leadership and responsibility,"Demonstrate ethical leadership by advocating for gender-equitable policies, curricula and institutional reforms.",Active,CFValue
+CFV_SDG05_TER_006,Tertiary education,Leadership and responsibility,Encourage accountability within institutions for achieving gender equality commitments.,Active,CFValue
+CFV_SDG05_TER_007,Tertiary education,Intersectionality and inclusiveness,"Recognise and respond to the unique challenges faced by women and gender minorities at the intersection of race, class, disability and sexual orientation.",Active,CFValue
+CFV_SDG05_TER_008,Tertiary education,Intersectionality and inclusiveness,Value diversity and promote inclusive practices that respect the rights and dignity of all learners.,Active,CFValue
+CFV_SDG05_TER_009,Tertiary education,Global frameworks and standards,"Evaluate and apply international gender standards and frameworks (for example, CEDAW, SDG5) to local contexts, ensuring that educational policies are aligned with global commitments to gender equality.",Active,CFValue
+CFV_SDG05_TER_010,Tertiary education,Global frameworks and standards,"Analyse and apply solutions to overcome barriers to gender equality, including policy changes, community initiatives and international frameworks.",Active,CFValue
+CFV_SDG05_TER_011,Tertiary education,Global frameworks and standards,"Recognise the importance of creating and implementing strategies that encourage gender equality through education, lifelong learning and leadership.",Active,CFValue
+CFV_SDG05_TER_012,Tertiary education,Global frameworks and standards,"Emphasise the role of individuals in contributing to a more equitable and inclusive society through advocacy, education and direct action.",Active,CFValue
+CFV_SDG05_TER_013,Tertiary education,Advocacy and global citizenship,"Engage in advocacy, research and policy reform initiatives that contribute to SDG5.",Active,CFValue
+CFV_SDG05_TER_014,Tertiary education,Advocacy and global citizenship,"Advocate for and design programmes and policies that support marginalised girls and women, ensuring they have access to education and opportunities.",Active,CFValue
+CFV_SDG05_TER_015,Tertiary education,Advocacy and global citizenship,"Commit to developing gender-sensitive, culturally relevant pedagogy that meets the diverse needs of female learners, providing mentorship, role models and safe spaces for girls.",Active,CFValue
+CFV_SDG05_TER_016,Tertiary education,Advocacy and global citizenship,"Support the participation of men and boys in gender equality efforts, promoting shared responsibility and transformative masculinities.",Active,CFValue
+CFV_SDG05_TER_017,Tertiary education,Advocacy and global citizenship,Encourage men and boys to engage in discussions about the impact of patriarchal social relations and their role in challenging gender-based inequalities.,Active,CFValue
+CFV_SDG05_TER_018,Tertiary education,Advocacy and global citizenship,"Promote an understanding of intersectionality, recognising how gender inequality interacts with other forms of discrimination such as race, class, disability and individual identity.",Active,CFValue
+CFV_SDG05_TER_019,Tertiary education,Advocacy and global citizenship,"Internalise the idea that education can break cycles of poverty, violence and discrimination.",Active,CFValue
+CFV_SDG05_TER_020,Tertiary education,Advocacy and global citizenship,Cultivate the attitude that gender equality is not just a women’s issue but a shared societal responsibility. Encourage students to believe in the importance of involving men and boys in the fight for gender equality.,Active,CFValue
+CFV_SDG05_TER_021,Tertiary education,Advocacy and global citizenship,Promote inclusive communication that challenges stereotypes and uplifts marginalised voices.,Active,CFValue
+CFV_SDG05_TER_022,Tertiary education,Advocacy and global citizenship,"Stay informed and responsive to global gender equality trends, data and frameworks.",Active,CFValue
+CFV_SDG05_TER_023,Tertiary education,Transformative change and accountability,Believe in education as a transformative tool to dismantle cycles of discrimination and empower all genders.,Active,CFValue
+CFV_SDG05_TER_024,Tertiary education,Transformative change and accountability,Embrace lifelong learning and reflection to evolve strategies that advance gender equality.,Active,CFValue
+CFV_SDG05_TER_025,Tertiary education,Transformative change and accountability,"Cultivate a personal commitment to building just, inclusive and equitable academic and professional spaces.",Active,CFValue
+CFV_SDG05_ADULT_001,Adult education,"Equity, justice and empathy","Value gender equality as central to human rights, democracy and inclusive development.",Active,CFValue
+CFV_SDG05_ADULT_002,Adult education,"Equity, justice and empathy",Show empathy and allyship by recognising the lived experiences of those affected by gender-based exclusion and violence.,Active,CFValue
+CFV_SDG05_ADULT_003,Adult education,"Equity, justice and empathy","Commit to challenging patriarchal norms, sexism and discrimination in both academic and community settings.",Active,CFValue
+CFV_SDG05_ADULT_004,Adult education,Leadership and responsibility,"Take personal and professional responsibility for promoting inclusive, respectful learning and working environments.",Active,CFValue
+CFV_SDG05_ADULT_005,Adult education,Leadership and responsibility,"Demonstrate ethical leadership by advocating for gender-equitable policies, curricula and institutional reforms.",Active,CFValue
+CFV_SDG05_ADULT_006,Adult education,Leadership and responsibility,Monitor accountability within institutions for achieving gender equality commitments.,Active,CFValue
+CFV_SDG05_ADULT_007,Adult education,Intersectionality and inclusiveness,"Recognise and respond to the unique challenges faced by women and gender minorities at the intersection of race, class, disability and sexual orientation.",Active,CFValue
+CFV_SDG05_ADULT_008,Adult education,Intersectionality and inclusiveness,Value diversity and promote inclusive practices that respect the rights and dignity of all learners.,Active,CFValue
+CFV_SDG05_ADULT_009,Adult education,Intersectionality and inclusiveness,Promote education and leadership pathways that reflect intersectional and community-based perspectives.,Active,CFValue
+CFV_SDG05_ADULT_010,Adult education,Advocacy and global citizenship,"Engage in advocacy, research and policy reform initiatives that contribute to SDG5.",Active,CFValue
+CFV_SDG05_ADULT_011,Adult education,Advocacy and global citizenship,"Support the participation of men and boys in gender equality efforts, promoting shared responsibility and transformative masculinities.",Active,CFValue
+CFV_SDG05_ADULT_012,Adult education,Advocacy and global citizenship,Promote inclusive communication that challenges stereotypes and uplifts marginalised voices.,Active,CFValue
+CFV_SDG05_ADULT_013,Adult education,Advocacy and global citizenship,"Stay informed and responsive to global gender equality trends, data and frameworks.",Active,CFValue
+CFV_SDG05_ADULT_014,Adult education,Transformative change and accountability,Believe in education as a transformative tool to dismantle cycles of discrimination and empower all genders.,Active,CFValue
+CFV_SDG05_ADULT_015,Adult education,Transformative change and accountability,Embrace lifelong learning and reflection to evolve strategies that advance gender equality.,Active,CFValue
+CFV_SDG05_ADULT_016,Adult education,Transformative change and accountability,"Cultivate a personal commitment to building just, inclusive and equitable academic and professional spaces.",Active,CFValue
+CFV_SDG05_ADULT_017,Adult education,Transformative change and accountability,Value lifelong learning and financial independence in promoting gender equality.,Active,CFValue
+CFV_SDG05_ADULT_018,Adult education,"Community engagement, monitoring and gender mainstreaming",Commitment to promoting gender equality as a shared community responsibility.,Active,CFValue
+CFV_SDG05_ADULT_019,Adult education,"Community engagement, monitoring and gender mainstreaming","Appreciation of inclusive community spaces where women and marginalised groups can voice concerns, share experiences and support one another.",Active,CFValue
+CFV_SDG05_ADULT_020,Adult education,"Community engagement, monitoring and gender mainstreaming",Respect for transparency and accountability in monitoring gender progress and learning from both successes and challenges.,Active,CFValue
+CFV_SDG05_ADULT_021,Adult education,"Community engagement, monitoring and gender mainstreaming","Belief in continuous improvement through reflection, feedback and collective action toward gender justice.",Active,CFValue
+CFV_SDG06_SEC_001,Secondary education,Personal responsibility in water use,Encourage a sense of individual responsibility by helping students understand their direct and indirect water use and how it affects local and global water resources.,Active,CFValue
+CFV_SDG06_SEC_002,Secondary education,Personal responsibility in water use,"Encourage conscious daily decisions to reduce personal water footprints – turning off taps, reusing water, choosing low-water-consumption products, and managing online activity responsibly (for example, limiting unnecessary screen time due to digital water costs).",Active,CFValue
+CFV_SDG06_SEC_003,Secondary education,"Appreciation of water as a shared, finite resource","Learn to appreciate water’s scarcity in many regions and the ethical importance of preserving water reserves, particularly under conditions of drought, food insecurity and urban expansion.",Active,CFValue
+CFV_SDG06_SEC_004,Secondary education,"Appreciation of water as a shared, finite resource","Encourage empathy with communities facing water challenges, reinforcing the idea that water access is a human right and a global justice issue.",Active,CFValue
+CFV_SDG06_SEC_005,Secondary education,Understanding the water footprint,"Develop a mindset that sees water not only as what flows from taps, but as embedded in the food we eat, clothes we wear and things we use – promoting conscious consumption.",Active,CFValue
+CFV_SDG06_SEC_006,Secondary education,Understanding the water footprint,"Motivate students to reduce footprints: act – changing diets, reducing waste and advocating for sustainable production – to shrink their own water footprint.",Active,CFValue
+CFV_SDG06_SEC_007,Secondary education,Protection of water quality for all life,"Emphasise the link between human behaviour and the wellbeing of aquatic life and ecosystems, nurturing a respect for water’s role in sustaining biodiversity.",Active,CFValue
+CFV_SDG06_SEC_008,Secondary education,Protection of water quality for all life,"Encourage active engagement in protecting water sources from pollution and degradation, encouraging participation in conservation activities like clean-ups or awareness campaigns.",Active,CFValue
+CFV_SDG06_SEC_009,Secondary education,Recognition of competing demands and need for equity,"Explore ethical decision-making: thoughtful consideration of how to balance competing demands for water – agriculture, industry, urban populations, wildlife – while prioritising equity and sustainability.",Active,CFValue
+CFV_SDG06_SEC_010,Secondary education,Recognition of competing demands and need for equity,Recognise that vulnerable communities often bear the greatest burden from poor water management or scarcity.,Active,CFValue
+CFV_SDG06_SEC_011,Secondary education,Water as interconnected with environment and society,"Appreciate that water systems are deeply connected to energy, food, ecosystems and human health – reinforcing a holistic, interdisciplinary perspective.",Active,CFValue
+CFV_SDG06_SEC_012,Secondary education,Water as interconnected with environment and society,"Understand informed decision-making: examine water challenges through environmental, technological, social and economic lenses, developing mature attitudes toward sustainable solutions.",Active,CFValue
+CFV_SDG06_SEC_013,Secondary education,Value for interdisciplinary and collective approaches,"Appreciate working across disciplines (for example, science, social studies, technology, arts) to co-create practical and inclusive water solutions.",Active,CFValue
+CFV_SDG06_SEC_014,Secondary education,Ethical computing and hidden water use,"Develop awareness of digital water costs: cultivate mindfulness that even virtual activities – like streaming, gaming or long screen use – consume water through energy use.",Active,CFValue
+CFV_SDG06_SEC_015,Secondary education,Ethical computing and hidden water use,"Encourage responsible digital use: powering down unused devices or tabs, as part of a broader ethos of sustainability.",Active,CFValue
+CFV_SDG06_SEC_016,Secondary education,Global citizenship and collective action,"Appreciate that responsible water use, and advocacy are part of global citizenship, where everyone’s actions contribute to systemic change.",Active,CFValue
+CFV_SDG06_SEC_017,Secondary education,Global citizenship and collective action,"Engage in a values-based belief that youth can influence water conservation, policy development and climate resilience in their communities and beyond.",Active,CFValue
+CFV_SDG06_SEC_018,Secondary education,"Link social, technological and scientific aspects","Connect ethical dilemmas to broader societal, technological and scientific issues surrounding water use.",Active,CFValue
+CFV_SDG06_SEC_019,Secondary education,"Link social, technological and scientific aspects","Engage in debates on water allocation policies, balancing human needs with environmental protection.",Active,CFValue
+CFV_SDG06_SEC_020,Secondary education,"Link social, technological and scientific aspects","Discuss issues like water rights, conservation efforts and industrial water use.",Active,CFValue
+CFV_SDG06_TVET_001,TVET,Responsibility and ethics,Take personal and professional responsibility for water conservation and infrastructure integrity.,Active,CFValue
+CFV_SDG06_TVET_002,TVET,Responsibility and ethics,Develop a commitment to environmental protection and responsible waste disposal.,Active,CFValue
+CFV_SDG06_TVET_003,TVET,Responsibility and ethics,Cultivate a sense of urgency and care in ensuring safe drinking water and sanitation for all.,Active,CFValue
+CFV_SDG06_TVET_004,TVET,Sustainability and stewardship,"Value water as a limited, shared and vital resource.",Active,CFValue
+CFV_SDG06_TVET_005,TVET,Sustainability and stewardship,Embrace a sustainability mindset in all technical and operational decisions.,Active,CFValue
+CFV_SDG06_TVET_006,TVET,Sustainability and stewardship,Promote the use of renewable energy and efficient systems in the water and sanitation sectors.,Active,CFValue
+CFV_SDG06_TVET_007,TVET,Professional contribution and leadership,Be motivated to make meaningful contributions to a more sustainable society through one’s trade.,Active,CFValue
+CFV_SDG06_TVET_008,TVET,Professional contribution and leadership,Demonstrate leadership in keeping hygiene and sustainability practices in workplaces.,Active,CFValue
+CFV_SDG06_TVET_009,TVET,Professional contribution and leadership,Advocate for environmentally sound business practices within the water and sanitation industry.,Active,CFValue
+CFV_SDG06_TVET_010,TVET,Innovation and lifelong learning,Stay informed about emerging technologies and practices in water management.,Active,CFValue
+CFV_SDG06_TVET_011,TVET,Innovation and lifelong learning,Appreciate the interdisciplinary nature of water challenges and solutions.,Active,CFValue
+CFV_SDG06_TVET_012,TVET,Innovation and lifelong learning,Engage with continuous professional development and technological updates.,Active,CFValue
+CFV_SDG06_TVET_013,TVET,Equity and social good,Recognise the role of skilled workers in ensuring water justice and reducing water inequality.,Active,CFValue
+CFV_SDG06_TVET_014,TVET,Equity and social good,"Support inclusive access to clean water and sanitation in all settings – rural, urban, public and private.",Active,CFValue
+CFV_SDG06_TVET_015,TVET,Equity and social good,Encourage community participation and empowerment in water management initiatives.,Active,CFValue
+CFV_SDG06_TVET_016,TVET,Crisis response and problem solving,"Respond effectively to emergencies such as pipe bursts, contamination or system failure.",Active,CFValue
+CFV_SDG06_TVET_017,TVET,Crisis response and problem solving,Propose context-specific solutions to water access and sanitation challenges.,Active,CFValue
+CFV_SDG06_TER_001,Tertiary education,Ethical and environmental responsibility,"Value water and sanitation as fundamental human rights, with a strong ethical stance against exclusion and inequity in access.",Active,CFValue
+CFV_SDG06_TER_002,Tertiary education,Ethical and environmental responsibility,"Commit to reducing ecological footprints by promoting environmentally responsible behaviours in water use, energy management, waste reduction and emissions control.",Active,CFValue
+CFV_SDG06_TER_003,Tertiary education,Ethical and environmental responsibility,"Respect freshwater ecosystems as essential for biodiversity, climate resilience and intergenerational sustainability.",Active,CFValue
+CFV_SDG06_TER_004,Tertiary education,Social commitment and professional integrity,"Demonstrate professional responsibility in keeping high standards of water and wastewater infrastructure, ensuring safety, reliability and environmental compliance.",Active,CFValue
+CFV_SDG06_TER_005,Tertiary education,Social commitment and professional integrity,"Actively contribute to societal transformation by applying knowledge to address water insecurity and sanitation challenges, particularly for vulnerable populations.",Active,CFValue
+CFV_SDG06_TER_006,Tertiary education,Social commitment and professional integrity,Support governments and communities in building capacity to reduce the risks of water-related conflict and improve governance and peacebuilding.,Active,CFValue
+CFV_SDG06_TER_007,Tertiary education,Equity and justice orientation,"Cultivate a solution-minded and justice-oriented approach to managing competing water demands across agriculture, industry, domestic use and ecosystems.",Active,CFValue
+CFV_SDG06_TER_008,Tertiary education,Equity and justice orientation,"Promote awareness and advocacy on the global water crisis, and the need for equitable water governance rooted in local realities and global co-operation.",Active,CFValue
+CFV_SDG06_TER_009,Tertiary education,Equity and justice orientation,"Recognise and address inequalities in water access and exposure to water-related risks, particularly in marginalised or underserved communities. Sustainability and innovation mindset",Active,CFValue
+CFV_SDG06_TER_010,Tertiary education,Equity and justice orientation,"Embrace a sustainability ethos that prioritises innovation in water efficiency, circular economy practices and ecosystem restoration.",Active,CFValue
+CFV_SDG06_TER_011,Tertiary education,Equity and justice orientation,"Show readiness to scale up sustainable solutions through creativity, entrepreneurship and the generation of decent, green jobs.",Active,CFValue
+CFV_SDG06_TER_012,Tertiary education,Equity and justice orientation,"Commit to responsible water use and effluent reduction across the personal, institutional and professional spheres.",Active,CFValue
+CFV_SDG06_TER_013,Tertiary education,Systems thinking and collaboration,"Adopt a holistic and integrated understanding of water challenges, recognising links with health, food, energy, climate, economy and peace.",Active,CFValue
+CFV_SDG06_TER_014,Tertiary education,Systems thinking and collaboration,"Promote interdisciplinary and transdisciplinary collaboration, recognising that effective water solutions emerge from co-operation across science, policy and community practice.",Active,CFValue
+CFV_SDG06_TER_015,Tertiary education,Systems thinking and collaboration,"Engage in responsible decision-making that balances scientific evidence, ethical considerations and socio-political realities in water-related issues.",Active,CFValue
+CFV_SDG06_TER_016,Tertiary education,Leadership and advocacy,"Develop as ethical leaders and advocates for water justice, conservation and sustainable development at the local, national and global levels.",Active,CFValue
+CFV_SDG06_TER_017,Tertiary education,Leadership and advocacy,Actively participate in shaping policy and planning processes that prioritise sustainable and inclusive water and sanitation infrastructure.,Active,CFValue
+CFV_SDG06_TER_018,Tertiary education,Leadership and advocacy,"Promote community engagement and behaviour change, using knowledge and tools to shift public attitudes and support sustainable water practices.",Active,CFValue
+CFV_SDG06_ADULT_001,Adult education,Environmental stewardship and sustainability,Appreciate the intrinsic value of water and cultivate a deep respect for the health of watersheds and local water bodies.,Active,CFValue
+CFV_SDG06_ADULT_002,Adult education,Environmental stewardship and sustainability,Express a sense of responsibility and stewardship towards protecting clean water sources and improving sanitation facilities.,Active,CFValue
+CFV_SDG06_ADULT_003,Adult education,Environmental stewardship and sustainability,"Encourage self-reflection on individual and collective roles in water usage, conservation and the promotion of sustainable practices.",Active,CFValue
+CFV_SDG06_ADULT_004,Adult education,Environmental stewardship and sustainability,"Promote values of environmental care, ensuring water and soil practices contribute to ecological balance and resilience.",Active,CFValue
+CFV_SDG06_ADULT_005,Adult education,Community engagement and collective action,"Support active community participation in managing water sustainably, recognising the importance of local co-operation and shared responsibility.",Active,CFValue
+CFV_SDG06_ADULT_006,Adult education,Community engagement and collective action,"Cultivate a community-oriented mindset and collective action to conserve water, maintain hygiene standards and manage shared resources.",Active,CFValue
+CFV_SDG06_ADULT_007,Adult education,Community engagement and collective action,"Encourage conflict resolution skills around shared water sources, encouraging co-operation, mutual respect and shared benefit.",Active,CFValue
+CFV_SDG06_ADULT_008,Adult education,Community engagement and collective action,"Promote resilience-building attitudes, particularly in communities vulnerable to climate change, by valuing long-term water security.",Active,CFValue
+CFV_SDG06_ADULT_009,Adult education,Community engagement and collective action,Support community-based innovations that link water sustainability with economic empowerment and environmental stewardship.,Active,CFValue
+CFV_SDG06_ADULT_010,Adult education,"Equity, inclusion and social justice","Promote the principle of water as a human right, ensuring inclusive access to clean water and sanitation for all, especially vulnerable populations.",Active,CFValue
+CFV_SDG06_ADULT_011,Adult education,"Equity, inclusion and social justice","Value the role of women, indigenous peoples and tribal communities in water management and decision-making.",Active,CFValue
+CFV_SDG06_ADULT_012,Adult education,"Equity, inclusion and social justice","Support social equity by advocating for fair access, encouraging participation, and reducing disparities in water availability and quality.",Active,CFValue
+CFV_SDG06_ADULT_013,Adult education,"Equity, inclusion and social justice","Strengthen civil society engagement, embracing transparency, accountability and inclusive governance through community oversight and digital tools.",Active,CFValue
+CFV_SDG06_ADULT_014,Adult education,Cultural wisdom and local knowledge,Leverage and respect local knowledge and traditional ecological practices in water conservation and management.,Active,CFValue
+CFV_SDG06_ADULT_015,Adult education,Cultural wisdom and local knowledge,"Value and honour indigenous approaches to water, recognising their contributions to sustainable and culturally rooted water stewardship.",Active,CFValue
+CFV_SDG06_ADULT_016,Adult education,Cultural wisdom and local knowledge,"Encourage innovation and resourcefulness, especially in using local, affordable materials for developing water and sanitation infrastructure.",Active,CFValue
+CFV_SDG06_ADULT_017,Adult education,"Health, hygiene and human dignity","Promote a strong ethic of care for public health, grounded in the importance of clean water and sanitation for disease prevention and wellbeing.",Active,CFValue
+CFV_SDG06_ADULT_018,Adult education,"Health, hygiene and human dignity","Encourage an initiative-taking attitude in supporting hygiene awareness, household water treatment and behavioural change across communities.",Active,CFValue
+CFV_SDG06_ADULT_019,Adult education,"Health, hygiene and human dignity","Instil a sense of mutual support, where communities collaborate and uplift one another in efforts to manage water effectively and equitably.",Active,CFValue
+CFV_SDG07_SEC_001,Secondary education,Responsibility and environmental stewardship,Acknowledge the human role in climate change and commit to personal accountability in energy use.,Active,CFValue
+CFV_SDG07_SEC_002,Secondary education,Responsibility and environmental stewardship,Promote conscious decision-making that reduces reliance on non-renewable energy sources.,Active,CFValue
+CFV_SDG07_SEC_003,Secondary education,Equity and empathy,Develop empathy toward communities without reliable energy access.,Active,CFValue
+CFV_SDG07_SEC_004,Secondary education,Equity and empathy,"Advocate for universal access to clean, safe and affordable energy.",Active,CFValue
+CFV_SDG07_SEC_005,Secondary education,Ethical awareness,Reflect on implications of energy systems – in terms of environmental degradation and their impacts on marginalised groups and future generations.,Active,CFValue
+CFV_SDG07_SEC_006,Secondary education,Ethical awareness,Embrace energy justice as a core component of sustainable development.,Active,CFValue
+CFV_SDG07_SEC_007,Secondary education,Commitment to action,"Personal pledges to reduce electricity use, travel emissions and unnecessary consumption.",Active,CFValue
+CFV_SDG07_SEC_008,Secondary education,Commitment to action,Inspire others through school-based campaigns or digital media projects on clean energy awareness.,Active,CFValue
+CFV_SDG07_SEC_009,Secondary education,Curiosity and innovation,Stay open to exploring innovative technologies and creative solutions to energy challenges.,Active,CFValue
+CFV_SDG07_SEC_010,Secondary education,Curiosity and innovation,Value learning from local and indigenous knowledge systems in promoting sustainable energy use.,Active,CFValue
+CFV_SDG07_SEC_011,Secondary education,Collaboration and leadership,Promote teamwork and shared responsibility in energy-saving initiatives.,Active,CFValue
+CFV_SDG07_SEC_012,Secondary education,Collaboration and leadership,Take leadership roles in educating others and modelling energy-conscious behaviours.,Active,CFValue
+CFV_SDG07_TVET_001,TVET,Professional ethics and accountability,"Embrace ethical responsibility in energy production and consumption, with accountability for environmental, health and social impacts.",Active,CFValue
+CFV_SDG07_TVET_002,TVET,Professional ethics and accountability,Recognise the long-term consequences of technical decisions and prioritise sustainability in professional practice.,Active,CFValue
+CFV_SDG07_TVET_003,TVET,Commitment to sustainability,Value renewable energy as a key driver for sustainable development and climate resilience.,Active,CFValue
+CFV_SDG07_TVET_004,TVET,Commitment to sustainability,Support environmentally responsible practices in both work environments and communities.,Active,CFValue
+CFV_SDG07_TVET_005,TVET,Equity and empathy,"Advocate for fair and equitable energy access, especially for marginalised, remote and displaced populations.",Active,CFValue
+CFV_SDG07_TVET_006,TVET,Equity and empathy,Promote energy justice and address disparities in energy availability and affordability.,Active,CFValue
+CFV_SDG07_TVET_007,TVET,Innovation and curiosity,"Stay informed and open to emerging technologies, methods and best practices in the energy sector.",Active,CFValue
+CFV_SDG07_TVET_008,TVET,Innovation and curiosity,Engage in lifelong learning and continuous improvement to meet evolving sustainability challenges.,Active,CFValue
+CFV_SDG07_TVET_009,TVET,Collaboration and leadership,Value teamwork across disciplines to solve energy problems and implement clean energy solutions.,Active,CFValue
+CFV_SDG07_TVET_010,TVET,Collaboration and leadership,Show leadership in green energy initiatives and cultivate collaboration within and beyond the workplace.,Active,CFValue
+CFV_SDG07_TVET_011,TVET,Global awareness and advocacy,Recognise the global dimension of energy challenges and advocate for clean energy as a human right and development priority.,Active,CFValue
+CFV_SDG07_TVET_012,TVET,Global awareness and advocacy,Participate in discussions and campaigns that support climate action and clean energy transitions.,Active,CFValue
+CFV_SDG07_TER_001,Tertiary education,Ethical and justice-oriented mindset,"Cultivate an ethical perspective on energy systems, acknowledging the historical and current injustices affecting indigenous, marginalised and vulnerable populations.",Active,CFValue
+CFV_SDG07_TER_002,Tertiary education,Ethical and justice-oriented mindset,"Promote energy transitions that uphold human rights, environmental integrity and intergenerational justice.",Active,CFValue
+CFV_SDG07_TER_003,Tertiary education,Global citizenship and advocacy,Advocate for clean and equitable energy access as a global public good and a development imperative.,Active,CFValue
+CFV_SDG07_TER_004,Tertiary education,Global citizenship and advocacy,Actively support and influence policy and cultural shifts towards sustainable energy practices.,Active,CFValue
+CFV_SDG07_TER_005,Tertiary education,Leadership and initiative,"Take initiative in driving green innovation and energy reform across academic, professional and community settings.",Active,CFValue
+CFV_SDG07_TER_006,Tertiary education,Leadership and initiative,Lead interdisciplinary teams and collaborative efforts to solve complex energy challenges.,Active,CFValue
+CFV_SDG07_TER_007,Tertiary education,Commitment to lifelong learning,"Stay updated on emerging energy technologies, global energy trends and evolving policy landscapes.",Active,CFValue
+CFV_SDG07_TER_008,Tertiary education,Commitment to lifelong learning,Embrace continuous learning as a professional and civic responsibility in the face of climate and energy crises.,Active,CFValue
+CFV_SDG07_TER_009,Tertiary education,Collaboration and collective action,"Value co-operation, co-creation and co-design with multiple stakeholders, recognising the interconnected nature of energy systems.",Active,CFValue
+CFV_SDG07_TER_010,Tertiary education,Collaboration and collective action,Engage in participatory research and community engagement to support locally relevant solutions.,Active,CFValue
+CFV_SDG07_TER_011,Tertiary education,Effective communication and outreach,Communicate complex concepts and research findings clearly and responsibly to influence public discourse and decision-making.,Active,CFValue
+CFV_SDG07_TER_012,Tertiary education,Effective communication and outreach,"Translate academic insights into practical recommendations for policy, practice and innovation.",Active,CFValue
+CFV_SDG07_ADULT_001,Adult education,Environmental stewardship,Recognise the importance of energy conservation in protecting natural resources and supporting climate resilience.,Active,CFValue
+CFV_SDG07_ADULT_002,Adult education,Environmental stewardship,Embrace personal and shared responsibility for reducing energy waste and promoting sustainability.,Active,CFValue
+CFV_SDG07_ADULT_003,Adult education,Empowerment and community responsibility,Develop the confidence to initiate change and motivate others toward sustainable energy practices.,Active,CFValue
+CFV_SDG07_ADULT_004,Adult education,Empowerment and community responsibility,Value collective action to improve living conditions through clean energy access.,Active,CFValue
+CFV_SDG07_ADULT_005,Adult education,Equity and justice,"Advocate for fair access to energy services, especially in underserved or remote areas.",Active,CFValue
+CFV_SDG07_ADULT_006,Adult education,Equity and justice,Support inclusion and recognise the role of energy in reducing poverty and improving health and education.,Active,CFValue
+CFV_SDG07_ADULT_007,Adult education,Adaptability and lifelong learning,Stay open to new energy-saving ideas and clean energy technologies.,Active,CFValue
+CFV_SDG07_ADULT_008,Adult education,Adaptability and lifelong learning,Commit to ongoing learning to keep up with changing needs and local opportunities.,Active,CFValue
+CFV_SDG07_ADULT_009,Adult education,Civic engagement and advocacy,Encourage participation in decision-making about local energy plans and policies.,Active,CFValue
+CFV_SDG07_ADULT_010,Adult education,Civic engagement and advocacy,"Lead or support campaigns that promote renewable energy, energy justice and sustainable living.",Active,CFValue
+CFV_SDG07_ADULT_011,Adult education,Innovation and future thinking,Value innovation and encourage creative local solutions to energy challenges.,Active,CFValue
+CFV_SDG07_ADULT_012,Adult education,Innovation and future thinking,"Promote the role of young people, women and elders in creating and sustaining clean energy initiatives.",Active,CFValue
+CFV_SDG08_SEC_001,Secondary education,Commitment to lifelong learning and self-improvement,Develop a growth mindset and recognise the importance of learning beyond school.,Active,CFValue
+CFV_SDG08_SEC_002,Secondary education,Commitment to lifelong learning and self-improvement,Set personal goals that include learning and career aspirations.,Active,CFValue
+CFV_SDG08_SEC_003,Secondary education,Commitment to lifelong learning and self-improvement,Support and learn with peers to build confidence and shared progress.,Active,CFValue
+CFV_SDG08_SEC_004,Secondary education,Resilience in the face of change and economic challenges,Approach career exploration and new opportunities with adaptability and optimism.,Active,CFValue
+CFV_SDG08_SEC_005,Secondary education,Resilience in the face of change and economic challenges,"Build responsible habits around money, savings and planning for the future.",Active,CFValue
+CFV_SDG08_SEC_006,Secondary education,Resilience in the face of change and economic challenges,Draw strength from real-life examples of individuals who have overcome economic difficulties.,Active,CFValue
+CFV_SDG08_SEC_007,Secondary education,Sense of responsibility for community wellbeing,Understand the value of social enterprises and co-operative initiatives.,Active,CFValue
+CFV_SDG08_SEC_008,Secondary education,Sense of responsibility for community wellbeing,Participate in local service projects that support economic inclusion.,Active,CFValue
+CFV_SDG08_SEC_009,Secondary education,Sense of responsibility for community wellbeing,Learn from mentors and role models who contribute positively to their communities.,Active,CFValue
+CFV_SDG08_SEC_010,Secondary education,Awareness of sustainable and inclusive economic choices,Demonstrate care for the environment and fairness in everyday economic decisions.,Active,CFValue
+CFV_SDG08_SEC_011,Secondary education,Awareness of sustainable and inclusive economic choices,Engage in discussions about ethical consumption and responsible work practices.,Active,CFValue
+CFV_SDG08_SEC_012,Secondary education,Awareness of sustainable and inclusive economic choices,Act in support of fair wages and decent work in local and global contexts.,Active,CFValue
+CFV_SDG08_SEC_013,Secondary education,Appreciation of diversity and commitment to social inclusion,"Value diverse backgrounds, abilities and identities in school and work settings.",Active,CFValue
+CFV_SDG08_SEC_014,Secondary education,Appreciation of diversity and commitment to social inclusion,Stand up against bias and promote equal opportunities for all.,Active,CFValue
+CFV_SDG08_SEC_015,Secondary education,Appreciation of diversity and commitment to social inclusion,Listen to and share stories that reflect diverse experiences and resilience.,Active,CFValue
+CFV_SDG08_SEC_016,Secondary education,"Recognition of unpaid work and time inequality, especially for women","Understand how unpaid care work impacts time, education and career choices.",Active,CFValue
+CFV_SDG08_SEC_017,Secondary education,"Recognition of unpaid work and time inequality, especially for women",Support shared responsibilities in home and school life.,Active,CFValue
+CFV_SDG08_SEC_018,Secondary education,"Recognition of unpaid work and time inequality, especially for women",Advocate for greater recognition of the value of caregiving and domestic work.,Active,CFValue
+CFV_SDG08_SEC_019,Secondary education,Belief in civic voice and participatory decision-making,Gain confidence to express concerns and influence decisions affecting their lives.,Active,CFValue
+CFV_SDG08_SEC_020,Secondary education,Belief in civic voice and participatory decision-making,Practise respectful public speaking and collaborative problem solving.,Active,CFValue
+CFV_SDG08_SEC_021,Secondary education,Belief in civic voice and participatory decision-making,Participate in youth forums and school councils to promote change.,Active,CFValue
+CFV_SDG08_SEC_022,Secondary education,Commitment to gender equality and fair opportunities for all,"Respect everyone’s right to learn, lead and work without discrimination.",Active,CFValue
+CFV_SDG08_SEC_023,Secondary education,Commitment to gender equality and fair opportunities for all,Promote equal opportunities for girls and boys in education and future careers.,Active,CFValue
+CFV_SDG08_SEC_024,Secondary education,Commitment to gender equality and fair opportunities for all,Support initiatives that empower young women and marginalised groups.,Active,CFValue
+CFV_SDG08_TVET_001,TVET,Professionalism and work ethic,"Value punctuality, collaboration and integrity in all professional settings.",Active,CFValue
+CFV_SDG08_TVET_002,TVET,Professionalism and work ethic,"Respect workplace ethics, responsibilities and the rights of all workers.",Active,CFValue
+CFV_SDG08_TVET_003,TVET,Commitment to quality and innovation,Take pride in continuous improvement and technical excellence.,Active,CFValue
+CFV_SDG08_TVET_004,TVET,Commitment to quality and innovation,Embrace creativity and innovation as tools for progress and social good.,Active,CFValue
+CFV_SDG08_TVET_005,TVET,Commitment to quality and innovation,Uphold high standards across all forms of work and craftsmanship.,Active,CFValue
+CFV_SDG08_TVET_006,TVET,Environmental and social responsibility,Commit to sustainability and care for the environment in work practices.,Active,CFValue
+CFV_SDG08_TVET_007,TVET,Environmental and social responsibility,Support ethical labour and social justice as part of responsible citizenship.,Active,CFValue
+CFV_SDG08_TVET_008,TVET,Environmental and social responsibility,Value collective action to promote fair and equitable working conditions.,Active,CFValue
+CFV_SDG08_TVET_009,TVET,Lifelong learning and adaptability,"Maintain a positive attitude toward learning, flexibility and self-improvement.",Active,CFValue
+CFV_SDG08_TVET_010,TVET,Lifelong learning and adaptability,Recognise the need to adapt to evolving labour markets and technologies.,Active,CFValue
+CFV_SDG08_TVET_011,TVET,Opposition to exploitation,Condemn forced labour and human trafficking in all forms.,Active,CFValue
+CFV_SDG08_TVET_012,TVET,Opposition to exploitation,Advocate for the dignity and protection of vulnerable workers.,Active,CFValue
+CFV_SDG08_TVET_013,TVET,Resilience and wellbeing,Appreciate emotional resilience and wellbeing as key to success.,Active,CFValue
+CFV_SDG08_TVET_014,TVET,Resilience and wellbeing,Value preparedness and financial responsibility in managing adversity.,Active,CFValue
+CFV_SDG08_TVET_015,TVET,"Health, safety and workplace wellbeing","Commit to creating and maintaining safe, healthy work environments.",Active,CFValue
+CFV_SDG08_TVET_016,TVET,"Health, safety and workplace wellbeing",Respect the importance of both physical and mental health at work.,Active,CFValue
+CFV_SDG08_TVET_017,TVET,Entrepreneurial mindset,"Value initiative, responsibility and innovation in enterprise.",Active,CFValue
+CFV_SDG08_TVET_018,TVET,Entrepreneurial mindset,See entrepreneurship as a pathway to empowerment and problem solving.,Active,CFValue
+CFV_SDG08_TVET_019,TVET,Fair and just work conditions,"Support decent work, fair treatment and protection of labour rights.",Active,CFValue
+CFV_SDG08_TVET_020,TVET,Fair and just work conditions,Recognise the role of legal frameworks and collective voice in safeguarding workers.,Active,CFValue
+CFV_SDG08_TVET_021,TVET,Gender equality in the workforce,Believe in equal opportunities and representation for all genders.,Active,CFValue
+CFV_SDG08_TVET_022,TVET,Challenge discrimination and stereotypes in employment. Agency and social contribution,Recognise your capacity to improve workplaces and communities.,Active,CFValue
+CFV_SDG08_TVET_023,TVET,Challenge discrimination and stereotypes in employment. Agency and social contribution,"Take responsibility for promoting equity, inclusion and shared progress.",Active,CFValue
+CFV_SDG08_TVET_024,TVET,Solidarity with marginalised groups,Uphold the rights and dignity of excluded or disadvantaged workers.,Active,CFValue
+CFV_SDG08_TVET_025,TVET,Solidarity with marginalised groups,Advocate for inclusive policies that amplify under-represented voices.,Active,CFValue
+CFV_SDG08_TVET_026,TVET,Recognition of rural women’s work,"Value the contributions of rural women as workers, farmers and leaders.",Active,CFValue
+CFV_SDG08_TVET_027,TVET,Recognition of rural women’s work,Support gender-responsive development in agriculture and rural economies.,Active,CFValue
+CFV_SDG08_TVET_028,TVET,Inclusive and gender-responsive TVET and enterprise development,"Ensure TVET systems and business training are accessible to women, youth and marginalised groups, with a focus on promoting equity in skills development.",Active,CFValue
+CFV_SDG08_TVET_029,TVET,Inclusive and gender-responsive TVET and enterprise development,"Address gender disparities in vocational education and workforce participation, encouraging more women to enter non-traditional industries.",Active,CFValue
+CFV_SDG08_TVET_030,TVET,Inclusive and gender-responsive TVET and enterprise development,Promote initiatives to support inclusivity and gender-responsive enterprise development.,Active,CFValue
+CFV_SDG08_TVET_031,TVET,Local leadership to improve services,"Enhanced leadership skills for local community-based economic development, focusing on sustainable practices and improving service delivery.",Active,CFValue
+CFV_SDG08_TVET_032,TVET,Local leadership to improve services,"Strengthen local governance and service delivery through knowledge sharing, participatory decision-making and best practices for community resilience.",Active,CFValue
+CFV_SDG08_TVET_033,TVET,Local leadership to improve services,"Encourage local leaders to support inclusive growth through effective economic planning and responding to emerging challenges, including the transition to a green economy.",Active,CFValue
+CFV_SDG08_TER_001,Tertiary education,Commitment to equity and inclusion in labour systems,Value fairness and justice as core principles in shaping labour laws and policies.,Active,CFValue
+CFV_SDG08_TER_002,Tertiary education,Commitment to equity and inclusion in labour systems,"Believe in the right of all individuals to decent work, regardless of background or identity.",Active,CFValue
+CFV_SDG08_TER_003,Tertiary education,Commitment to equity and inclusion in labour systems,Show empathy and solidarity with those facing discrimination or exclusion in the workforce.,Active,CFValue
+CFV_SDG08_TER_004,Tertiary education,Ethical responsibility in economic choices,"Uphold integrity, transparency and accountability in economic decisions.",Active,CFValue
+CFV_SDG08_TER_005,Tertiary education,Ethical responsibility in economic choices,Recognise the moral implications of financial practices on people and the planet.,Active,CFValue
+CFV_SDG08_TER_006,Tertiary education,Ethical responsibility in economic choices,Show a strong personal commitment to fairness in business and investment.,Active,CFValue
+CFV_SDG08_TER_007,Tertiary education,Belief in gender equality and economic justice,Value gender equity as essential to a just and prosperous society.,Active,CFValue
+CFV_SDG08_TER_008,Tertiary education,Belief in gender equality and economic justice,Believe in dismantling structural barriers to women’s full economic participation.,Active,CFValue
+CFV_SDG08_TER_009,Tertiary education,Belief in gender equality and economic justice,Respect the dignity of every worker and reject all forms of economic marginalisation.,Active,CFValue
+CFV_SDG08_TER_010,Tertiary education,Appreciation of innovation for sustainability,"Value innovation not only for profit, but for environmental and social good.",Active,CFValue
+CFV_SDG08_TER_011,Tertiary education,Appreciation of innovation for sustainability,Believe that economic growth should be pursued with ecological integrity.,Active,CFValue
+CFV_SDG08_TER_012,Tertiary education,Appreciation of innovation for sustainability,"Show openness to new, inclusive and sustainable ways of thinking and working.",Active,CFValue
+CFV_SDG08_TER_013,Tertiary education,Responsibility for shaping a just economic future,"Feel a deep sense of responsibility for contributing to fairer, more resilient economies.",Active,CFValue
+CFV_SDG08_TER_014,Tertiary education,Responsibility for shaping a just economic future,Believe that young people have a role in reimagining economic systems.,Active,CFValue
+CFV_SDG08_TER_015,Tertiary education,Responsibility for shaping a just economic future,Value collective wellbeing over individual gain.,Active,CFValue
+CFV_SDG08_TER_016,Tertiary education,Global solidarity and citizenship,Embrace interdependence and shared responsibility across nations and peoples.,Active,CFValue
+CFV_SDG08_TER_017,Tertiary education,Global solidarity and citizenship,"Respect diverse cultures, practices and voices in addressing global challenges.",Active,CFValue
+CFV_SDG08_TER_018,Tertiary education,Global solidarity and citizenship,"Feel motivated to act in ways that support justice, peace and sustainability worldwide.",Active,CFValue
+CFV_SDG08_TER_019,Tertiary education,Active engagement in civic and economic life,Believe in the power of civic participation to drive systemic change.,Active,CFValue
+CFV_SDG08_TER_020,Tertiary education,Active engagement in civic and economic life,Value inclusive governance and the role of citizens in shaping public policy.,Active,CFValue
+CFV_SDG08_TER_021,Tertiary education,Active engagement in civic and economic life,Show a commitment to community engagement and public dialogue.,Active,CFValue
+CFV_SDG08_TER_022,Tertiary education,Resilience and a positive outlook,Demonstrate inner strength and perseverance in the face of hardship.,Active,CFValue
+CFV_SDG08_TER_023,Tertiary education,Resilience and a positive outlook,Value personal growth through adversity and continuous self-improvement.,Active,CFValue
+CFV_SDG08_TER_024,Tertiary education,Resilience and a positive outlook,"Cultivate optimism, adaptability and hope for the future.",Active,CFValue
+CFV_SDG08_TER_025,Tertiary education,Respect for collaboration and shared learning,Appreciate the value of teamwork and diverse perspectives.,Active,CFValue
+CFV_SDG08_TER_026,Tertiary education,Respect for collaboration and shared learning,Believe in co-learning as a path to deeper understanding and creativity.,Active,CFValue
+CFV_SDG08_TER_027,Tertiary education,Respect for collaboration and shared learning,Show humility and willingness to listen and learn from others.,Active,CFValue
+CFV_SDG08_TER_028,Tertiary education,Awareness of global dynamics and their impact,Understand that labour markets and economic opportunities are shaped by global forces.,Active,CFValue
+CFV_SDG08_TER_029,Tertiary education,Awareness of global dynamics and their impact,Value informed decision-making rooted in awareness of geopolitical contexts.,Active,CFValue
+CFV_SDG08_TER_030,Tertiary education,Awareness of global dynamics and their impact,Respect differing national policies while advocating for universal rights and standards.,Active,CFValue
+CFV_SDG08_TER_031,Tertiary education,Strategic problem solving in economic development,Value strategic and forward-looking approaches to economic challenges.,Active,CFValue
+CFV_SDG08_TER_032,Tertiary education,Strategic problem solving in economic development,Promote fairness and inclusion in responses to automation and informal labour.,Active,CFValue
+CFV_SDG08_TER_033,Tertiary education,Strategic problem solving in economic development,"Commit to sustainable, equitable solutions that reduce poverty and inequality.",Active,CFValue
+CFV_SDG08_ADULT_001,Adult education,Lifelong learning and self-empowerment,Embrace continuous personal and professional growth through upskilling and reskilling.,Active,CFValue
+CFV_SDG08_ADULT_002,Adult education,Lifelong learning and self-empowerment,Cultivate goal-setting habits through individualised learning and career planning.,Active,CFValue
+CFV_SDG08_ADULT_003,Adult education,Lifelong learning and self-empowerment,Express a collaborative mindset through mutual support in peer learning environments.,Active,CFValue
+CFV_SDG08_ADULT_004,Adult education,Resilience and adaptability in economic life,Value flexible thinking and courage in navigating job transitions or self-employment.,Active,CFValue
+CFV_SDG08_ADULT_005,Adult education,Resilience and adaptability in economic life,Develop prudent financial habits and a sense of economic agency.,Active,CFValue
+CFV_SDG08_ADULT_006,Adult education,Resilience and adaptability in economic life,Draw inspiration from lived experiences of overcoming professional and financial adversity.,Active,CFValue
+CFV_SDG08_ADULT_007,Adult education,Community engagement and collective contribution,Nurture a co-operative spirit through involvement in local enterprises and initiatives.,Active,CFValue
+CFV_SDG08_ADULT_008,Adult education,Community engagement and collective contribution,Practise civic responsibility by contributing to community wellbeing and economic inclusion.,Active,CFValue
+CFV_SDG08_ADULT_009,Adult education,Community engagement and collective contribution,Strengthen intergenerational and interprofessional ties through mentorship and shared learning.,Active,CFValue
+CFV_SDG08_ADULT_010,Adult education,Shared responsibility for a fair and sustainable economy,Embed ethical principles in everyday economic choices and local business practices.,Active,CFValue
+CFV_SDG08_ADULT_011,Adult education,Shared responsibility for a fair and sustainable economy,"Encourage critical dialogue on sustainability, equity and decent work.",Active,CFValue
+CFV_SDG08_ADULT_012,Adult education,Shared responsibility for a fair and sustainable economy,Stand in solidarity through collective action for fair wages and just economic systems.,Active,CFValue
+CFV_SDG08_ADULT_013,Adult education,Inclusivity and social solidarity,Value cultural diversity as a strength in community and economic life.,Active,CFValue
+CFV_SDG08_ADULT_014,Adult education,Inclusivity and social solidarity,Commit to fairness and equality in employment and representation.,Active,CFValue
+CFV_SDG08_ADULT_015,Adult education,Inclusivity and social solidarity,Build empathy and mutual respect through shared stories of resilience and belonging.,Active,CFValue
+CFV_SDG08_ADULT_016,Adult education,Gender equity and recognition of unpaid work,Promote balanced lifestyles and value time as a shared community resource.,Active,CFValue
+CFV_SDG08_ADULT_017,Adult education,Gender equity and recognition of unpaid work,Support collective caregiving solutions to ease burdens on women and families.,Active,CFValue
+CFV_SDG08_ADULT_018,Adult education,Gender equity and recognition of unpaid work,Advocate for the visibility and value of unpaid care work in economic systems.,Active,CFValue
+CFV_SDG08_ADULT_019,Adult education,Empowerment through civic participation,Value active citizenship through informed advocacy and organising.,Active,CFValue
+CFV_SDG08_ADULT_020,Adult education,Empowerment through civic participation,Build confidence in public expression and engagement with community issues.,Active,CFValue
+CFV_SDG08_ADULT_021,Adult education,Empowerment through civic participation,Commit to democratic participation in shaping local economic and social policies.,Active,CFValue
+CFV_SDG08_ADULT_022,Adult education,Commitment to equality and justice for all,Promote equal rights and fair treatment across genders in economic life.,Active,CFValue
+CFV_SDG08_ADULT_023,Adult education,Commitment to equality and justice for all,Support inclusive entrepreneurship and economic empowerment for all.,Active,CFValue
+CFV_SDG08_ADULT_024,Adult education,Commitment to equality and justice for all,Maintain inclusive networks that uplift marginalised voices and bridge opportunity gaps.,Active,CFValue
+CFV_SDG09_SEC_001,Secondary education,Critical thinking and analysis,"Analyse the economic, environmental and social effects of infrastructure and industrial policies.",Active,CFValue
+CFV_SDG09_SEC_002,Secondary education,Critical thinking and analysis,Interpret data such as graphs and maps related to industrial growth and innovation trends.,Active,CFValue
+CFV_SDG09_SEC_003,Secondary education,Critical thinking and analysis,Evaluate infrastructure choices and their long-term impacts.,Active,CFValue
+CFV_SDG09_SEC_004,Secondary education,Problem solving and innovation,"Develop solutions to real-world issues: design eco-friendly transport, improve internet access in remote areas, or propose sustainable infrastructure plans.",Active,CFValue
+CFV_SDG09_SEC_005,Secondary education,Problem solving and innovation,"Engage in STEM activities such as building simple prototypes (for example, wind turbines, water filters or smart city models).",Active,CFValue
+CFV_SDG09_SEC_006,Secondary education,Problem solving and innovation,Apply systems thinking to explore how innovation can support sustainable development.,Active,CFValue
+CFV_SDG09_SEC_007,Secondary education,Digital and AI engagement,Learn basic coding and apply it to practical projects.,Active,CFValue
+CFV_SDG09_SEC_008,Secondary education,Digital and AI engagement,Use AI tools to analyse problems and suggest solutions.,Active,CFValue
+CFV_SDG09_SEC_009,Secondary education,Digital and AI engagement,"Explore generative AI and its applications for creating inclusive, community-based solutions.",Active,CFValue
+CFV_SDG09_SEC_010,Secondary education,Research and inquiry,Conduct school or community audits on infrastructure and sustainability.,Active,CFValue
+CFV_SDG09_SEC_011,Secondary education,Research and inquiry,"Investigate successful case studies (for example, Germany’s green industries or China’s high-speed rail) and assess their transferability.",Active,CFValue
+CFV_SDG09_SEC_012,Secondary education,Research and inquiry,Explore the criteria for evaluating sustainable and inclusive industrial practices.,Active,CFValue
+CFV_SDG09_SEC_013,Secondary education,Collaboration and communication,Participate in group projects designing sustainable cities or infrastructure.,Active,CFValue
+CFV_SDG09_SEC_014,Secondary education,Collaboration and communication,Create awareness posters or multimedia campaigns on innovation and sustainability.,Active,CFValue
+CFV_SDG09_SEC_015,Secondary education,Collaboration and communication,Promote dialogue on responsible technology use and equitable access to innovation.,Active,CFValue
+CFV_SDG09_TVET_001,TVET,Commitment to sustainability,Intrinsic motivation to support sustainable development through vocational practice.,Active,CFValue
+CFV_SDG09_TVET_002,TVET,Commitment to sustainability,"Adopt responsible behaviours in trades: reduce waste, conserve energy, use sustainable materials.",Active,CFValue
+CFV_SDG09_TVET_003,TVET,Ethical and inclusive practice,Promote fair access to infrastructure and innovation for marginalised and underserved communities.,Active,CFValue
+CFV_SDG09_TVET_004,TVET,Ethical and inclusive practice,"Uphold social, environmental, and industry standards in all practices.",Active,CFValue
+CFV_SDG09_TVET_005,TVET,Equity and social responsibility,"Value inclusivity in design and implementation, ensuring accessibility (e.g., for persons with disabilities).",Active,CFValue
+CFV_SDG09_TVET_006,TVET,Equity and social responsibility,Appreciate the interdependence between industrial progress and community well-being.,Active,CFValue
+CFV_SDG09_TVET_007,TVET,Entrepreneurial and innovative mindset,Demonstrate creativity and critical thinking to solve real-world problems.,Active,CFValue
+CFV_SDG09_TVET_008,TVET,Entrepreneurial and innovative mindset,Take initiative to develop eco-friendly enterprises and technical solutions tailored to local challenges.,Active,CFValue
+CFV_SDG09_TVET_009,TVET,Global awareness and cooperation,"Recognise the importance of international collaboration, knowledge sharing, and technology exchange.",Active,CFValue
+CFV_SDG09_TVET_010,TVET,Global awareness and cooperation,Support the greening of industry through partnerships and collective innovation.,Active,CFValue
+CFV_SDG09_TVET_011,TVET,Continuous learning and adaptability,Embrace lifelong learning to remain relevant in rapidly evolving industrial fields.,Active,CFValue
+CFV_SDG09_TVET_012,TVET,Continuous learning and adaptability,"Show willingness to update skills, adopt new technologies, and meet emerging sustainability standards.",Active,CFValue
+CFV_SDG09_TER_001,Tertiary education,Sustainability and ethical responsibility,Uphold ethical standards in the development and application of technology and infrastructure.,Active,CFValue
+CFV_SDG09_TER_002,Tertiary education,Sustainability and ethical responsibility,"Commit to reducing environmental harm, promoting energy efficiency and respecting community rights.",Active,CFValue
+CFV_SDG09_TER_003,Tertiary education,Sustainability and ethical responsibility,Advocate for responsible AI development aligned with human values and sustainability.,Active,CFValue
+CFV_SDG09_TER_004,Tertiary education,Inclusivity and social justice,"Promote equitable access to infrastructure, jobs and innovation – especially in marginalised communities.",Active,CFValue
+CFV_SDG09_TER_005,Tertiary education,Inclusivity and social justice,Recognise the global and local impacts of infrastructure choices and advocate for fair distribution of benefits.,Active,CFValue
+CFV_SDG09_TER_006,Tertiary education,Global citizenship and leadership,Embrace a global perspective on sustainable development and technological equity.,Active,CFValue
+CFV_SDG09_TER_007,Tertiary education,Global citizenship and leadership,"Engage in international networks for policy advocacy, knowledge sharing and collaborative research and development (R&D).",Active,CFValue
+CFV_SDG09_TER_008,Tertiary education,Global citizenship and leadership,"Support policy reform and investment in R&D, especially for underserved regions.",Active,CFValue
+CFV_SDG09_TER_009,Tertiary education,Lifelong learning and adaptability,Develop a culture of continuous learning and innovation in response to technological and societal shifts.,Active,CFValue
+CFV_SDG09_TER_010,Tertiary education,Lifelong learning and adaptability,"Be open to integrating diverse perspectives, including indigenous knowledge, in sustainable solutions.",Active,CFValue
+CFV_SDG09_TER_011,Tertiary education,Proactivity and visionary thinking,Lead initiatives that integrate long-term planning with immediate action on sustainability.,Active,CFValue
+CFV_SDG09_TER_012,Tertiary education,Proactivity and visionary thinking,Demonstrate vision in balancing technological growth with social and environmental stewardship.,Active,CFValue
+CFV_SDG09_ADULT_001,Adult education,Empowerment and ownership,Take initiative in improving community infrastructure and promoting sustainability.,Active,CFValue
+CFV_SDG09_ADULT_002,Adult education,Empowerment and ownership,Develop self-confidence and see oneself as a change-maker and contributor to local development.,Active,CFValue
+CFV_SDG09_ADULT_003,Adult education,Equity and inclusion,"Promote the participation of women, youth and marginalised groups in infrastructure and innovation projects.",Active,CFValue
+CFV_SDG09_ADULT_004,Adult education,Equity and inclusion,"Advocate for inclusive access to basic services like clean water, energy and transport.",Active,CFValue
+CFV_SDG09_ADULT_005,Adult education,Environmental stewardship,Respect and protect the natural environment by conserving resources and reducing pollution.,Active,CFValue
+CFV_SDG09_ADULT_006,Adult education,Environmental stewardship,"Encourage reuse, recycling and low-impact solutions tailored to local needs.",Active,CFValue
+CFV_SDG09_ADULT_007,Adult education,Community responsibility and leadership,Support collective action and shared responsibility in maintaining infrastructure and community assets.,Active,CFValue
+CFV_SDG09_ADULT_008,Adult education,Community responsibility and leadership,Mentor or inspire others in the community to take part in development and sustainability activities.,Active,CFValue
+CFV_SDG09_ADULT_009,Adult education,Lifelong learning and adaptability,Embrace learning about innovative technologies and approaches that can improve everyday life.,Active,CFValue
+CFV_SDG09_ADULT_010,Adult education,Lifelong learning and adaptability,Stay informed and open to innovation and share new knowledge within the community.,Active,CFValue
+CFV_SDG10_SEC_001,Secondary education,"Respect, pride and cultural understanding",Value and take pride in personal and collective cultural heritage while respecting the traditions of others.,Active,CFValue
+CFV_SDG10_SEC_002,Secondary education,"Respect, pride and cultural understanding",Appreciate the importance of cultural diversity and recognise how it enriches societies.,Active,CFValue
+CFV_SDG10_SEC_003,Secondary education,"Respect, pride and cultural understanding","Respect the struggles, contributions and strategies of indigenous and minority groups in shaping inclusive policies.",Active,CFValue
+CFV_SDG10_SEC_004,Secondary education,"Empathy, equity and justice",Demonstrate empathy towards individuals and groups facing discrimination or exclusion.,Active,CFValue
+CFV_SDG10_SEC_005,Secondary education,"Empathy, equity and justice","Develop a keen sense of justice and a commitment to equity in personal, school and community life.",Active,CFValue
+CFV_SDG10_SEC_006,Secondary education,"Empathy, equity and justice","Recognise the interconnectedness of rights, responsibilities and human dignity.",Active,CFValue
+CFV_SDG10_SEC_007,Secondary education,Civic responsibility and agency,"Show willingness to stand up against injustice, discrimination and unfair policies.",Active,CFValue
+CFV_SDG10_SEC_008,Secondary education,Civic responsibility and agency,Engage actively as equality champions and advocates for positive change in school and the community.,Active,CFValue
+CFV_SDG10_SEC_009,Secondary education,Civic responsibility and agency,"Celebrate difference, promote inclusion, and help build bridges between diverse identities and communities.",Active,CFValue
+CFV_SDG10_TVET_001,TVET,Empowerment and inclusion,Commit to fairness and inclusion in business operations and workplace practices.,Active,CFValue
+CFV_SDG10_TVET_002,TVET,Empowerment and inclusion,"Champion equal opportunity and access, particularly for women, youth, people with disabilities and other disadvantaged groups.",Active,CFValue
+CFV_SDG10_TVET_003,TVET,Active citizenship and social responsibility,Show willingness to serve disadvantaged communities through inclusive projects and vocational outreach.,Active,CFValue
+CFV_SDG10_TVET_004,TVET,Active citizenship and social responsibility,"Demonstrate civic responsibility by participating in advocacy, policy dialogue and community development initiatives promoting equity.",Active,CFValue
+CFV_SDG10_TVET_005,TVET,Ethics and innovation,"Promote ethical decision-making in financial and workplace settings, guided by principles of justice and sustainability.",Active,CFValue
+CFV_SDG10_TVET_006,TVET,Ethics and innovation,"Embrace the role of technology not just for efficiency, but as a tool to bridge inequality and support underserved populations.",Active,CFValue
+CFV_SDG10_TER_001,Tertiary education,Equity and empowerment,"Embrace a rights-based approach to inequality, viewing all individuals – especially those in poverty or marginalised – as rights-holders with dignity, potential and agency.",Active,CFValue
+CFV_SDG10_TER_002,Tertiary education,Equity and empowerment,"Value the empowerment of girls, women and marginalised groups as key to inclusive development and long-term sustainability.",Active,CFValue
+CFV_SDG10_TER_003,Tertiary education,Global solidarity and justice,"Respect and advocate for the human rights and wellbeing of migrants, displaced populations and minorities.",Active,CFValue
+CFV_SDG10_TER_004,Tertiary education,Global solidarity and justice,Recognise the importance of financial flows such as remittances in supporting sustainable development and bridging economic divides.,Active,CFValue
+CFV_SDG10_TER_005,Tertiary education,Leadership and representation,"Promote ethical leadership and inclusive governance, ensuring that voices from the Global South and under-represented communities influence global economic and political decision-making.",Active,CFValue
+CFV_SDG10_TER_006,Tertiary education,Leadership and representation,"Encourage inclusive mindsets that support systemic reform and equitable development at the local, national and global levels.",Active,CFValue
+CFV_SDG10_ADULT_001,Adult education,Equity and empowerment,"Engage in community advocacy for equitable access to education, healthcare, housing and employment.",Active,CFValue
+CFV_SDG10_ADULT_002,Adult education,Equity and empowerment,"Advocate for the rights of migrants, refugees, informal workers, persons with disabilities and other vulnerable populations.",Active,CFValue
+CFV_SDG10_ADULT_003,Adult education,Equity and empowerment,Promote the value of ‘power through participation’ – the belief that active community involvement is key to reducing inequalities.,Active,CFValue
+CFV_SDG10_ADULT_004,Adult education,Equity and empowerment,"Support women’s empowerment by challenging gender norms, advocating for leadership opportunities and supporting economic inclusion.",Active,CFValue
+CFV_SDG10_ADULT_005,Adult education,Equity and empowerment,"Respect and uphold the dignity and rights of all people, regardless of background or legal status.",Active,CFValue
+CFV_SDG11_SEC_001,Secondary education,Responsibility and civic engagement,"Recognise the role of individuals and communities in shaping resilient, inclusive cities.",Active,CFValue
+CFV_SDG11_SEC_002,Secondary education,Responsibility and civic engagement,"Participate actively in sustainability initiatives, such as waste reduction, energy conservation, and urban greening.",Active,CFValue
+CFV_SDG11_SEC_003,Secondary education,Responsibility and civic engagement,Lead and advocate for sustainable urban policies through community engagement.,Active,CFValue
+CFV_SDG11_SEC_004,Secondary education,Environmental stewardship and ethical living,Conserve natural resources and reduce ecological footprints.,Active,CFValue
+CFV_SDG11_SEC_005,Secondary education,Environmental stewardship and ethical living,"Adopt responsible consumption, support sustainable products, and reduce waste.",Active,CFValue
+CFV_SDG11_SEC_006,Secondary education,Environmental stewardship and ethical living,"Promote clean air, water, and green spaces for current and future generations.",Active,CFValue
+CFV_SDG11_SEC_007,Secondary education,"Social justice, inclusion and equity","Support equitable access to housing, education, healthcare, and public spaces.",Active,CFValue
+CFV_SDG11_SEC_008,Secondary education,"Social justice, inclusion and equity","Respect cultural and socio-economic diversity, fostering inclusive communities.",Active,CFValue
+CFV_SDG11_SEC_009,Secondary education,"Social justice, inclusion and equity",Advocate for accessibility and universal design in urban development.,Active,CFValue
+CFV_SDG11_SEC_010,Secondary education,Global citizenship and sustainable development,Understand the global implications of urban sustainability and interconnections between cities.,Active,CFValue
+CFV_SDG11_SEC_011,Secondary education,Global citizenship and sustainable development,"Raise awareness of SDGs, particularly SDG 11 on sustainable cities.",Active,CFValue
+CFV_SDG11_SEC_012,Secondary education,Global citizenship and sustainable development,Collaborate across communities and countries to share sustainable urban practices.,Active,CFValue
+CFV_SDG11_SEC_013,Secondary education,"Empathy, resilience and wellbeing",Promote empathy and emotional intelligence in addressing urban and environmental challenges.,Active,CFValue
+CFV_SDG11_SEC_014,Secondary education,"Empathy, resilience and wellbeing","Develop resilience to adapt to climate change, migration, and economic shifts.",Active,CFValue
+CFV_SDG11_SEC_015,Secondary education,"Empathy, resilience and wellbeing","Support safe, inclusive urban spaces that enhance mental and physical wellbeing.",Active,CFValue
+CFV_SDG11_SEC_016,Secondary education,Advocacy and vision for the future,"Inspire forward-thinking approaches to sustainable, innovative, and inclusive cities.",Active,CFValue
+CFV_SDG11_SEC_017,Secondary education,Advocacy and vision for the future,Encourage youth to contribute ideas and influence urban policies.,Active,CFValue
+CFV_SDG11_SEC_018,Secondary education,Advocacy and vision for the future,"Commit to lifelong learning about urban development, sustainability trends, and environmental challenges.",Active,CFValue
+CFV_SDG11_SEC_019,Secondary education,Appreciation for sustainable transportation,"Understand the health and environmental benefits of walking, cycling, and public transit.",Active,CFValue
+CFV_SDG11_SEC_020,Secondary education,Appreciation for sustainable transportation,"Encourage the use of low-pollution transport options to support clean, safe cities.",Active,CFValue
+CFV_SDG11_SEC_021,Secondary education,Conflict resolution and navigating diverse perspectives,Manage conflicts and diverse perspectives in collaborative sustainability projects.,Active,CFValue
+CFV_SDG11_SEC_022,Secondary education,Conflict resolution and navigating diverse perspectives,"Negotiate differences, find common ground, and create solutions that meet the needs of various groups.",Active,CFValue
+CFV_SDG11_SEC_023,Secondary education,Conflict resolution and navigating diverse perspectives,Promote inclusivity in sustainable city planning and urban development.,Active,CFValue
+CFV_SDG11_TVET_001,TVET,Appreciation for green spaces and wellbeing,"Recognise the role of green spaces in enhancing quality of life, community wellbeing, and biodiversity.",Active,CFValue
+CFV_SDG11_TVET_002,TVET,Appreciation for green spaces and wellbeing,Understand their positive impact on mental and physical health.,Active,CFValue
+CFV_SDG11_TVET_003,TVET,Appreciation for green spaces and wellbeing,"Advocate for preserving and expanding parks, green belts, and community gardens.",Active,CFValue
+CFV_SDG11_TVET_004,TVET,Environmental protection and sustainable housing,"Balance environmental protection with the development of energy-efficient, affordable housing.",Active,CFValue
+CFV_SDG11_TVET_005,TVET,Environmental protection and sustainable housing,Promote sustainable building materials while preserving surrounding ecosystems.,Active,CFValue
+CFV_SDG11_TVET_006,TVET,Environmental stewardship,Take responsibility for individual and collective environmental impacts.,Active,CFValue
+CFV_SDG11_TVET_007,TVET,Environmental stewardship,Adopt eco-friendly practices in professional and personal contexts.,Active,CFValue
+CFV_SDG11_TVET_008,TVET,Environmental stewardship,Support policies and practices that reduce waste and promote sustainability.,Active,CFValue
+CFV_SDG11_TVET_009,TVET,Ethical and sustainable decision-making,Prioritise long-term sustainability over short-term gains.,Active,CFValue
+CFV_SDG11_TVET_010,TVET,Ethical and sustainable decision-making,Choose eco-friendly materials and methods that reduce carbon footprints.,Active,CFValue
+CFV_SDG11_TVET_011,TVET,Social equity and inclusivity,"Promote inclusive urban development, ensuring access to housing, green spaces, and public transport for all.",Active,CFValue
+CFV_SDG11_TVET_012,TVET,Social equity and inclusivity,Support projects and policies that address marginalised communities’ needs.,Active,CFValue
+CFV_SDG11_TVET_013,TVET,Collaboration and collective action,Work across sectors and communities to achieve sustainability goals.,Active,CFValue
+CFV_SDG11_TVET_014,TVET,Collaboration and collective action,Collaborate on projects like integrated waste management or urban greening initiatives.,Active,CFValue
+CFV_SDG11_TVET_015,TVET,Engagement in recycling and circular economy,Understand the importance of recycling and resource conservation.,Active,CFValue
+CFV_SDG11_TVET_016,TVET,Engagement in recycling and circular economy,"Promote circular economy practices, including composting, waste sorting, and upcycling.",Active,CFValue
+CFV_SDG11_TVET_017,TVET,Sustainability and alternative entrepreneurship,Commit to sustainability and support green business ventures.,Active,CFValue
+CFV_SDG11_TVET_018,TVET,Sustainability and alternative entrepreneurship,"Encourage innovative, eco-friendly entrepreneurial initiatives.",Active,CFValue
+CFV_SDG11_TVET_019,TVET,Restoring the natural environment,Support ecosystem restoration and create urban buffer zones.,Active,CFValue
+CFV_SDG11_TVET_020,TVET,Restoring the natural environment,"Participate in reforestation, wetland rehabilitation, and green corridor development.",Active,CFValue
+CFV_SDG11_TER_001,Tertiary education,Social responsibility and equity,"Commit to providing inclusive housing and urban services for all, especially marginalised populations.",Active,CFValue
+CFV_SDG11_TER_002,Tertiary education,Social responsibility and equity,"Support policies that reduce inequality, promote social inclusion, and ensure equitable access to education, healthcare, and transport.",Active,CFValue
+CFV_SDG11_TER_003,Tertiary education,Local and context-driven action,"Recognise the importance of addressing local urban challenges with tailored, context-specific solutions.",Active,CFValue
+CFV_SDG11_TER_004,Tertiary education,Local and context-driven action,"Empower communities to co-design and implement strategies for issues like air pollution, flooding, or food insecurity.",Active,CFValue
+CFV_SDG11_TER_005,Tertiary education,Cultural diversity and inclusion,Value and respect diverse cultures and identities in urban communities.,Active,CFValue
+CFV_SDG11_TER_006,Tertiary education,Cultural diversity and inclusion,"Promote intercultural understanding through festivals, art projects, and inclusive urban policies.",Active,CFValue
+CFV_SDG11_TER_007,Tertiary education,Social and environmental justice,"Advocate for policies that ensure fair access to clean air, water, housing, and public services.",Active,CFValue
+CFV_SDG11_TER_008,Tertiary education,Social and environmental justice,Champion environmental equity and sustainable urban development that benefits vulnerable groups.,Active,CFValue
+CFV_SDG11_TER_009,Tertiary education,Ethical leadership and accountability,"Lead with integrity, ensuring transparent, accountable, and environmentally responsible urban planning.",Active,CFValue
+CFV_SDG11_TER_010,Tertiary education,Ethical leadership and accountability,Prioritise long-term sustainability over short-term gains in urban development decisions.,Active,CFValue
+CFV_SDG11_TER_011,Tertiary education,Collaboration and interdisciplinary engagement,Work across disciplines and sectors to address urban sustainability challenges.,Active,CFValue
+CFV_SDG11_TER_012,Tertiary education,Collaboration and interdisciplinary engagement,"Support multistakeholder partnerships for urban regeneration, climate adaptation, and resilient city planning.",Active,CFValue
+CFV_SDG11_TER_013,Tertiary education,Critical thinking and problem solving,"Apply holistic, data-driven approaches to complex urban systems, integrating social, economic, and environmental perspectives.",Active,CFValue
+CFV_SDG11_TER_014,Tertiary education,Critical thinking and problem solving,"Design innovative, sustainable policies that address urban challenges, such as pollution, transport, and infrastructure needs.",Active,CFValue
+CFV_SDG11_TER_015,Tertiary education,Participatory urban planning,Engage communities and stakeholders in participatory planning to ensure inclusivity and alignment with urban residents’ needs.,Active,CFValue
+CFV_SDG11_TER_016,Tertiary education,Participatory urban planning,"Organise community workshops for feedback on urban regeneration projects, ensuring marginalised groups participate in decision-making.",Active,CFValue
+CFV_SDG11_TER_017,Tertiary education,Participatory urban planning,Promote participatory policy frameworks that ensure transparent urban development and advocate for mechanisms giving marginalised communities a voice in urban planning.,Active,CFValue
+CFV_SDG11_ADULT_001,Adult education,Environmental responsibility in housing and urban design,"Commit to minimising environmental impact when acquiring shelter, constructing homes and designing living spaces.",Active,CFValue
+CFV_SDG11_ADULT_002,Adult education,Environmental responsibility in housing and urban design,"Recognise the role of sustainable materials, energy efficiency and green infrastructure in reducing ecological footprints.",Active,CFValue
+CFV_SDG11_ADULT_003,Adult education,Environmental responsibility in housing and urban design,"Choose energy-efficient housing, using recycled or locally sourced materials and integrating passive design principles to reduce reliance on artificial heating and cooling.",Active,CFValue
+CFV_SDG11_ADULT_004,Adult education,Critical reflection on housing needs across life stages,"Critically assess housing and shelter needs throughout various stages of life, considering cultural traditions, economic constraints, human resources and energy costs.",Active,CFValue
+CFV_SDG11_ADULT_005,Adult education,Critical reflection on housing needs across life stages,"Weigh the long-term affordability and sustainability of housing choices, such as selecting adaptable, multigenerational housing that accommodates changing family needs while remaining energy efficient.",Active,CFValue
+CFV_SDG11_ADULT_006,Adult education,Commitment to community and social inclusion,"Develop a strong sense of community, recognising the importance of collective wellbeing, inclusivity and social support in urban environments.",Active,CFValue
+CFV_SDG11_ADULT_007,Adult education,Commitment to community and social inclusion,"Support neighbourhood initiatives such as community gardens, local markets or shared public spaces that enable interaction and social cohesion.",Active,CFValue
+CFV_SDG11_ADULT_008,Adult education,Active engagement in environmental and urban decision-making,"Take an active role in decisions that impact the environment and urban habitat, advocating for policies and projects that promote sustainability.",Active,CFValue
+CFV_SDG11_ADULT_009,Adult education,Active engagement in environmental and urban decision-making,"Participate in town hall meetings, support green building codes or engage in local campaigns to improve waste management, public transportation or renewable energy adoption.",Active,CFValue
+CFV_SDG11_ADULT_010,Adult education,Locally led urban climate adaptation,"Recognise the value of locally driven, community-focused approaches to urban climate resilience, drawing on the unique knowledge, skills and lived experiences of residents.",Active,CFValue
+CFV_SDG11_ADULT_011,Adult education,Locally led urban climate adaptation,"Support grassroots initiatives such as rainwater harvesting projects, local flood mitigation strategies or neighbourhood tree-planting programmes to combat urban heat islands.",Active,CFValue
+CFV_SDG11_ADULT_012,Adult education,Participation in urban planning and civic engagement,"Believe in the power of civic participation to shape sustainable cities, understanding the impact of individual and collective actions on urban development.",Active,CFValue
+CFV_SDG11_ADULT_013,Adult education,Participation in urban planning and civic engagement,"Attend urban planning meetings, voice concerns about zoning changes, advocate for more green spaces and contribute ideas to local sustainability projects.",Active,CFValue
+CFV_SDG11_ADULT_014,Adult education,Adaptability and lifelong learning,"Cultivate an openness to innovative ideas, continuous learning and adaptability in the face of evolving urban sustainability challenges and emerging technologies.",Active,CFValue
+CFV_SDG11_ADULT_015,Adult education,Adaptability and lifelong learning,"Keep up to date with innovations in smart cities, renewable energy solutions and sustainable building practices, integrating these into real-world applications.",Active,CFValue
+CFV_SDG11_ADULT_016,Adult education,Adaptability and lifelong learning,Promote policies that incentivise continuous professional development in urban sustainability fields and integrate emerging technologies into urban policy frameworks.,Active,CFValue
+CFV_SDG12_SEC_001,Secondary education,Global citizenship,Awareness of shared responsibility in production and consumption.,Active,CFValue
+CFV_SDG12_SEC_002,Secondary education,Global citizenship,"Empathy for people affected by unsustainable systems, such as workers in low-wage manufacturing.",Active,CFValue
+CFV_SDG12_SEC_003,Secondary education,Sustainability mindset,A sense of duty to reduce one’s environmental footprint and influence others through informed choices.,Active,CFValue
+CFV_SDG12_SEC_004,Secondary education,Sustainability mindset,"Participation in eco-school programmes, climate strikes and sustainability campaigns.",Active,CFValue
+CFV_SDG12_SEC_005,Secondary education,Advocacy and leadership,Engage in peer-led campaigns or debates on environmental issues.,Active,CFValue
+CFV_SDG12_SEC_006,Secondary education,Advocacy and leadership,Propose innovative solutions for reducing waste or improving consumption behaviours in their school or community.,Active,CFValue
+CFV_SDG12_SEC_007,Secondary education,Reflection and empowerment,Engage in reflective practices that examine their own lifestyles and purchasing behaviours.,Active,CFValue
+CFV_SDG12_SEC_008,Secondary education,Reflection and empowerment,Commitment to lifelong sustainable habits and to question the ethical dimensions of consumption.,Active,CFValue
+CFV_SDG12_TVET_001,TVET,Environmental responsibility,Promote accountability and ethics in technical professions regarding environmental and social impacts.,Active,CFValue
+CFV_SDG12_TVET_002,TVET,Environmental responsibility,Cultivate an appreciation of the finite nature of resources and the need for long-term thinking in production roles.,Active,CFValue
+CFV_SDG12_TVET_003,TVET,Empowered professional identity,See themselves as agents of change in their industries – able to advocate for and implement sustainable practices.,Active,CFValue
+CFV_SDG12_TVET_004,TVET,Empowered professional identity,Cultivate pride in contributing to sustainable development and circular economies.,Active,CFValue
+CFV_SDG12_TVET_005,TVET,Commitment to systemic change,Proactive mindset to challenge unsustainable norms and push for greener standards and policies.,Active,CFValue
+CFV_SDG12_TVET_006,TVET,Commitment to systemic change,"Encourage collaborative problem solving for local and global sustainability challenges in teams, businesses and communities.",Active,CFValue
+CFV_SDG12_TVET_007,TVET,Equity and inclusion,"Promote inclusive production and consumption models that support decent work, ethical sourcing and the wellbeing of vulnerable populations.",Active,CFValue
+CFV_SDG12_TVET_008,TVET,Equity and inclusion,Integrate gender-sensitive and community-led approaches in consumption/production strategies.,Active,CFValue
+CFV_SDG12_TER_001,Tertiary education,Ethical leadership and accountability,"Develop a strong sense of accountability and integrity in leadership roles – balancing environmental, economic and social responsibilities.",Active,CFValue
+CFV_SDG12_TER_002,Tertiary education,Ethical leadership and accountability,"Champion green business practices, public policy reforms and corporate transparency.",Active,CFValue
+CFV_SDG12_TER_003,Tertiary education,Systemic thinking and global citizenship,"Recognise the interconnectedness of environment, economy and society, and the need for integrated approaches.",Active,CFValue
+CFV_SDG12_TER_004,Tertiary education,Systemic thinking and global citizenship,"Adopt a global perspective on equity and justice in production and consumption, particularly regarding North–South dynamics and access to resources.",Active,CFValue
+CFV_SDG12_TER_005,Tertiary education,Sustainability as core professional identity,"Embrace the identity of a change agent committed to advancing sustainability through expertise, teaching, policy or entrepreneurship.",Active,CFValue
+CFV_SDG12_TER_006,Tertiary education,Sustainability as core professional identity,"Drive sustainable innovation in sectors such as agriculture, energy, finance, construction and design.",Active,CFValue
+CFV_SDG12_TER_007,Tertiary education,Commitment to equity and participation,"Value inclusive processes that consider local knowledge, gender equity and marginalised voices in shaping sustainable solutions.",Active,CFValue
+CFV_SDG12_TER_008,Tertiary education,Commitment to equity and participation,"Promote participatory governance, youth engagement and co-creation in sustainability transitions.",Active,CFValue
+CFV_SDG12_ADULT_001,Adult education,Environmental respect and care,Encourage a deep appreciation for the intrinsic value of nature and the role of local ecosystems in community wellbeing.,Active,CFValue
+CFV_SDG12_ADULT_002,Adult education,Environmental respect and care,"Encourage conservation-minded behaviours, such as using local resources wisely and reducing waste.",Active,CFValue
+CFV_SDG12_ADULT_003,Adult education,Social responsibility and empowerment,Cultivate a sense of responsibility for current and future generations in making choices that reduce harm and build resilience.,Active,CFValue
+CFV_SDG12_ADULT_004,Adult education,Social responsibility and empowerment,Promote shared ownership of community resources and encourage collective stewardship of public goods.,Active,CFValue
+CFV_SDG12_ADULT_005,Adult education,Commitment to action and equity,"Value equitable access to sustainable goods and services, and advocate for inclusive community-based solutions.",Active,CFValue
+CFV_SDG12_ADULT_006,Adult education,Commitment to action and equity,"Build confidence to act – individually and collectively – for more sustainable, just and resilient communities.",Active,CFValue
+CFV_SDG12_ADULT_007,Adult education,Lifelong learning for sustainability,Embrace lifelong learning as essential for adapting to change and building sustainable futures.,Active,CFValue
+CFV_SDG12_ADULT_008,Adult education,Lifelong learning for sustainability,"Promote a mindset of curiosity, adaptability and continual improvement in sustainable living and livelihoods.",Active,CFValue
+CFV_SDG13_SEC_001,Secondary education,Critical thinking and awareness,"Analyse climate issues thoughtfully, considering multiple perspectives and solutions.",Active,CFValue
+CFV_SDG13_SEC_002,Secondary education,Critical thinking and awareness,"Evaluate behaviours and lifestyle choices to reduce CO₂ emissions, conserve energy, and promote sustainable consumption.",Active,CFValue
+CFV_SDG13_SEC_003,Secondary education,Commitment to climate justice,Recognise inequalities in climate impacts and advocate for fair and equitable solutions.,Active,CFValue
+CFV_SDG13_SEC_004,Secondary education,Commitment to climate justice,Engage actively in climate action initiatives that contribute to Sustainable Development Goals locally and globally.,Active,CFValue
+CFV_SDG13_SEC_005,Secondary education,Individual and collective action,"Participate in community climate education, sharing knowledge and promoting dialogue.",Active,CFValue
+CFV_SDG13_SEC_006,Secondary education,Individual and collective action,Contribute to collective initiatives that strengthen local and regional resilience.,Active,CFValue
+CFV_SDG13_SEC_007,Secondary education,Global responsibility and systems thinking,"Understand the interconnectedness of social, economic, and environmental systems.",Active,CFValue
+CFV_SDG13_SEC_008,Secondary education,Global responsibility and systems thinking,Act as responsible citizens aware of the broader implications of local actions on global climate outcomes.,Active,CFValue
+CFV_SDG13_SEC_009,Secondary education,Problem-solving and innovation,"Identify climate challenges and propose practical, actionable solutions.",Active,CFValue
+CFV_SDG13_SEC_010,Secondary education,Problem-solving and innovation,Apply creative thinking to design context-appropriate mitigation and adaptation strategies.,Active,CFValue
+CFV_SDG13_SEC_011,Secondary education,Resilience and adaptability,Develop the capacity to respond proactively to changing environments and uncertain futures.,Active,CFValue
+CFV_SDG13_SEC_012,Secondary education,Resilience and adaptability,Build flexibility and perseverance in the face of climate-related challenges.,Active,CFValue
+CFV_SDG13_SEC_013,Secondary education,Applied learning,"Evaluate local and global evaluation of climate policies, projects, and grassroots initiatives.",Active,CFValue
+CFV_SDG13_SEC_014,Secondary education,Applied learning,"Community awareness campaigns, sustainable school projects, and climate action planning.",Active,CFValue
+CFV_SDG13_SEC_015,Secondary education,Applied learning,"Integrate climate considerations into economics, geography, science, and social studies.",Active,CFValue
+CFV_SDG13_TVET_001,TVET,Sustainability and professional responsibility,"Apply low-carbon, climate-resilient practices within the learner’s industry.",Active,CFValue
+CFV_SDG13_TVET_002,TVET,Sustainability and professional responsibility,Take responsibility for reducing environmental impacts through everyday professional actions.,Active,CFValue
+CFV_SDG13_TVET_003,TVET,Ethical and evidence-based decision-making,Integrate climate ethics into workplace decisions.,Active,CFValue
+CFV_SDG13_TVET_004,TVET,Ethical and evidence-based decision-making,"Ensure fairness, accountability, and responsible resource management in professional contexts.",Active,CFValue
+CFV_SDG13_TVET_005,TVET,Innovation and problem-solving,Develop practical and creative solutions to environmental challenges.,Active,CFValue
+CFV_SDG13_TVET_006,TVET,Innovation and problem-solving,Pursue entrepreneurial opportunities that combine sustainability with economic viability.,Active,CFValue
+CFV_SDG13_TVET_007,TVET,Collaboration and leadership,"Engage with colleagues, communities, and stakeholders to promote climate action.",Active,CFValue
+CFV_SDG13_TVET_008,TVET,Collaboration and leadership,Lead initiatives that support sustainable practices and community resilience.,Active,CFValue
+CFV_SDG13_TVET_009,TVET,Lifelong learning and adaptability,Continuously update knowledge of emerging technologies and sustainable practices.,Active,CFValue
+CFV_SDG13_TVET_010,TVET,Lifelong learning and adaptability,"Adapt professional practices to evolving climate, industry, and environmental demands.",Active,CFValue
+CFV_SDG13_TER_001,Tertiary education,Integration of local and global knowledge,Connect local actions to global climate goals.,Active,CFValue
+CFV_SDG13_TER_002,Tertiary education,Integration of local and global knowledge,"Understand international agreements (e.g., Paris Agreement) and how governments and industries implement sustainable practices.",Active,CFValue
+CFV_SDG13_TER_003,Tertiary education,Integration of local and global knowledge,Apply insights from global knowledge to practical solutions.,Active,CFValue
+CFV_SDG13_TER_004,Tertiary education,Scientific integrity and curiosity,Commit to evidence-based research and continuous learning on climate issues.,Active,CFValue
+CFV_SDG13_TER_005,Tertiary education,Scientific integrity and curiosity,Approach climate challenges with intellectual rigor and openness to innovation.,Active,CFValue
+CFV_SDG13_TER_006,Tertiary education,Global and systemic thinking,"Recognise the interconnectedness of social, economic, and environmental systems.",Active,CFValue
+CFV_SDG13_TER_007,Tertiary education,Global and systemic thinking,Advocate for transparent governance and climate-responsive development.,Active,CFValue
+CFV_SDG13_TER_008,Tertiary education,Commitment to sustainable development,Contribute to solutions that advance climate resilience and the Sustainable Development Goals.,Active,CFValue
+CFV_SDG13_TER_009,Tertiary education,Commitment to sustainable development,"Prioritise long-term ecological, social, and economic sustainability.",Active,CFValue
+CFV_SDG13_TER_010,Tertiary education,Advocacy and ethical leadership,Promote policies and practices that mitigate climate impacts.,Active,CFValue
+CFV_SDG13_TER_011,Tertiary education,Advocacy and ethical leadership,"Lead ethically, considering equity, justice, and community wellbeing.",Active,CFValue
+CFV_SDG13_TER_012,Tertiary education,Collaborative spirit,Engage in interdisciplinary and cross-sector collaboration to address complex climate challenges.,Active,CFValue
+CFV_SDG13_TER_013,Tertiary education,Collaborative spirit,Value teamwork and shared responsibility in climate action initiatives,Active,CFValue
+CFV_SDG13_TER_014,Tertiary education,Climate responsive change,"Commitment to fair resource use, ethical climate finance, and protecting vulnerable communities.",Active,CFValue
+CFV_SDG13_TER_015,Tertiary education,Climate responsive change,Appreciation of sustainable technologies and circular economy models as shared pathways to resilience.,Active,CFValue
+CFV_SDG13_TER_016,Tertiary education,Climate responsive change,"Willingness to co-create climate solutions through collaboration with communities, industry, and policymakers.",Active,CFValue
+CFV_SDG13_ADULT_001,Adult education,Empathy and solidarity,Support vulnerable groups affected by climate change.,Active,CFValue
+CFV_SDG13_ADULT_002,Adult education,Empathy and solidarity,Recognise and value local and traditional knowledge in building resilience.,Active,CFValue
+CFV_SDG13_ADULT_003,Adult education,Empathy and solidarity,Engage in collective climate action with communities.,Active,CFValue
+CFV_SDG13_ADULT_004,Adult education,Sustainability awareness,"Adopt sustainable practices in daily life, including waste reduction, energy conservation, and responsible consumption.",Active,CFValue
+CFV_SDG13_ADULT_005,Adult education,Sustainability awareness,Advocate for inclusive and equitable climate policies.,Active,CFValue
+CFV_SDG13_ADULT_006,Adult education,Sustainability awareness,Lead or contribute to local adaptation and mitigation initiatives.,Active,CFValue
+CFV_SDG13_ADULT_007,Adult education,Sustainability awareness,"Build leadership, facilitation, and teamwork skills to drive collective climate action.",Active,CFValue
+CFV_SDG13_ADULT_008,Adult education,Community participation,Collaborate in community projects and knowledge-sharing activities.,Active,CFValue
+CFV_SDG13_ADULT_009,Adult education,Community participation,Engage in participatory evaluation to strengthen local climate resilience efforts.,Active,CFValue
+CFV_SDG13_ADULT_010,Adult education,Adaptability and resilience,Embrace lifelong learning to stay informed about climate challenges and solutions.,Active,CFValue
+CFV_SDG13_ADULT_011,Adult education,Adaptability and resilience,Demonstrate flexibility in responding to changing environmental conditions.,Active,CFValue
+CFV_SDG13_ADULT_012,Adult education,Environmental stewardship,Take personal responsibility for protecting ecosystems and reducing environmental impact.,Active,CFValue
+CFV_SDG13_ADULT_013,Adult education,Environmental stewardship,Champion climate justice and support community-based conservation efforts.,Active,CFValue
+CFV_SDG14_SEC_001,Secondary education,Appreciation and respect,"Recognise the ecological, economic, and cultural significance of the ocean.",Active,CFValue
+CFV_SDG14_SEC_002,Secondary education,Appreciation and respect,Develop a respectful relationship with marine environments and life forms.,Active,CFValue
+CFV_SDG14_SEC_003,Secondary education,Appreciation and respect,Value traditional knowledge and practices of indigenous and coastal communities in sustainable ocean management.,Active,CFValue
+CFV_SDG14_SEC_004,Secondary education,Environmental stewardship and social responsibility,Take personal and collective responsibility for ocean conservation.,Active,CFValue
+CFV_SDG14_SEC_005,Secondary education,Environmental stewardship and social responsibility,"Participate in initiatives such as beach clean-ups, plastic reduction, and marine conservation projects.",Active,CFValue
+CFV_SDG14_SEC_006,Secondary education,Environmental stewardship and social responsibility,Promote sustainable daily choices and advocate for responsible practices.,Active,CFValue
+CFV_SDG14_SEC_007,Secondary education,Empathy and global awareness,"Acknowledge challenges faced by marine species and coastal communities affected by pollution, climate change, and habitat loss.",Active,CFValue
+CFV_SDG14_SEC_008,Secondary education,Empathy and global awareness,Recognise the interconnectedness of local and global ocean issues.,Active,CFValue
+CFV_SDG14_SEC_009,Secondary education,Empathy and global awareness,"Engage in discussions, campaigns, and advocacy to address marine sustainability challenges.",Active,CFValue
+CFV_SDG14_SEC_010,Secondary education,"Sustainability, critical thinking, and problem solving","Make informed decisions considering environmental impacts, including consumption and resource use.",Active,CFValue
+CFV_SDG14_SEC_011,Secondary education,"Sustainability, critical thinking, and problem solving","Analyse complex marine issues, evaluate solutions, and propose actionable strategies.",Active,CFValue
+CFV_SDG14_SEC_012,Secondary education,"Sustainability, critical thinking, and problem solving","Support and comply with laws, regulations, and policies that promote ocean health.",Active,CFValue
+CFV_SDG14_SEC_013,Secondary education,Intergenerational responsibility,Understand the long-term impacts of today’s actions on future generations.,Active,CFValue
+CFV_SDG14_SEC_014,Secondary education,Intergenerational responsibility,Promote practices that ensure ocean health and sustainability for years to come.,Active,CFValue
+CFV_SDG14_TVET_001,TVET,Sustainability and stewardship,"Commitment to applying green technologies, sustainable fisheries management, and marine conservation to minimise environmental impact.",Active,CFValue
+CFV_SDG14_TVET_002,TVET,Sustainability and stewardship,"Personal responsibility for protecting ocean ecosystems through practical actions such as coastal clean-ups, habitat restoration, and sustainable tourism initiatives.",Active,CFValue
+CFV_SDG14_TVET_003,TVET,Respect for marine resources and traditional knowledge,"Valuing the ocean’s natural resources and supporting responsible production and consumption of seafood, aquatic products, and marine-based materials.",Active,CFValue
+CFV_SDG14_TVET_004,TVET,Respect for marine resources and traditional knowledge,Integration of indigenous and local ecological knowledge into sustainable ocean management strategies.,Active,CFValue
+CFV_SDG14_TVET_005,TVET,Ethics and social responsibility,"Ethical decision-making in workplace practices across fisheries, aquaculture, maritime transport, and marine engineering.",Active,CFValue
+CFV_SDG14_TVET_006,TVET,Ethics and social responsibility,"Awareness of the social and environmental impacts of industrial and small-scale maritime activities, advocating for equitable and responsible practices.",Active,CFValue
+CFV_SDG14_TVET_007,TVET,"Innovation, adaptability, and lifelong learning","Development and application of creative solutions to sustainability challenges, including pollution control, waste management, and climate adaptation.",Active,CFValue
+CFV_SDG14_TVET_008,TVET,"Innovation, adaptability, and lifelong learning","Continuous learning to remain updated on emerging technologies, regulations, and best practices in ocean-related sectors.",Active,CFValue
+CFV_SDG14_TVET_009,TVET,Collaboration and blue economy awareness,"Active engagement with local communities, NGOs, and governments to implement sustainable ocean management initiatives.",Active,CFValue
+CFV_SDG14_TVET_010,TVET,Collaboration and blue economy awareness,"Recognition of the blue economy as a pathway for sustainable development, promoting innovation in aquaculture, renewable energy, and maritime industries.",Active,CFValue
+CFV_SDG14_TER_001,Tertiary education,Commitment to sustainability,"Dedication to sustainable ocean management and responsible use of marine resources, prioritising ecological balance alongside technological innovation.",Active,CFValue
+CFV_SDG14_TER_002,Tertiary education,Support for the blue economy,Recognition of the blue economy as a pathway for sustainable development that integrates economic growth with environmental stewardship.,Active,CFValue
+CFV_SDG14_TER_003,Tertiary education,Ethical ocean governance,"Promotion of moral, legal, and ethical principles in ocean governance, supporting transparency, equity, and fairness in resource management.",Active,CFValue
+CFV_SDG14_TER_004,Tertiary education,Valuing marine protected areas,"Appreciation for the ecological, economic, and cultural benefits of marine reserves; advocacy for their establishment, protection, and sustainable management.",Active,CFValue
+CFV_SDG14_TER_005,Tertiary education,Social and environmental responsibility,"Awareness of the social and environmental impacts of ocean-related industries, fostering responsible practices across corporate, governmental, and community spheres.",Active,CFValue
+CFV_SDG14_TER_006,Tertiary education,Respect for traditional knowledge,Recognition and integration of indigenous and coastal communities’ ecological knowledge in marine conservation and resource management.,Active,CFValue
+CFV_SDG14_TER_007,Tertiary education,Research integrity,"Commitment to scientific inquiry that prioritises environmental sustainability, community wellbeing, and reliable, ethical research practices.",Active,CFValue
+CFV_SDG14_TER_008,Tertiary education,Global citizenship,"Recognition of the interconnectedness of global ocean issues, contributing to international collaboration and collective conservation efforts.",Active,CFValue
+CFV_SDG14_TER_009,Tertiary education,Critical thinking and problem solving,"Evidence-based evaluation of complex ocean challenges, fostering innovative solutions, adaptive strategies, and informed policy recommendations.",Active,CFValue
+CFV_SDG14_TER_010,Tertiary education,Advocacy and leadership,"Active engagement in promoting ocean sustainability through policy influence, advocacy, public awareness, and academic discourse.",Active,CFValue
+CFV_SDG14_ADULT_001,Adult education,Sustainable production and consumption,"Embrace practices that reduce environmental impact, support responsible use of marine resources, and contribute to a thriving blue economy.",Active,CFValue
+CFV_SDG14_ADULT_002,Adult education,Sustainable production and consumption,Appreciate the interconnectedness of consumption choices and ocean health.,Active,CFValue
+CFV_SDG14_ADULT_003,Adult education,Active participation and advocacy,Value engagement in environmental decision-making and conservation initiatives.,Active,CFValue
+CFV_SDG14_ADULT_004,Adult education,Active participation and advocacy,Champion sustainable policies and practices within communities and organisations.,Active,CFValue
+CFV_SDG14_ADULT_005,Adult education,Community empowerment and local knowledge,Respect and promote community-led solutions for sustainable ocean management.,Active,CFValue
+CFV_SDG14_ADULT_006,Adult education,Community empowerment and local knowledge,Recognise the importance of indigenous and local knowledge in conservation and resource management.,Active,CFValue
+CFV_SDG14_ADULT_007,Adult education,"Innovation, adaptability, and problem-solving",Support creative and adaptable approaches to address challenges in coastal and marine ecosystems.,Active,CFValue
+CFV_SDG14_ADULT_008,Adult education,"Innovation, adaptability, and problem-solving",Value the use of available resources to foster sustainable livelihoods and community resilience.,Active,CFValue
+CFV_SDG14_ADULT_009,Adult education,Environmental stewardship,Cultivate a personal sense of responsibility for the protection of marine environments.,Active,CFValue
+CFV_SDG14_ADULT_010,Adult education,Environmental stewardship,"Uphold commitment to conservation efforts, including habitat restoration, biodiversity protection, and pollution prevention.",Active,CFValue
+CFV_SDG14_ADULT_011,Adult education,Ocean literacy and public awareness,"Engage in raising awareness about marine ecosystems, biodiversity, pollution, and climate change impacts.",Active,CFValue
+CFV_SDG14_ADULT_012,Adult education,Ocean literacy and public awareness,Promote informed decision-making and environmental responsibility within communities.,Active,CFValue
+CFV_SDG14_ADULT_013,Adult education,"Equity, inclusion, and social responsibility","Value gender-sensitive, inclusive approaches in marine resource management.",Active,CFValue
+CFV_SDG14_ADULT_014,Adult education,"Equity, inclusion, and social responsibility",Support equitable participation and fair distribution of benefits from ocean-based activities.,Active,CFValue
+CFV_SDG15_SEC_001,Secondary education,Awareness and support for sustainable solutions,"Value sustainable practices in agriculture, forestry, and urban development.",Active,CFValue
+CFV_SDG15_SEC_002,Secondary education,Awareness and support for sustainable solutions,Demonstrate responsibility towards nature and reducing ecological footprints.,Active,CFValue
+CFV_SDG15_SEC_003,Secondary education,Awareness and support for sustainable solutions,Support policies and initiatives that promote sustainable land use.,Active,CFValue
+CFV_SDG15_SEC_004,Secondary education,Recognition of human–environment relationships,"Appreciate biodiversity for ecosystem services, including clean water, air, and fertile soil.",Active,CFValue
+CFV_SDG15_SEC_005,Secondary education,Recognition of human–environment relationships,Respect all living organisms and their habitats.,Active,CFValue
+CFV_SDG15_SEC_006,Secondary education,Recognition of human–environment relationships,Understand the long-term consequences of human actions on ecosystems and the importance of preserving natural resources.,Active,CFValue
+CFV_SDG15_SEC_007,Secondary education,Informed advocacy for biodiversity protection,Engage in conservation activities and promote awareness of biodiversity loss.,Active,CFValue
+CFV_SDG15_SEC_008,Secondary education,Informed advocacy for biodiversity protection,Show empathy for endangered species and commitment to their protection.,Active,CFValue
+CFV_SDG15_SEC_009,Secondary education,Informed advocacy for biodiversity protection,Develop confidence to advocate for informed environmental decisions.,Active,CFValue
+CFV_SDG15_SEC_010,Secondary education,Contribution to achieving SDG 15,Recognise personal and collective roles in supporting SDG 15.,Active,CFValue
+CFV_SDG15_SEC_011,Secondary education,Contribution to achieving SDG 15,Actively participate in local and global environmental protection initiatives.,Active,CFValue
+CFV_SDG15_SEC_012,Secondary education,Contribution to achieving SDG 15,Appreciate the impact of individual and community actions on ecosystems.,Active,CFValue
+CFV_SDG15_SEC_013,Secondary education,Contribution to achieving SDG 15,Demonstrate leadership and agency in promoting sustainable land management.,Active,CFValue
+CFV_SDG15_SEC_014,Secondary education,Contribution to achieving SDG 15,Develop a deep understanding of the interconnectedness of humans and the environment.,Active,CFValue
+CFV_SDG15_TVET_001,TVET,Commitment to occupational environmental responsibility,Demonstrate accountability for mitigating environmental impacts in industry or trade.,Active,CFValue
+CFV_SDG15_TVET_002,TVET,Commitment to occupational environmental responsibility,Adopt a proactive approach to addressing occupational environmental challenges.,Active,CFValue
+CFV_SDG15_TVET_003,TVET,Commitment to occupational environmental responsibility,Uphold legal and ethical environmental standards within professional practice.,Active,CFValue
+CFV_SDG15_TVET_004,TVET,Respect for land and natural resources,Integrate sustainable practices into work routines with respect for ecosystems.,Active,CFValue
+CFV_SDG15_TVET_005,TVET,Respect for land and natural resources,Recognise the importance of preserving land and resources for long-term sustainability.,Active,CFValue
+CFV_SDG15_TVET_006,TVET,Respect for land and natural resources,Minimise environmental footprints in industrial and occupational activities.,Active,CFValue
+CFV_SDG15_TVET_007,TVET,Integration of environmental design and thinking,Apply creative and innovative approaches to sustainable solutions.,Active,CFValue
+CFV_SDG15_TVET_008,TVET,Integration of environmental design and thinking,Embed environmental considerations throughout work processes.,Active,CFValue
+CFV_SDG15_TVET_009,TVET,Integration of environmental design and thinking,"Promote efficiency in resource use, waste reduction, and energy conservation.",Active,CFValue
+CFV_SDG15_TVET_010,TVET,Solutions-focused mindset,Approach environmental challenges with critical thinking and innovative solutions.,Active,CFValue
+CFV_SDG15_TVET_011,TVET,Solutions-focused mindset,Strive for continuous improvement in sustainable practices.,Active,CFValue
+CFV_SDG15_TVET_012,TVET,Solutions-focused mindset,Take initiative to enhance environmental wellbeing in the workplace and community.,Active,CFValue
+CFV_SDG15_TVET_013,TVET,Support for low-carbon and climate-resilient practices,Champion the adoption of low-carbon energy solutions.,Active,CFValue
+CFV_SDG15_TVET_014,TVET,Support for low-carbon and climate-resilient practices,Recognise the importance of reducing carbon emissions for a sustainable future.,Active,CFValue
+CFV_SDG15_TVET_015,TVET,Support for low-carbon and climate-resilient practices,Make sustainability a core principle in professional and personal activities.,Active,CFValue
+CFV_SDG15_TVET_016,TVET,Collaboration and leadership in sustainability,"Work with communities, governments, NGOs, and industry partners to implement sustainable solutions.",Active,CFValue
+CFV_SDG15_TVET_017,TVET,Collaboration and leadership in sustainability,"Lead initiatives such as reforestation, soil conservation, and habitat restoration.",Active,CFValue
+CFV_SDG15_TVET_018,TVET,Collaboration and leadership in sustainability,Mentor and train others in environmental stewardship and sustainable practices.,Active,CFValue
+CFV_SDG15_TVET_019,TVET,Responsible stewardship through monitoring and evaluation,"Appreciate the importance of honesty, transparency, and accuracy in environmental monitoring and reporting.",Active,CFValue
+CFV_SDG15_TVET_020,TVET,Responsible stewardship through monitoring and evaluation,"Develop respect for scientific and traditional knowledge in understanding land, soil, and biodiversity health.",Active,CFValue
+CFV_SDG15_TVET_021,TVET,Responsible stewardship through monitoring and evaluation,Value accountability and ethical responsibility in using data to guide sustainable land management decisions.,Active,CFValue
+CFV_SDG15_TVET_022,TVET,Responsible stewardship through monitoring and evaluation,Make commitment to continuous learning and improvement in conservation practices.,Active,CFValue
+CFV_SDG15_TVET_023,TVET,Responsible stewardship through monitoring and evaluation,"Cultivate care and empathy for ecosystems, recognising that evaluation helps protect life on land for future generations.",Active,CFValue
+CFV_SDG15_TER_001,Tertiary education,Co-operation and knowledge transfer,Recognise the importance of international and interdisciplinary collaboration to address environmental challenges.,Active,CFValue
+CFV_SDG15_TER_002,Tertiary education,Co-operation and knowledge transfer,Commit to shared responsibility for preserving ecosystems and biodiversity.,Active,CFValue
+CFV_SDG15_TER_003,Tertiary education,Co-operation and knowledge transfer,Be open to adapting global best practices and sustainable technologies to local contexts.,Active,CFValue
+CFV_SDG15_TER_004,Tertiary education,Co-operation and knowledge transfer,Contribute actively to the dissemination and adoption of sustainable solutions.,Active,CFValue
+CFV_SDG15_TER_005,Tertiary education,Commitment to ecosystem protection and sustainable use,Take responsibility for preventing ecosystem degradation and promoting restoration.,Active,CFValue
+CFV_SDG15_TER_006,Tertiary education,Commitment to ecosystem protection and sustainable use,Support sustainable land-use practices that protect natural habitats and biodiversity.,Active,CFValue
+CFV_SDG15_TER_007,Tertiary education,Commitment to ecosystem protection and sustainable use,Value ecosystems for their intrinsic worth and recognise their role in a resilient climate future.,Active,CFValue
+CFV_SDG15_TER_008,Tertiary education,Commitment to ecosystem protection and sustainable use,"Consider ethical, social, and intergenerational impacts when making environmental choices.",Active,CFValue
+CFV_SDG15_TER_009,Tertiary education,Equity and fair resource use,Advocate for justice and fairness in managing natural resources.,Active,CFValue
+CFV_SDG15_TER_010,Tertiary education,Equity and fair resource use,Develop sensitivity to the socio-economic effects of environmental degradation.,Active,CFValue
+CFV_SDG15_TER_011,Tertiary education,Equity and fair resource use,Promote policies ensuring that all communities benefit equitably from conservation and sustainability efforts.,Active,CFValue
+CFV_SDG15_TER_012,Tertiary education,Leadership and cultural change,Engage in decision-making processes to advance environmental priorities.,Active,CFValue
+CFV_SDG15_TER_013,Tertiary education,Leadership and cultural change,Inspire cultural shifts toward sustainability through leadership and advocacy.,Active,CFValue
+CFV_SDG15_TER_014,Tertiary education,Leadership and cultural change,Motivate others to act on environmental justice and adopt sustainable practices.,Active,CFValue
+CFV_SDG15_TER_015,Tertiary education,Multidisciplinary collaboration,"Participate in cross-sector partnerships with governments, NGOs, private sector actors, and local communities.",Active,CFValue
+CFV_SDG15_TER_016,Tertiary education,Multidisciplinary collaboration,"Lead or join collaborative projects integrating ecological, social, economic, and cultural perspectives.",Active,CFValue
+CFV_SDG15_TER_017,Tertiary education,Multidisciplinary collaboration,Communicate research and policy findings effectively to diverse audiences.,Active,CFValue
+CFV_SDG15_TER_018,Tertiary education,Multidisciplinary collaboration,Mentor emerging researchers and practitioners in sustainable land management.,Active,CFValue
+CFV_SDG15_ADULT_001,Adult education,Openness to solutions,Embrace diverse and creative approaches to environmental challenges.,Active,CFValue
+CFV_SDG15_ADULT_002,Adult education,Openness to solutions,Use local knowledge and practical resources to address sustainability issues.,Active,CFValue
+CFV_SDG15_ADULT_003,Adult education,Openness to solutions,Maintain a proactive mindset for problem solving and action.,Active,CFValue
+CFV_SDG15_ADULT_004,Adult education,Respect for nature and biodiversity,Value the natural world and its living creatures.,Active,CFValue
+CFV_SDG15_ADULT_005,Adult education,Respect for nature and biodiversity,Recognise the importance of biodiversity for human and ecological wellbeing.,Active,CFValue
+CFV_SDG15_ADULT_006,Adult education,Respect for nature and biodiversity,Exercise stewardship that goes beyond utilitarian use.,Active,CFValue
+CFV_SDG15_ADULT_007,Adult education,Commitment to sustainable livelihoods,Prioritise livelihoods that protect the environment for future generations.,Active,CFValue
+CFV_SDG15_ADULT_008,Adult education,Commitment to sustainable livelihoods,Balance economic needs with ecological responsibility.,Active,CFValue
+CFV_SDG15_ADULT_009,Adult education,Commitment to sustainable livelihoods,Support community prosperity through sustainable practices.,Active,CFValue
+CFV_SDG15_ADULT_010,Adult education,Equity in resource sharing,Advocate fairness in the distribution of natural resources.,Active,CFValue
+CFV_SDG15_ADULT_011,Adult education,Equity in resource sharing,Ensure vulnerable populations benefit from sustainable practices.,Active,CFValue
+CFV_SDG15_ADULT_012,Adult education,Equity in resource sharing,Uphold social and environmental justice.,Active,CFValue
+CFV_SDG15_ADULT_013,Adult education,Catalysing community change,Promote collective action for meaningful environmental outcomes.,Active,CFValue
+CFV_SDG15_ADULT_014,Adult education,Catalysing community change,Take ownership and responsibility within the community.,Active,CFValue
+CFV_SDG15_ADULT_015,Adult education,Catalysing community change,Lead initiatives that inspire others toward sustainability.,Active,CFValue
+CFV_SDG15_ADULT_016,Adult education,Leadership in SDG 15 initiatives,Champion environmental sustainability at the local level.,Active,CFValue
+CFV_SDG15_ADULT_017,Adult education,Leadership in SDG 15 initiatives,Adapt to emerging environmental challenges with resilience.,Active,CFValue
+CFV_SDG15_ADULT_018,Adult education,Leadership in SDG 15 initiatives,Empower others to participate in and sustain positive change.,Active,CFValue
+CFV_SDG15_ADULT_019,Adult education,Appreciation for the intrinsic value of nature and biodiversity,Develop a profound respect for the natural world and its living creatures.,Active,CFValue
+CFV_SDG15_ADULT_020,Adult education,Appreciation for the intrinsic value of nature and biodiversity,Show an understanding of the importance of biodiversity for human and ecological health.,Active,CFValue
+CFV_SDG15_ADULT_021,Adult education,Appreciation for the intrinsic value of nature and biodiversity,Develop a sense of stewardship for nature that goes beyond utilitarian use.,Active,CFValue
+CFV_SDG15_ADULT_022,Adult education,Commitment to sustainable livelihood generation,Commit to creating livelihoods that protect the environment for future generations.,Active,CFValue
+CFV_SDG15_ADULT_023,Adult education,Commitment to sustainable livelihood generation,Be able to balance economic needs with ecological responsibility.,Active,CFValue
+CFV_SDG15_ADULT_024,Adult education,Commitment to sustainable livelihood generation,Believe in the potential for communities to thrive through sustainable practices.,Active,CFValue
+CFV_SDG15_ADULT_025,Adult education,Fair and equitable sharing of resources,Show a deep commitment to equity and fairness in the distribution of natural resources.,Active,CFValue
+CFV_SDG15_ADULT_026,Adult education,Fair and equitable sharing of resources,Believe in the importance of ensuring that vulnerable populations are not excluded from the benefits of sustainable practices.,Active,CFValue
+CFV_SDG15_ADULT_027,Adult education,Fair and equitable sharing of resources,Focus on social and environmental justice.,Active,CFValue
+CFV_SDG15_ADULT_028,Adult education,Enable widespread change,Believe in the power of collective action to create meaningful environmental change.,Active,CFValue
+CFV_SDG15_ADULT_029,Adult education,Enable widespread change,Commit to developing a sense of ownership and responsibility in the community.,Active,CFValue
+CFV_SDG15_ADULT_030,Adult education,Enable widespread change,Show leadership in promoting sustainability and inspiring others to act.,Active,CFValue
+CFV_SDG16_SEC_001,Secondary education,"Empathy, tolerance and mutual respect","Value the dignity and worth of every individual, regardless of background, belief, ability or identity.",Active,CFValue
+CFV_SDG16_SEC_002,Secondary education,"Empathy, tolerance and mutual respect","Develop empathy and open-mindedness when encountering diverse cultures, perspectives and life experiences.",Active,CFValue
+CFV_SDG16_SEC_003,Secondary education,"Empathy, tolerance and mutual respect",Respect the right of others to hold different views and beliefs and engage constructively with diversity.,Active,CFValue
+CFV_SDG16_SEC_004,Secondary education,"Justice, peace and responsibility","Cultivate a strong sense of fairness, equity and justice in both personal and societal contexts.",Active,CFValue
+CFV_SDG16_SEC_005,Secondary education,"Justice, peace and responsibility","Take personal responsibility for one’s actions, including emotional awareness and validation of others’ experiences.",Active,CFValue
+CFV_SDG16_SEC_006,Secondary education,"Justice, peace and responsibility","Commit to peaceful solutions, rejecting violence, discrimination and exclusion in all forms.",Active,CFValue
+CFV_SDG16_SEC_007,Secondary education,Democratic participation and global awareness,Believe in the power of civic and political participation to bring about positive change.,Active,CFValue
+CFV_SDG16_SEC_008,Secondary education,Democratic participation and global awareness,"Value civic duties such as voting, advocacy and respect for the rule of law.",Active,CFValue
+CFV_SDG16_SEC_009,Secondary education,Democratic participation and global awareness,Show commitment to global solidarity by recognising shared responsibility for human rights and global challenges.,Active,CFValue
+CFV_SDG16_SEC_010,Secondary education,Sustainable and ethical thinking,"Advocate for solutions to social and global challenges that are inclusive, fair and environmentally sustainable.",Active,CFValue
+CFV_SDG16_SEC_011,Secondary education,Sustainable and ethical thinking,Appreciate pluralism and diversity as foundations for peaceful and resilient societies.,Active,CFValue
+CFV_SDG16_SEC_012,Secondary education,Sustainable and ethical thinking,Embrace co-operation and collective responsibility in building inclusive institutions and just communities.,Active,CFValue
+CFV_SDG16_TVET_001,TVET,Integrity and anti-corruption,Commit to ethical conduct and make anti-corruption a core aspect of professional life.,Active,CFValue
+CFV_SDG16_TVET_002,TVET,Integrity and anti-corruption,"Promote transparency, accountability, and openness in all operations and decision-making processes.",Active,CFValue
+CFV_SDG16_TVET_003,TVET,Integrity and anti-corruption,"Reject bribery, collusion, and any form of abuse of power in public or private contexts.",Active,CFValue
+CFV_SDG16_TVET_004,TVET,Peace and social responsibility,"Advocate for peace, uphold justice, and work to reduce violence in the workplace and community.",Active,CFValue
+CFV_SDG16_TVET_005,TVET,Peace and social responsibility,Support rehabilitation of former combatants and marginalised individuals with empathy and a sense of shared responsibility.,Active,CFValue
+CFV_SDG16_TVET_006,TVET,Peace and social responsibility,Encourage open-mindedness and dialogue to resolve tensions rather than aggression or exclusion.,Active,CFValue
+CFV_SDG16_TVET_007,TVET,Global and community security,"Uphold security in local and international contexts, including coastal and marine conservation, combating trafficking, and protecting fundamental freedoms.",Active,CFValue
+CFV_SDG16_TVET_008,TVET,Global and community security,Respect the rule of law and democratic governance as essential pillars for peaceful and sustainable societies.,Active,CFValue
+CFV_SDG16_TVET_009,TVET,Global and community security,"Value co-operation between nations, institutions, and communities in building peaceful futures.",Active,CFValue
+CFV_SDG16_TVET_010,TVET,Inclusivity and equity,"Embrace social inclusion, especially for vulnerable populations affected by conflict, poverty, or displacement.",Active,CFValue
+CFV_SDG16_TVET_011,TVET,Inclusivity and equity,"Champion fair access to justice, education, and employment regardless of background, gender, or ethnicity.",Active,CFValue
+CFV_SDG16_TVET_012,TVET,Inclusivity and equity,Promote diversity and intercultural respect in professional environments and community life.,Active,CFValue
+CFV_SDG16_TER_001,Tertiary education,Justice and rule of Law,"Commit to fair, transparent, and inclusive justice systems that protect all people.",Active,CFValue
+CFV_SDG16_TER_002,Tertiary education,Justice and rule of Law,"Uphold democratic principles of equity, accountability, and public participation.",Active,CFValue
+CFV_SDG16_TER_003,Tertiary education,Justice and rule of Law,"Value integrity, human dignity, and universal human rights in governance and daily practice.",Active,CFValue
+CFV_SDG16_TER_004,Tertiary education,Empathy and inclusion,"Demonstrate empathy toward marginalised and vulnerable groups, including migrants, refugees, and survivors of violence.",Active,CFValue
+CFV_SDG16_TER_005,Tertiary education,Empathy and inclusion,"Respect religious, cultural, gender, and identity diversity across personal, professional, and civic life.",Active,CFValue
+CFV_SDG16_TER_006,Tertiary education,Empathy and inclusion,"Promote reconciliation, social cohesion, and belonging within diverse and mobile societies.",Active,CFValue
+CFV_SDG16_TER_007,Tertiary education,"Peace, dialogue, and tolerance",Commit to resolving disputes through peaceful and restorative approaches.,Active,CFValue
+CFV_SDG16_TER_008,Tertiary education,"Peace, dialogue, and tolerance","Value respectful disagreement, dialogue, and active listening across divides.",Active,CFValue
+CFV_SDG16_TER_009,Tertiary education,"Peace, dialogue, and tolerance","Embrace civic, cultural, and artistic expression as vehicles for healing, identity formation, and justice.",Active,CFValue
+CFV_SDG16_TER_010,Tertiary education,Global and environmental citizenship,"Recognise shared responsibility for the global commons, including environmental protection and climate justice.",Active,CFValue
+CFV_SDG16_TER_011,Tertiary education,Global and environmental citizenship,"Promote ethical and sustainable use of natural resources, with sensitivity to land, water, and intergenerational rights.",Active,CFValue
+CFV_SDG16_TER_012,Tertiary education,Global and environmental citizenship,"Commit to active citizenship and sustainable development as pathways to peace, equity, and resilience.",Active,CFValue
+CFV_SDG16_TER_013,Tertiary education,Global and environmental citizenship,"Lead civic or cultural initiatives that strengthen social cohesion, youth engagement, and local problem-solving.",Active,CFValue
+CFV_SDG16_TER_014,Tertiary education,Global and environmental citizenship,"Create inclusive activities that encourage participation, identity expression, and community dialogue.",Active,CFValue
+CFV_SDG16_ADULT_001,Adult education,Peace and non-violence,"Commit to peaceful coexistence, non-violent resolution of disputes, and social harmony.",Active,CFValue
+CFV_SDG16_ADULT_002,Adult education,Peace and non-violence,"Reject violence in all forms, including domestic violence, political conflict, and ‘mob justice’.",Active,CFValue
+CFV_SDG16_ADULT_003,Adult education,Peace and non-violence,"Demonstrate courage and discernment in taking peaceful action, especially when confronting injustice.",Active,CFValue
+CFV_SDG16_ADULT_004,Adult education,Peace and non-violence,Value restorative justice approaches to repair harm and rebuild community trust.,Active,CFValue
+CFV_SDG16_ADULT_005,Adult education,Cultural respect and Inclusivity,"Value indigenous wisdom, customs, and traditional knowledge while critically engaging with practices that may harm rights and dignity.",Active,CFValue
+CFV_SDG16_ADULT_006,Adult education,Cultural respect and Inclusivity,"Promote mutual respect, intercultural understanding, and tolerance across religions, ethnicities, and generations.",Active,CFValue
+CFV_SDG16_ADULT_007,Adult education,Cultural respect and Inclusivity,Embrace pluralism and diversity as foundational strengths for resilient communities.,Active,CFValue
+CFV_SDG16_ADULT_008,Adult education,Responsibility and empowerment,"Take personal and collective responsibility for fostering fair, just, and safe communities.",Active,CFValue
+CFV_SDG16_ADULT_009,Adult education,Responsibility and empowerment,Recognise one’s own agency to create change and support marginalised individuals in doing the same.,Active,CFValue
+CFV_SDG16_ADULT_010,Adult education,Responsibility and empowerment,"Participate in community life with compassion, empathy, and solidarity, promoting inclusive decision-making.",Active,CFValue
+CFV_SDG16_ADULT_011,Adult education,Environmental and communal Stewardship,Care for shared natural resources with an awareness of intergenerational justice and sustainability.,Active,CFValue
+CFV_SDG16_ADULT_012,Adult education,Environmental and communal Stewardship,"Advocate for equitable access to land, water, and resources, recognising their role in sustaining peace.",Active,CFValue
+CFV_SDG16_ADULT_013,Adult education,Environmental and communal Stewardship,"Commit to balancing individual rights with collective wellbeing, fostering harmonious and resilient communities.",Active,CFValue
+CFV_SDG16_ADULT_014,Adult education,"Equity, justice, and civic responsibility","Promote fairness, accountability, and transparency in local and national governance.",Active,CFValue
+CFV_SDG16_ADULT_015,Adult education,"Equity, justice, and civic responsibility","Advocate for the protection of vulnerable groups, including women, children, and indigenous peoples.",Active,CFValue
+CFV_SDG16_ADULT_016,Adult education,"Equity, justice, and civic responsibility","Value civic participation and engagement in legal processes, community decision-making, and public service initiatives.",Active,CFValue
+CFV_SDG17_SEC_001,Secondary education,Collaboration and inclusivity,Value diverse perspectives and recognise the strengths everyone brings.,Active,CFValue
+CFV_SDG17_SEC_002,Secondary education,Collaboration and inclusivity,"Promote inclusive decision-making in school, community, and global initiatives.",Active,CFValue
+CFV_SDG17_SEC_003,Secondary education,Global citizenship and interdependence,Recognise the interconnectedness of global challenges and support international co-operation.,Active,CFValue
+CFV_SDG17_SEC_004,Secondary education,Global citizenship and interdependence,"Respect and engage in humanitarian aid, development assistance, and educational exchanges.",Active,CFValue
+CFV_SDG17_SEC_005,Secondary education,"Fairness, justice, and accountability",Advocate for equitable partnerships that prioritise the needs of marginalised communities.,Active,CFValue
+CFV_SDG17_SEC_006,Secondary education,"Fairness, justice, and accountability","Uphold honesty, transparency, and responsibility in group work and civic action.",Active,CFValue
+CFV_SDG17_SEC_007,Secondary education,Social responsibility and civic engagement,"Take initiative in addressing real-world issues through leadership, volunteering, and advocacy.",Active,CFValue
+CFV_SDG17_SEC_008,Secondary education,Social responsibility and civic engagement,Demonstrate commitment to local and global change through active participation.,Active,CFValue
+CFV_SDG17_SEC_009,Secondary education,Critical thinking and innovation for change,"Reflect on the effectiveness of partnerships, aid programs, and global co-operation.",Active,CFValue
+CFV_SDG17_SEC_010,Secondary education,Critical thinking and innovation for change,"Stay open to innovative ideas, technologies, and interdisciplinary approaches for sustainability.",Active,CFValue
+CFV_SDG17_SEC_011,Secondary education,Commitment to sustainable development,"Actively contribute to solving issues such as poverty, inequality, and climate change.",Active,CFValue
+CFV_SDG17_SEC_012,Secondary education,Commitment to sustainable development,"Promote long-term social, economic, and environmental sustainability in personal and collective actions.",Active,CFValue
+CFV_SDG17_SEC_013,Secondary education,Ethical responsibility and integrity,Uphold ethical standards in collaborations and partnerships.,Active,CFValue
+CFV_SDG17_SEC_014,Secondary education,Ethical responsibility and integrity,"Ensure partnerships are built on trust, fairness, and shared values.",Active,CFValue
+CFV_SDG17_TVET_001,TVET,Professional integrity and ethical responsibility,"Uphold honesty, transparency, and accountability in workplace collaborations and business partnerships.",Active,CFValue
+CFV_SDG17_TVET_002,TVET,Professional integrity and ethical responsibility,"Commitment to ethical decision-making in all aspects of finance, trade, and operations.",Active,CFValue
+CFV_SDG17_TVET_003,TVET,Professional integrity and ethical responsibility,"Promote fair trade, responsible business practices, and corporate social responsibility.",Active,CFValue
+CFV_SDG17_TVET_004,TVET,Workplace co-operation and collaboration,"Value teamwork, shared learning, and collective problem-solving to achieve business and societal goals.",Active,CFValue
+CFV_SDG17_TVET_005,TVET,Workplace co-operation and collaboration,"Respect diversity, inclusion, and equitable participation within collaborative environments.",Active,CFValue
+CFV_SDG17_TVET_006,TVET,Workplace co-operation and collaboration,"Encourage trust and mutual respect among partners, colleagues, and stakeholders.",Active,CFValue
+CFV_SDG17_TVET_007,TVET,Entrepreneurial mindset and innovation,"Encouraging creativity, innovation, and calculated risk-taking to develop sustainable business solutions.",Active,CFValue
+CFV_SDG17_TVET_008,TVET,Entrepreneurial mindset and innovation,"Supporting entrepreneurial initiatives that address community, social, and environmental needs.",Active,CFValue
+CFV_SDG17_TVET_009,TVET,Sustainability and environmental responsibility,Commitment to sustainable production and consumption practices across industries.,Active,CFValue
+CFV_SDG17_TVET_010,TVET,Sustainability and environmental responsibility,"Valuing initiatives that promote long-term environmental, social, and economic benefits.",Active,CFValue
+CFV_SDG17_TVET_011,TVET,Sustainability and environmental responsibility,Encouraging integration of green technologies and environmentally sound practices in vocational contexts.,Active,CFValue
+CFV_SDG17_TVET_012,TVET,"Equity, social responsibility, and civic engagement",Supporting community wellbeing and social equity through partnerships and professional practice.,Active,CFValue
+CFV_SDG17_TVET_013,TVET,"Equity, social responsibility, and civic engagement",Promoting active participation in civic and community initiatives that advance sustainable development.,Active,CFValue
+CFV_SDG17_TVET_014,TVET,"Equity, social responsibility, and civic engagement",Advocating for policies and practices that ensure fair treatment of workers and inclusive access to opportunities.,Active,CFValue
+CFV_SDG17_TVET_015,TVET,"Resilience, adaptability, and lifelong learning","Openness to change, innovation, and continuous improvement in response to evolving workplace and societal challenges.",Active,CFValue
+CFV_SDG17_TVET_016,TVET,"Resilience, adaptability, and lifelong learning","Valuing flexibility, problem-solving, and perseverance in the face of obstacles.",Active,CFValue
+CFV_SDG17_TVET_017,TVET,"Resilience, adaptability, and lifelong learning",Commitment to ongoing learning as a foundation for professional growth and sustainable partnerships.,Active,CFValue
+CFV_SDG17_TVET_018,TVET,Digital and global awareness,Responsible and ethical use of digital tools and technology to enhance workplace and partnership effectiveness.,Active,CFValue
+CFV_SDG17_TVET_019,TVET,Digital and global awareness,"Respect for diverse cultures, global perspectives, and intercultural collaboration in partnerships.",Active,CFValue
+CFV_SDG17_TVET_020,TVET,Digital and global awareness,Awareness of the broader impact of local actions on global sustainability and development goals.,Active,CFValue
+CFV_SDG17_TER_001,Tertiary education,Commitment to social change and development,Valuing cross-sector collaboration as essential to sustainable development.,Active,CFValue
+CFV_SDG17_TER_002,Tertiary education,Commitment to social change and development,Belief in partnerships as vehicles for social transformation and global wellbeing.,Active,CFValue
+CFV_SDG17_TER_003,Tertiary education,Commitment to social change and development,Commitment to improving community quality of life through collective action.,Active,CFValue
+CFV_SDG17_TER_004,Tertiary education,Equity and inclusion in partnerships,"Respect for all voices, especially from marginalised and under-represented groups.",Active,CFValue
+CFV_SDG17_TER_005,Tertiary education,Equity and inclusion in partnerships,Appreciation of diversity in decision-making and inclusive practices.,Active,CFValue
+CFV_SDG17_TER_006,Tertiary education,Equity and inclusion in partnerships,"Support for equitable access to resources, opportunities, and decision-making processes.",Active,CFValue
+CFV_SDG17_TER_007,Tertiary education,Ethical engagement and responsible collaboration,"Upholding fairness, integrity, and mutual respect in partnerships.",Active,CFValue
+CFV_SDG17_TER_008,Tertiary education,Ethical engagement and responsible collaboration,Valuing accountability and trust through ethical practice.,Active,CFValue
+CFV_SDG17_TER_009,Tertiary education,Ethical engagement and responsible collaboration,Commitment to social and environmental responsibility in all collaborations.,Active,CFValue
+CFV_SDG17_TER_010,Tertiary education,Intercultural competence and global citizenship,"Respect for diverse cultures, perspectives, and traditions.",Active,CFValue
+CFV_SDG17_TER_011,Tertiary education,Intercultural competence and global citizenship,Belief in global citizenship and shared responsibility for human development.,Active,CFValue
+CFV_SDG17_TER_012,Tertiary education,Intercultural competence and global citizenship,Awareness of global interdependence and solidarity in addressing challenges.,Active,CFValue
+CFV_SDG17_TER_013,Tertiary education,Commitment to evidence-based decision-making,"Valuing data, research, and evidence as guides for partnership choices.",Active,CFValue
+CFV_SDG17_TER_014,Tertiary education,Commitment to evidence-based decision-making,Belief in informed approaches to identify effective solutions.,Active,CFValue
+CFV_SDG17_TER_015,Tertiary education,Commitment to evidence-based decision-making,Commitment to evidence-informed decisions that sustain long-term impact.,Active,CFValue
+CFV_SDG17_TER_016,Tertiary education,"Innovation, knowledge sharing and lifelong learning",Appreciation of interdisciplinary collaboration and knowledge exchange.,Active,CFValue
+CFV_SDG17_TER_017,Tertiary education,"Innovation, knowledge sharing and lifelong learning",Support for open access to research and best practices.,Active,CFValue
+CFV_SDG17_TER_018,Tertiary education,"Innovation, knowledge sharing and lifelong learning","Valuing lifelong learning as foundation for adaptation, growth, and innovation.",Active,CFValue
+CFV_SDG17_ADULT_001,Adult education,Community engagement,Appreciation of active participation in local and global initiatives that contribute to societal progress.,Active,CFValue
+CFV_SDG17_ADULT_002,Adult education,Community engagement,Belief in responsibility and belonging within the community to strengthen collective efforts.,Active,CFValue
+CFV_SDG17_ADULT_003,Adult education,Ethical responsibility,"Uphold fairness, transparency, and accountability in all collaborations.",Active,CFValue
+CFV_SDG17_ADULT_004,Adult education,Ethical responsibility,Value partnerships built on mutual trust and integrity.,Active,CFValue
+CFV_SDG17_ADULT_005,Adult education,Economic and social equity,Support initiatives that empower marginalised communities and advance social justice.,Active,CFValue
+CFV_SDG17_ADULT_006,Adult education,Economic and social equity,"Belief in equitable access to resources, opportunities, and decision-making.",Active,CFValue
+CFV_SDG17_ADULT_007,Adult education,Intergenerational knowledge sharing,Respect for learning across generations to strengthen communities.,Active,CFValue
+CFV_SDG17_ADULT_008,Adult education,Intergenerational knowledge sharing,"Valuing both traditional and modern knowledge, ensuring all voices are included.",Active,CFValue
+CFV_SDG17_ADULT_009,Adult education,Commitment to development,"Emphasis on partnerships grounded in mutual accountability, collaboration, and long-term sustainability.",Active,CFValue
+CFV_SDG17_ADULT_010,Adult education,Commitment to development,Belief in prioritising on long-term impact over short-term gains.,Active,CFValue
+CFV_SDG17_ADULT_011,Adult education,Adaptability,"Openness to innovative approaches, technologies, and practices to meet evolving needs.",Active,CFValue
+CFV_SDG17_ADULT_012,Adult education,Adaptability,Valuing flexibility and innovation in response to change.,Active,CFValue
+CFV_SDG17_ADULT_013,Adult education,Active citizenship,Commitment to engaging in advocacy and dialogue that support sustainable development.,Active,CFValue
+CFV_SDG17_ADULT_014,Adult education,Active citizenship,Belief in inclusive participation in governance and community-led decision-making.,Active,CFValue

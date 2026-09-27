@@ -1,0 +1,1000 @@
+<PARSED TEXT FOR PAGE: 1 / 82>
+RESEARCH ARCHITECTURE SPECIFICATION
+Ontology-Driven Knowledge Graph
+Recommendation System
+for Sustainability-Aligned Curriculum Integration
+Final-State System Architecture, Ontology, Recommendation Logic, Pedagogical Contracts, 
+Validation-Informed Design and Research Evaluation
+Version 1.6.1 | 21 September 2026 | Design-8a + Stage-D/E/F pre-implementation rule-complete review
+Final-state recommendation lifecycle
+INTER
+ACTIO
+N
+RECOMMENDATION SERVICE LEARNING DESIGN
+●
+Educat
+or
+input
+resolve
+→
+●
+Techni
+cal
+anchor
+project
+→
+●
+Ontolo
+gy￾aware
+profile
+interpr
+et
+→
+●
+Mecha
+nism &
+context
+evaluat
+e
+→
+●
+SCR
+decisio
+n
+enrich
+→
+●
+Educati
+onal
+enrich
+ment
+assembl
+e
+→
+●
+Educat
+or
+guide
+SCOPE This specification describes the intended final-state system: ontology, graph, semantic 
+retrieval, recommendation reasoning, educator-input routing, educational-framework enrichment, 
+provenance, administration, deployment and research evaluation. Notebook execution and low-level 
+debugging procedures remain outside scope; validation-informed design evolution is included where 
+it materially explains a final-state architectural choice.
+RESEARCH POSITION The system is treated as a hybrid decision-support architecture rather than an 
+unconstrained generative AI system. Ontology and graph structure establish what can be asserted; 
+semantic embeddings assist discovery; application mechanism and curated evidence establish 
+sustainability relevance; educational frameworks shape the final learning design.
+Reference corpus at this design freeze (scale indicator, not a hard system limit): 9,033 nodes, 10,347 typed relationships and 22 
+relationship types across curriculum, technical knowledge, sustainability, SDG, ESD, Curriculum Framework, guardrails and 
+application contexts.
+<PARSED TEXT FOR PAGE: 2 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 2
+How to read this specification
+The document deliberately uses a technical-documentation pattern: a system idea is shown 
+visually first; the exact semantics are then defined in short prose, tables and structured 
+examples. Figures are drawn as standalone, slide-ready architecture views. Where validation 
+changed a design decision, the specification also records the observed failure, technical 
+diagnosis, rejected alternatives, adopted rule and regression condition. Detailed appendices 
+retain the field-level and relationship-level specification needed for implementation and 
+research reproducibility.
+NORMATIVE LANGUAGE MUST denotes an architectural invariant; SHOULD denotes the preferred 
+production design; MAY denotes a configurable implementation choice that must not alter ontology 
+truth, eligibility or provenance.
+Revision 1.6.1 completeness review
+This revision preserves Design-8a + Repository v1.1 as the operational sustainability-recommendation baseline
+and integrates the downstream design decisions completed after v1.5: frozen framework mappings, the frozen 
+SCR pedagogical template repository, Stage-F educator-kit runtime/persistence rules, the per-template output￾element contract, the teaching-case/evidence repository, framework-context resolution, kit validation and 
+educator-facing display rules. V1 is explicitly a research demonstrator, not a production/commercial platform; 
+educator judgement remains authoritative. Experimental Design-9/repository v1.2+ work and explored 
+alternative deployment stacks are retained as research evidence only and are not promoted into the V1 
+runtime baseline.
+Executive architecture
+Final-state recommendation lifecycle
+INTER
+ACTIO
+N
+RECOMMENDATION SERVICE LEARNING DESIGN
+●
+Educat
+or
+input
+resolve
+→
+●
+Techni
+cal
+anchor
+project
+→
+●
+Ontolo
+gy￾aware
+profile
+interpr
+et
+→
+●
+Mecha
+nism &
+context
+evaluat
+e
+→
+●
+SCR
+decisio
+n
+enrich
+→
+●
+Educati
+onal
+enrich
+ment
+assembl
+e
+→
+●
+Educat
+or
+guide
+Figure 1. The final-state lifecycle separates technical resolution, sustainability decision and educational enrichment.
+SLIDE TAKEAWAY The system does not ask an LLM to invent sustainability links. It resolves a 
+technical anchor, constructs evidence, applies eligibility/guardrails, ranks only valid SCRs, 
+then enriches the result with SDG/ESD/Curriculum Framework content.
+<PARSED TEXT FOR PAGE: 3 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 3
+Complete final-state architecture
+The master view below shows the complete final-state system in one diagram. Later figures zoom into each 
+mechanism without changing the architectural boundaries shown here.
+Complete final-state system architecture
+A single view of interaction, recommendation reasoning, ontology/knowledge graph, educational enrichment and provenance.
+EDUCATOR / ADMIN INTERACTION
+Course • Module • Subtopic • curated 
+context • educator Topic / Context / 
+Question • free technical text
+SEMANTIC EMBEDDING
+all-MiniLM-L6-v2
+384-d
+query/facet vectors at runtime
+RECOMMENDATION / REASONING 
+SERVICE
+Input routing • anchor resolution • 
+TopicSemanticProfile • 
+ApplicationMechanismProfile • controlled 
+traversal • eligibility • guardrails • context 
+evidence • primary ranking • facet-local 
+secondary discovery • polarity/negation 
+veto • multi-SCR promotion
+GOVERNANCE
+canonical repositories
+version/status
+provenance
+relationship validation
+PERSISTENT VECTORS
+entity embeddings stored on Neo4j nodes
+vector indexes support Top-N retrieval
+ONTOLOGY + KNOWLEDGE GRAPH / 
+NEO4J
+Course Module Subtopic KCR; KPR/KFR → → →
+independently relate to KCR; Application 
+Context and Guardrails constrain sustainability
+reasoning; vectors and typed relationships 
+support retrieval and evidence paths
+↓
+ADMIN UPDATE LIFECYCLE
+semantic-text hash
+re-embed changed/new nodes only
+publish governed release
+SUSTAINABILITY + EDUCATIONAL 
+FRAMEWORK ENRICHMENT
+Eligible SCR SDG Target/Indicator SDG → →
+Goal goal-constrained UNESCO ESD →
+objectives + Curriculum Framework 
+Knowledge/Skills/Values LearningDesign →
+↓
+OUTPUT / PROVENANCE / FEEDBACK
+Educator Guide • activity/assessment/project 
+suggestions • RecommendationEvent • 
+RecommendationContextSnapshot • saved 
+LearningDesign • educator feedback
+ARCHITECTURAL INVARIANT Ontology defines meaning; embeddings retrieve candidates; mechanism/context evidence establishes 
+sustainability relevance; guardrails control scope; frameworks enrich only eligible SCRs.
+Master architecture view. Interaction, reasoning, ontology/knowledge graph, educational enrichment, persistence and governance 
+are shown as one final-state system.
+Research contributions embodied in the architecture
+ID Research contribution Architectural expression
+C1 Ontology-separated knowledge model Curriculum occurrences, reusable 
+knowledge concepts (KCR), principles 
+(KPR), functions (KFR) and 
+sustainability concepts (SCR) remain 
+semantically distinct and are 
+connected only through typed 
+relationships.
+<PARSED TEXT FOR PAGE: 4 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 4
+ID Research contribution Architectural expression
+C2 Controlled hierarchical graph 
+reasoning
+Recommendation scope begins at the 
+most specific selected subtopic and 
+expands to module/course evidence 
+only when narrower evidence is 
+insufficient; unrestricted graph 
+wandering is prohibited.
+C3 Mechanism-aware sustainability 
+relevance
+Technical topic names alone are 
+insufficient. 
+ApplicationMechanismProfile and 
+Application Context evidence 
+represent what is being done, by what
+mechanism, to which 
+resource/function/stakeholder, and 
+under which boundaries.
+C4 Eligibility-before-ranking hybrid 
+retrieval
+Graph scope, mechanism evidence 
+and guardrails decide which SCRs are 
+eligible; vector similarity is used for 
+candidate discovery and ranking but 
+cannot create ontology truth.
+C5 Multi-SCR evidence without forced 
+single-label output
+Separate mechanisms may 
+legitimately support multiple 
+sustainability concepts. The system 
+can promote multiple SCRs while 
+retaining a primary result for 
+interface compatibility.
+C6 Framework-constrained educational 
+enrichment
+SDG, UNESCO ESD and Curriculum 
+Framework records are selected only 
+after SCR eligibility and within the 
+structurally linked SDG pathway, 
+reducing framework-driven false 
+positives.
+C7 Provenance-first explainability Each delivered recommendation can 
+be replayed from the resolved anchor,
+graph path, context/mechanism 
+evidence, candidate scores, guardrail 
+decision, model version and 
+repository version.
+C8 Educator-input precedence and safe 
+re-anchoring
+Selected ontology scope remains 
+authoritative; educator 
+context/question controls application 
+intent; text-only input resolves to a 
+safe anchor before recommendation; 
+conflicts trigger explicit re-anchor 
+rather than silent replacement.
+C9 Compatibility-before-semantic￾ranking
+System-generated Application 
+Contexts must pass 
+structural/mechanism/boundary 
+compatibility before MiniLM ranks 
+them. Semantic similarity ranks 
+eligible candidates; it does not create 
+eligibility.
+IMPORTANT These are design contributions of the research system. Claims of novelty or superiority 
+should be established through the evaluation plan in Part VII rather than assumed from architecture 
+<PARSED TEXT FOR PAGE: 5 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 5
+alone.
+Document map
+Part Focus What it defines
+I Research foundation Problem, research questions, 
+contributions, design invariants and 
+reference corpus.
+II Ontology & knowledge graph Classes, typed relationships, 
+constraints, IDs, semantic repositories 
+and framework model.
+III Semantic retrieval & runtime profiles MiniLM embeddings, vector indexes, 
+persistent/transient data, 
+TopicSemanticProfile and 
+ApplicationMechanismProfile.
+IV Recommendation logic UI resolution, controlled traversal, 
+Application Context evidence, 
+eligibility, guardrails, abstention, 
+ranking and multi-SCR promotion.
+V Educational enrichment SCR SDG UNESCO ESD → → →
+Curriculum Framework CAMPUS- →
+aligned LearningDesign / Educator 
+Guide.
+VI Provenance, operations & deployment RecommendationEvent, 
+ContextSnapshot, feedback, curation, 
+versioning, performance, security and 
+deployment.
+VII Research evaluation design Research questions, validation 
+programme/results, robustness, 
+ablation, failure taxonomy, design￾decision rationale, generalisation and 
+limitations.
+VIII Pedagogical contract & Educator Kit 
+generation
+Frozen framework/pedagogy 
+repositories, Stage-F runtime inputs, 
+output-element contracts, teaching 
+evidence, framework-context 
+resolution, LLM generation, 
+validation, educator-facing structure 
+and implementation readiness.
+A–G Appendices Entity dictionary, persistence matrix, 
+semantic-text templates, technology 
+baseline, research checklist, 
+references and consolidated 
+implementation decision register.
+<PARSED TEXT FOR PAGE: 6 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 6
+PART I
+Research foundation
+The architecture is a research instrument: it operationalises a defensible chain from technical 
+curriculum content to sustainability-aligned educational design while preserving technical 
+scope, explainability and reproducibility.
+ON THIS PART
+• Research problem and system objective
+• Research questions and propositions
+• Design invariants
+• Reference corpus and scale
+• Separation of ontology truth, retrieval evidence and generated learning content
+Each part starts with the system idea first, then defines the technical specification and research implications.
+<PARSED TEXT FOR PAGE: 7 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 7
+1. Research problem and system objective
+Higher-education curricula increasingly need to address sustainability, but the integration 
+problem is not simply a matter of attaching SDG labels to course topics. A technical topic can 
+support different sustainability implications depending on the application, operational action, 
+affected resource, stakeholder setting and boundary conditions. Conversely, many technical 
+topics have no defensible sustainability implication in a particular teaching instance. The 
+system therefore treats sustainability integration as a constrained semantic reasoning problem 
+rather than a keyword-matching or unconstrained text-generation problem.
+The final-state system is designed to assist educators in discovering, justifying and translating sustainability 
+relevance within existing curricula. It combines a governed ontology, a Neo4j knowledge graph, semantic 
+embeddings, controlled graph traversal, curated Application Context evidence, discipline guardrails and 
+educational-framework references. Its output is an explainable educator-facing recommendation bundle, not 
+merely an SCR label.
+RESEARCH PROBLEM How can an intelligent system recommend sustainability integration 
+opportunities from discipline-specific curriculum content while remaining technically valid, context￾sensitive, cross-disciplinary, explainable and educationally actionable?
+1.1 Research questions
+RQ Dimension Research question
+RQ1 Technical validity Can the system resolve curriculum 
+selections or free text to a defensible 
+technical anchor without broadening 
+to unrelated sibling concepts?
+RQ2 Context sensitivity Does representing operational action, 
+mechanism, affected 
+resource/function and 
+stakeholder/ecological context 
+improve sustainability relevance 
+compared with topic-name similarity 
+alone?
+RQ3 Hybrid evidence Does combining ontology/graph 
+evidence with semantic retrieval 
+outperform semantic-only 
+recommendation while reducing 
+unsupported inference?
+RQ4 Specificity Does controlled subtopic module → →
+course expansion preserve more 
+relevant and explainable evidence 
+than unrestricted graph 
+neighbourhood traversal?
+RQ5 Cross-domain sustainability Can social, ecological, governance and
+intergenerational sustainability 
+concepts be recommended from 
+technical subjects when mechanism 
+evidence supports them, without 
+<PARSED TEXT FOR PAGE: 8 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 8
+RQ Dimension Research question
+imposing discipline-equality filters?
+RQ6 Educational alignment Can eligible SCRs be systematically 
+translated into SDG, ESD and 
+Curriculum Framework outcomes 
+without allowing those frameworks to
+create technical relevance 
+retroactively?
+RQ7 Explainability and educator use Can educators inspect why a 
+recommendation was made, modify 
+application context, and use the result 
+to construct a credible activity or 
+assessment?
+RQ8 Operational feasibility Can precomputed entity embeddings, 
+vector indexes and bounded graph 
+traversal produce interactive 
+response times as the repository 
+grows?
+1.2 Research propositions / testable expectations
+ID Testable expectation
+P1 A valid subtopic-level evidence path should outrank an 
+equally strong module- or course-level inference because it
+is more specific and shorter.
+P2 A high semantic similarity score without 
+structural/mechanism eligibility should not be sufficient to 
+recommend an SCR.
+P3 Curated Application Context evidence should improve 
+discrimination between sustainability concepts that are 
+lexically close but mechanistically different.
+P4 Multi-facet mechanism representation should improve 
+recovery of legitimately multi-label sustainability cases 
+compared with one combined text embedding.
+P5 Governed SCR framework mappings built from →
+goal-constrained candidate pools should improve 
+educational coherence and reduce framework￾level semantic drift compared with 
+unconstrained global framework search.
+P6 Recommendation provenance should allow an expert 
+reviewer to reconstruct the evidence chain without relying
+on hidden model reasoning.
+P7 Equivalent educator intent expressed as context, question 
+or combined fields should preserve semantic 
+recommendation outcomes after field-aware mechanism 
+normalisation.
+P8 For system-generated Application Contexts, 
+structural/mechanism compatibility should determine 
+eligibility before semantic ranking; high similarity alone 
+<PARSED TEXT FOR PAGE: 9 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 9
+ID Testable expectation
+should not surface an off-scope context.
+2. Design invariants
+• Ontology and curated typed relationships are the semantic authority. Embeddings are a retrieval layer, not 
+a source of ontology truth.
+• KCR, KPR, KFR and SCR are independent repositories. KPR and KFR connect to KCR through typed 
+relationships; they are not mandatory sequential levels.
+• The selected Subtopic is the preferred technical scope. Module and Course are controlled fallback scopes; 
+unrelated siblings are not silently imported.
+• Prerequisite relationships inform readiness/preparation, not topical relevance.
+• Application Context may create sustainability relevance only when it is compatible with the technical 
+anchor and boundary conditions.
+• Educator-entered Application Context supersedes system-generated context for the primary 
+recommendation path; system-generated alternatives remain explicitly secondary.
+• Guardrails constrain unsupported technical inference. They do not prohibit a valid cross-domain 
+sustainability concept simply because its sustainability dimension differs from the course discipline.
+• Eligibility is evaluated before ranking. Ranking compares only candidates that survive technical, 
+mechanism, boundary and guardrail checks.
+• SDG/ESD/Curriculum Framework records enrich a sustainability recommendation only after SCR eligibility 
+is established.
+• TopicSemanticProfile and ApplicationMechanismProfile are transient runtime projections. 
+RecommendationEvent and RecommendationContextSnapshot are persisted for replay and audit.
+• Repository entity embeddings are generated and persisted; query vectors and similarity scores are request￾specific. Scores become persistent only as part of recommendation provenance.
+• Feedback informs review, calibration and curation proposals; it MUST NOT silently rewrite canonical 
+ontology entities or relationships.
+SLIDE TAKEAWAY A single principle governs the design: retrieval may suggest, but only 
+governed evidence may justify.
+• When a curriculum anchor is explicitly selected, it remains authoritative for technical scope. Educator￾entered Topic/Context/Question text may change application evidence but MUST NOT silently replace that 
+anchor.
+• Educator-entered Context/Question is preserved verbatim for provenance and normalized into transient 
+mechanism facets for runtime reasoning; the normalized profile does not overwrite the original input.
+• System-generated Application Context alternatives MUST pass technical/mechanism/boundary compatibility 
+before semantic ranking. When no direct structural match exists, controlled semantic fallback MAY be used.
+• If only free technical text is supplied, the system MUST resolve a defensible ontology anchor before SCR 
+recommendation; ambiguous or low-confidence resolution is a valid block/clarification outcome.
+<PARSED TEXT FOR PAGE: 10 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 10
+• For secondary-SCR reasoning, explicit negation or exclusion is veto/weakening evidence only. A negated mechanism MUST
+NOT discover, strengthen or promote the corresponding SCR; explicit exclusion takes precedence over semantic or curated￾context similarity.
+• A secondary SCR is promoted only when it explains an additional independently supported mechanism facet. Facet-local 
+discovery may recover a candidate outside the global Top-N, but it does not bypass eligibility, guardrails, boundary conditions 
+or polarity checks.
+3. Reference corpus and scale
+The architecture is not hard-coded to a fixed course list. The current governed corpus is useful, however, as a 
+concrete scale reference for implementation, performance design and research reporting. These counts 
+describe the present design-freeze corpus; new institutions or administrators may add curricula and 
+knowledge entities through the curation workflow without changing the ontology model.
+Layer Entity Current count Role
+Curriculum Course 60 Official/curated course 
+instances
+Curriculum Module 373 Course-contained modules
+Curriculum Subtopic 1338 Most specific curriculum 
+anchor
+Technical semantics KCR 1267 Reusable knowledge concepts
+Technical semantics KPR 146 Laws, theories, doctrines, 
+rules, models, principles
+Technical semantics KFR 136 Operational/cognitive/
+physical/regulatory functions
+Sustainability SCR 96 95 active + 1 
+deprecated/merged concept
+Controls Discipline Guardrail 1771 Course/module/subtopic-level 
+technical inference 
+constraints
+Context Application Context 40 Reusable 
+application/problem/action/m
+echanism contexts
+UN SDG Goal / Target / Indicator 17 / 169 / 251 Structural sustainability 
+framework
+UNESCO ESD Objective / Competency 255 / 8 Goal-linked objectives plus 
+cross-cutting competencies
+Curriculum Framework Knowledge / Skill / Value / 
+Competency
+1089 / 1026 / 986 / 5 Goal-linked tertiary education
+outcomes
+SCALE NOTE The current graph instantiation contains 9,033 nodes and 10,347 typed relationships 
+across 22 relationship types. These counts are implementation reference values, not architectural 
+limits.
+<PARSED TEXT FOR PAGE: 11 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 11
+PART II
+Ontology and knowledge graph
+The ontology defines what the system is allowed to mean. Neo4j instantiates that model as 
+typed nodes and relationships; semantic vectors are attached as generated retrieval metadata, 
+not as substitutes for ontology semantics.
+ON THIS PART
+• Ontology layers and entity distinctions
+• Canonical relationship semantics
+• Graph constraints and directionality
+• Identifier and versioning rules
+• Sustainability and educational-framework model
+Each part starts with the system idea first, then defines the technical specification and research implications.
+<PARSED TEXT FOR PAGE: 12 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 12
+4. Ontology overview
+Core ontology and operational graph
+Typed relationships connect distinct semantic layers; arrow meaning is defined in the relationship catalogue.
+CURRICULUM
+● → ● → ● Course Module 
+Subtopic
+contains contains
+ maps to ↓
+TECHNICAL KNOWLEDGE &
+CONTEXT
+● → ● ← ● KPR KCR KFR
+ ↑
+● ● Application Context 
+Guardrail
+ evidence →
+constrains
+SUSTAINABILITY
+● SCR
+Sustainability concept
+Eligible only after scope, 
+mechanism and guardrail 
+checks
+EDUCATIONAL 
+FRAMEWORKS
+● → ● SDG Target SDG 
+Indicator
+ ↓
+● SDG Goal
+↙ ↘ 
+● ● ESD Objective CF K/S/V
+OPERATIONS / PROVENANCE
+● → ● → ● → ● → ● RecommendationEvent ContextSnapshot LearningDesign EducatorGuide Feedback
+Figure 2. Core ontology and operational graph. Curriculum, technical knowledge, sustainability and educational-framework nodes
+are connected through typed relationships while provenance remains operationally distinct.
+The ontology is a governed conceptual model, not merely a database schema. It defines the identity, meaning, 
+scope and permissible relationships of entities. Neo4j stores instances of these classes and their typed 
+relationships. The ontology should be expressible independently of Neo4j—e.g., in OWL/RDF or another formal
+representation—but the production recommendation service may operate directly on the Neo4j property 
+graph as long as the same semantic rules are preserved.
+SLIDE TAKEAWAY The graph is not the ontology by itself: the ontology supplies meaning and 
+constraints; Neo4j supplies the operational graph representation.
+4.1 Ontology layers
+Layer Core classes Semantic role
+Curriculum structure Course, Module, Subtopic Represents where content is taught. 
+Curriculum occurrence IDs preserve 
+source structure.
+Reusable technical knowledge KCR, KPR, KFR Represents what the knowledge is, 
+what governs/explains it, and what 
+role/function it performs.
+Application and control ApplicationContext, 
+DisciplineGuardrail
+Represents application mechanism 
+evidence and technical inference 
+boundaries.
+Sustainability semantics SCR Represents sustainability conditions, 
+strategies, values, challenges or 
+desired states independent of SDG 
+labels.
+Global educational frameworks SDGGoal, SDGTarget, SDGIndicator, 
+ESDObjective, ESDCompetency, 
+CFKnowledge, CFSkill, CFValue, 
+CFCompetency
+Provides structurally constrained 
+sustainability and learning-outcome 
+enrichment.
+Operational provenance RecommendationEvent, 
+RecommendationContextSnapshot, 
+LearningDesign, EducatorGuide, 
+Captures runtime decisions, selected 
+evidence, generated learning design 
+and human review.
+<PARSED TEXT FOR PAGE: 13 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 13
+Layer Core classes Semantic role
+EducatorFeedback
+5. Entity distinctions
+Entity Question it answers Example Not to be confused with
+Course What is taught as a course? Applied Cyber-Physical 
+Systems
+Reusable concept
+Module How is the course organised? Hydraulic machinery / 
+Database transactions / etc.
+KCR/KPR/KFR
+Subtopic What specific curriculum 
+content is taught?
+Darcy's law; Binary Search 
+Tree
+Canonical reusable concept
+KCR What is it? Groundwater recharge; 
+Binary Search Tree
+KPR or KFR
+KPR What governs, explains or 
+characterises it?
+Precautionary Principle; 
+Kirchhoff's Voltage Law
+KCR
+KFR What does it do / what role 
+does it perform?
+Measure; Allocate; Regulate; 
+Evaluate
+Product/application
+SCR What sustainability condition,
+value, challenge or strategy is 
+represented?
+Local Ecological Fit; 
+Preventive Maintenance and 
+Asset Life Extension
+SDG title
+Application Context In what 
+problem/action/mechanism 
+situation is the technical 
+knowledge being applied?
+Groundwater Recharge with 
+Local Hydrogeological Fit
+A canonical technical concept
+Guardrail What inference must be 
+permitted, constrained or 
+excluded in this technical 
+scope?
+Do not infer sustainability 
+merely from ordinary 
+sizing/calculation
+A sustainability taxonomy
+5.1 KCR/KPR/KFR are not a chain
+A frequent modelling error is to read KCR KPR KFR as a fixed hierarchy. The intended model is different: → →
+KPR and KFR are reusable semantic entities that connect directly to applicable KCRs. A principle may apply to 
+several concepts; a function may act on several concepts; a concept may have multiple applicable principles 
+and functions. The relationship direction is stored canonically, but reverse traversal is allowed at query time.
+Canonical relationship pattern
+(:KnowledgePrinciple {id: 'KPR_...'})-[:APPLIES_TO_KCR]->(:KnowledgeConcept {id: 'KCR_...'})
+(:KnowledgeFunction {id: 'KFR_...'})-[:ACTS_ON_KCR]->(:KnowledgeConcept {id: 'KCR_...'})
+DESIGN RULE Do not materialise duplicate inverse edges merely for convenience. The application may 
+traverse a stored edge in either direction while preserving one canonical assertion.
+<PARSED TEXT FOR PAGE: 14 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 14
+6. Canonical relationship semantics
+Relationship Source Target Current count Meaning
+CONTAINS_MODULE Course Module 373 Curriculum hierarchy
+CONTAINS_SUBTOPIC Module Subtopic 1338 Curriculum hierarchy
+MAPS_TO_KCR Subtopic KCR 1338 Direct curriculum-to￾concept mapping
+APPLIES_TO_KCR KPR KCR 252 Principle applies to / 
+explains concept
+ACTS_ON_KCR KFR KCR 252 Function acts on or 
+operationalises concept
+OPERATIONALIZES KFR KPR 136 Function 
+operationalises a 
+governing principle 
+where curated
+REQUIRES_KNOWLED
+GE_OF
+KCR/Subtopic KCR 175 Readiness/prerequisite 
+knowledge
+REQUIRES_PRINCIPLE KFR/KCR KPR 24 Requires principle for 
+correct interpretation
+IS_SUBCONCEPT_OF_K
+CR
+KCR KCR 2 Curated concept 
+hierarchy
+RELATED_TO_KPR KPR KPR 81 Curated principle 
+relation
+RELATED_TO_SCR SCR SCR 218 Curated sustainability 
+relation
+EVIDENCE_SUPPORTS ApplicationContext SCR 41 Curated application￾mechanism evidence
+SUPPORTS_SDG_TARGE
+T
+SCR/ApplicationContext SDGTarget 376 Structural SDG-target 
+support
+REFERENCES_SDG_IND
+ICATOR
+SCR SDGIndicator 193 Indicator reference
+BELONGS_TO_SDG SDGTarget SDGGoal 169 Target-to-goal 
+hierarchy
+MEASURES_TARGET SDGIndicator SDGTarget 251 Indicator-to-target 
+structure
+OBJECTIVE_FOR_SDG ESDObjective SDGGoal 255 UNESCO objective 
+linked to goal
+OUTCOME_FOR_SDG CFKnowledge/Skill/
+Value
+SDGGoal 3101 Curriculum 
+Framework outcome 
+linked to goal
+GOVERNS_COURSE Guardrail Course 60 Course-level technical 
+inference control
+GOVERNS_MODULE Guardrail Module 373 Module-level technical 
+inference control
+GOVERNS_SUBTOPIC Guardrail Subtopic 1338 Subtopic-level 
+<PARSED TEXT FOR PAGE: 15 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 15
+Relationship Source Target Current count Meaning
+technical inference 
+control
+MERGED_INTO Deprecated SCR Active SCR 1 Lifecycle redirect 
+preserving old 
+references
+RESEARCH RELEVANCE The relationship catalogue is intentionally sparse compared with unrestricted 
+semantic graphs. Missing edges are preferable to weak edges because every asserted edge can affect 
+recommendation eligibility and explainability.
+7. Ontology constraints and graph governance
+Constraint Requirement
+Canonical identity One distinct reusable entity has one stable canonical 
+record. Names may change; permanent IDs remain stable 
+unless entity identity changes.
+No forced relationship population A relationship is created only when semantically justified. 
+Blank relationship fields are valid.
+No discipline duplication Reusable KCR/KPR/KFR/SCR entities should not be 
+duplicated only because the same concept appears in 
+another discipline.
+Source fidelity Course descriptions, objectives and outcomes preserve the 
+source curriculum. Enrichment does not silently replace 
+source wording.
+Definition/scope separation Definition states what an entity is; Scope states boundaries 
+and exclusions. This is essential for semantic retrieval and 
+expert review.
+Semantic-description discipline Semantic text is rich enough for embeddings but must not 
+be padded with unrelated SDGs or applications.
+Lifecycle semantics Deprecated entities remain resolvable through explicit 
+redirect relationships such as MERGED_INTO.
+No implicit framework equivalence Goal-linked ESD or Curriculum Framework records are not
+equivalent to SCRs and are not promoted to canonical SCR 
+relationships merely because they are semantically 
+similar.
+8. Identifier and versioning scheme
+Stable identifiers serve the same role that URIs play in well-governed data systems: they allow entities and 
+relationships to be referenced independently of display text or storage layout. Human-readable names are 
+presentation properties; IDs are referential anchors.
+Identifier families
+<PARSED TEXT FOR PAGE: 16 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 16
+COURSE_###
+MOD_####
+SUB_#####
+KCR_######
+KPR_######
+KFR_######
+SCR_####
+AC_######
+SDG_GOAL_##
+SDG_TARGET_<code>
+SDG_INDICATOR_<code>
+ESD_OBJ_...
+CF_KNOW_... / CF_SKILL_... / CF_VALUE_...
+RecommendationEvent:<uuid-or-stable-event-id>
+Field Rule Why it matters
+Canonical ID Stable across normal description/title 
+revisions
+Graph relationships, provenance, 
+replay
+Version Changes when governed content is 
+revised
+Repository release management
+Status Active / Under Review / Deprecated / 
+Archived
+Lifecycle control
+Semantic text hash Hash of the fields used to create the 
+embedding
+Selective re-embedding
+Embedding model/version e.g. sentence-transformers/all￾MiniLM-L6-v2
+Reproducibility of generated vectors
+9. Sustainability and educational-framework ontology
+SCR is intentionally independent of the Sustainable Development Goals. An SCR represents a sustainability 
+idea or mechanism; an SDG target or indicator is an external policy/framework reference. This separation 
+prevents SDG titles from becoming substitutes for disciplinary reasoning.
+KEY DISTINCTION SCR answers 'what sustainability concept is relevant here?'. SDG/ESD/CF answer 
+'how can that eligible concept be aligned to global sustainability and educational outcomes?'.
+The structural framework path is:
+Framework graph pattern
+SCR
+ -> SUPPORTS_SDG_TARGET -> SDGTarget
+ -> REFERENCES_SDG_INDICATOR -> SDGIndicator
+SDGTarget -> BELONGS_TO_SDG -> SDGGoal
+ESDObjective -> OBJECTIVE_FOR_SDG -> SDGGoal
+CFKnowledge / CFSkill / CFValue -> OUTCOME_FOR_SDG -> SDGGoal
+UNESCO ESD learning objectives are selected after the relevant SDG Goal is established. Cross-cutting ESD 
+competencies may be suggested at recommendation time, but the system does not fabricate canonical 
+objective-to-competency mappings. Similarly, Curriculum Framework competencies may enrich a saved 
+LearningDesign without inventing row-level canonical mappings when the source framework does not 
+provide them.
+<PARSED TEXT FOR PAGE: 17 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 17
+PART III
+Semantic retrieval and runtime 
+profiles
+Semantic models improve discovery and paraphrase handling, but they operate inside ontology
+and graph constraints. Persistent entity vectors are generated once; runtime profiles represent 
+the current educator request and are not promoted to canonical ontology entities.
+ON THIS PART
+• Semantic text construction
+• all-MiniLM-L6-v2 embedding architecture
+• Neo4j vector indexes
+• Persistent versus transient data
+• TopicSemanticProfile
+• ApplicationMechanismProfile
+Each part starts with the system idea first, then defines the technical specification and research implications.
+<PARSED TEXT FOR PAGE: 18 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 18
+10. Semantic text construction
+Embedding quality depends on the text representation of an entity. The system therefore defines a 
+deterministic semantic-text template per entity type. The template is generated from governed fields; it is not 
+manually rewritten each time a query is executed.
+Entity Semantic text template Retrieval purpose
+KCR name + definition + scope + core 
+principles/ideas + semantic description + 
+keywords/synonyms
+Represent what the concept is and how it
+differs from nearby concepts.
+KPR name + definition + scope + core ideas + 
+semantic description + 
+keywords/synonyms
+Represent the governing/explanatory 
+proposition and its applicability.
+KFR name + definition + purpose + 
+inputs/outputs + mechanism + semantic 
+description + keywords/synonyms
+Represent operational role rather than 
+product/application.
+SCR name + definition + scope + core ideas + 
+semantic description + sustainability 
+principle + underlying mechanism + 
+boundary conditions + recommendation 
+trigger
+Distinguish sustainability mechanisms 
+that may share vocabulary.
+ApplicationContext name + description + technical problem 
++ operational action + mechanism + 
+sustainability outcome + boundary 
+conditions + keywords
+Represent application evidence in 
+problem/action/mechanism terms.
+Course title + description + objectives + learning 
+outcomes
+Broad curriculum retrieval only.
+Module name + description Controlled fallback scope.
+Subtopic name + description Primary curriculum semantic anchor.
+EMBEDDING RULE Changing a display name or a non-semantic field does not automatically require re￾embedding. Changing any field included in the semantic-text template changes the semantic-text hash 
+and triggers regeneration of that entity's vector.
+11. Embedding and vector-index architecture
+Persistent vectors, transient query scores
+CURATED / VERSIONED ENTITY PIPELINE
+Semantic text +
+text hash
+→ all-MiniLM-L6-
+v2
+384-d vector
+→ Neo4j node
+vector property
+→ Vector index
+cosine / Top-N
+RUNTIME REQUEST
+Educator￾entered text /
+generated facet
+→ Embed query
+only
+(transient
+vector)
+→ Vector index
+search + graph
+filtering
+→ Query-specific
+scores + rank
+<PARSED TEXT FOR PAGE: 19 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 19
+Figure 3. Repository vectors are generated and stored once; only query text and runtime mechanism facets are embedded during a
+recommendation request.
+The reference embedding model is `sentence-transformers/all-MiniLM-L6-v2`. Its model card describes a 384-
+dimensional dense vector space for semantic search and similarity tasks. Neo4j's GraphRAG Python package 
+supports SentenceTransformerEmbeddings, including all-MiniLM-L6-v2, and vector retrieval against Neo4j 
+indexes. The production recommendation service therefore loads the model (or an equivalent controlled local 
+service), while Neo4j stores the generated node vectors and provides vector-index search.
+Component Final-state design Rule
+Embedding model sentence-transformers/all-MiniLM-L6-
+v2
+Reference production baseline; 
+controlled model upgrades require 
+revalidation.
+Dimension 384 Vector-index dimension must match 
+the embedding output.
+Similarity Cosine Used for semantic candidate 
+retrieval/ranking; not an ontology 
+relation.
+Repository embedding Persistent Recomputed only when semantic 
+text/model version changes.
+Query/facet embedding Transient Generated per request for educator￾entered text or runtime facets.
+Similarity score Transient by default Persist only when the score 
+contributed to a 
+RecommendationEvent.
+SLIDE TAKEAWAY Production responsiveness comes from precomputing entity vectors and 
+using Neo4j vector indexes—not from re-embedding the repository on every UI selection.
+11.1 Why the semantic layer moved to MiniLM
+Earlier recommendation discovery used a transparent but hand-weighted lexical/character-overlap score: 
+trigger-word overlap 0.40, mechanism-word overlap 0.20, concept/keyword overlap 0.10, trigger character n￾gram 0.20 and mechanism character n-gram 0.10, with a dynamic candidate threshold of max(0.055, 0.70 × top 
+score). That logic was useful for early diagnostics but required vocabulary-specific tuning and did not provide 
+a reusable dense sentence representation for paraphrases or cross-level semantic entry.
+The reference semantic layer therefore moved to sentence-transformers/all-MiniLM-L6-v2 (384 dimensions). 
+The design reason was semantic generalisation and maintainability—not an observed raw-score victory over 
+the earlier logic. On the preserved 15-case comparison, the reconstructed v2A output had Required 
+Top-1/Top-3/forbidden-Top-1 at 15/15, while the initial MiniLM v2B run achieved 11/15 Top-1, 13/15 Top-3 and 
+12/15 legacy overall. Those regressions exposed repository/context interactions and led to the v2C semantic￾repository and v3 context/mechanism corrections.
+DESIGN CONSEQUENCE MiniLM is retained as a semantic retrieval/ranking component inside the hybrid 
+architecture. Ontology scope, typed evidence, mechanism compatibility and guardrails remain authoritative. A 
+high embedding score can suggest a candidate; it cannot establish ontology truth or technical eligibility.
+<PARSED TEXT FOR PAGE: 20 / 82>
+ARCHITECTURE / FINAL-STATE DESIGN / 
+RECOMMENDATION SYSTEM
+v1.6.1 • 2026
+Ontology-Driven Knowledge Graph Recommendation System 20
+12. Persistent versus transient data
+Object Classification Persist?
+Course / Module / Subtopic / KCR / KPR
+/ KFR / SCR / Guardrail / 
+ApplicationContext
+Persistent canonical/curated data Yes
+SDG / ESD / Curriculum Framework 
+nodes
+Persistent reference data Yes
+Entity embedding vector Generated persistent data Yes
+Embedding model/version + semantic￾text hash
+Generated metadata Yes
