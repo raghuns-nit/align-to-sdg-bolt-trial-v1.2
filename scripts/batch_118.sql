@@ -1,0 +1,1 @@
+INSERT INTO repo_sdg_indicators (sdg_indicator_id, indicator_code, text, status) VALUES ('SDG_INDICATOR_17_19_2', '17.19.2', 'Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration', 'Active') ON CONFLICT DO NOTHING;

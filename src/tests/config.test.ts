@@ -1,0 +1,40 @@
+import { describe, it, expect } from 'vitest'
+import { FROZEN_CONFIG, REPOSITORY_VERSION } from '../engine/config'
+
+describe('RuntimeConfig (frozen)', () => {
+  it('has exact frozen threshold values', () => {
+    expect(FROZEN_CONFIG.mechanism_weight).toBe(0.55)
+    expect(FROZEN_CONFIG.full_profile_weight).toBe(0.35)
+    expect(FROZEN_CONFIG.context_evidence_weight).toBe(0.10)
+    expect(FROZEN_CONFIG.strong_context_threshold).toBe(0.62)
+    expect(FROZEN_CONFIG.moderate_context_threshold).toBe(0.44)
+    expect(FROZEN_CONFIG.min_context_supported_mechanism_score).toBe(0.22)
+    expect(FROZEN_CONFIG.subtopic_scope_mismatch_margin).toBe(0.12)
+    expect(FROZEN_CONFIG.subtopic_scope_mismatch_min_sibling).toBe(0.45)
+    expect(FROZEN_CONFIG.semantic_anchor_top_k).toBe(10)
+    expect(FROZEN_CONFIG.technical_scope_top_k).toBe(5)
+    expect(FROZEN_CONFIG.scr_candidate_top_k).toBe(5)
+    expect(FROZEN_CONFIG.context_top_k).toBe(5)
+    expect(FROZEN_CONFIG.promotion_max).toBe(3)
+    expect(FROZEN_CONFIG.promotion_min_evidence_tier).toBe(2)
+    expect(FROZEN_CONFIG.promotion_min_mechanism_score).toBe(0.28)
+    expect(FROZEN_CONFIG.promotion_score_margin).toBe(0.16)
+    expect(FROZEN_CONFIG.promotion_candidate_pool).toBe(10)
+    expect(FROZEN_CONFIG.promotion_facet_local_top_k).toBe(12)
+    expect(FROZEN_CONFIG.promotion_independent_min_facet_score).toBe(0.26)
+    expect(FROZEN_CONFIG.promotion_independent_context_floor).toBe(0.40)
+    expect(FROZEN_CONFIG.promotion_specific_rare_df_ratio).toBe(0.18)
+    expect(FROZEN_CONFIG.promotion_specific_min_idf_score).toBe(0.075)
+    expect(FROZEN_CONFIG.promotion_independent_facet_advantage).toBe(0.025)
+    expect(FROZEN_CONFIG.promotion_independent_facet_ratio_over_primary).toBe(1.08)
+    expect(FROZEN_CONFIG.promotion_independent_weighted_ratio).toBe(0.52)
+    expect(FROZEN_CONFIG.promotion_independent_score_margin).toBe(0.34)
+    expect(FROZEN_CONFIG.negation_veto_min_semantic).toBe(0.30)
+    expect(FROZEN_CONFIG.negation_veto_min_idf_score).toBe(0.10)
+    expect(FROZEN_CONFIG.negation_veto_min_rare_matches).toBe(1)
+  })
+
+  it('has repository version identifier', () => {
+    expect(REPOSITORY_VERSION).toBe('design8a-v5a-frozen-v1')
+  })
+})

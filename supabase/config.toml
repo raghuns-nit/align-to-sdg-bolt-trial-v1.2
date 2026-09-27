@@ -1,0 +1,2 @@
+[functions.import-repository]
+verify_jwt = true

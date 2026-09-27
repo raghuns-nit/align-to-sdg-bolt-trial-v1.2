@@ -1,0 +1,252 @@
+sdg_indicator_id:ID,indicator_code,text,status,:LABEL
+SDG_INDICATOR_1_1_1,1.1.1,"Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",Active,SDGIndicator
+SDG_INDICATOR_1_2_1,1.2.1,"Proportion of population living below the national poverty line, by sex and age",Active,SDGIndicator
+SDG_INDICATOR_1_2_2,1.2.2,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Active,SDGIndicator
+SDG_INDICATOR_1_3_1,1.3.1,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",Active,SDGIndicator
+SDG_INDICATOR_1_4_1,1.4.1,Proportion of population living in households with access to basic services,Active,SDGIndicator
+SDG_INDICATOR_1_4_2,1.4.2,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",Active,SDGIndicator
+SDG_INDICATOR_1_5_1,1.5.1,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Active,SDGIndicator
+SDG_INDICATOR_1_5_2,1.5.2,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),Active,SDGIndicator
+SDG_INDICATOR_1_5_3,1.5.3,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,Active,SDGIndicator
+SDG_INDICATOR_1_5_4,1.5.4,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Active,SDGIndicator
+SDG_INDICATOR_1_a_1,1.a.1,Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income,Active,SDGIndicator
+SDG_INDICATOR_1_a_2,1.a.2,"Proportion of total government spending on essential services (education, health and social protection)",Active,SDGIndicator
+SDG_INDICATOR_1_b_1,1.b.1,Pro-poor public social spending,Active,SDGIndicator
+SDG_INDICATOR_2_1_1,2.1.1,Prevalence of undernourishment,Active,SDGIndicator
+SDG_INDICATOR_2_1_2,2.1.2,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Active,SDGIndicator
+SDG_INDICATOR_2_2_1,2.2.1,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,Active,SDGIndicator
+SDG_INDICATOR_2_2_2,2.2.2,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",Active,SDGIndicator
+SDG_INDICATOR_2_2_3,2.2.3,"Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",Active,SDGIndicator
+SDG_INDICATOR_2_2_4,2.2.4,"Prevalence of minimum dietary diversity, by population group (children aged 6 to 23 months and non-pregnant women aged 15 to 49 years)",Active,SDGIndicator
+SDG_INDICATOR_2_3_1,2.3.1,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Active,SDGIndicator
+SDG_INDICATOR_2_3_2,2.3.2,"Average income of small-scale food producers, by sex and indigenous status",Active,SDGIndicator
+SDG_INDICATOR_2_4_1,2.4.1,Proportion of agricultural area under productive and sustainable agriculture,Active,SDGIndicator
+SDG_INDICATOR_2_5_1,2.5.1,Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Active,SDGIndicator
+SDG_INDICATOR_2_5_2,2.5.2,Proportion of local and transboundary breeds classified as being at risk of extinction,Active,SDGIndicator
+SDG_INDICATOR_2_a_1,2.a.1,The agriculture orientation index for government expenditures,Active,SDGIndicator
+SDG_INDICATOR_2_a_2,2.a.2,Total official flows (official development assistance plus other official flows) to the agriculture sector,Active,SDGIndicator
+SDG_INDICATOR_2_b_1,2.b.1,Agricultural export subsidies,Active,SDGIndicator
+SDG_INDICATOR_2_c_1,2.c.1,Indicator of food price anomalies,Active,SDGIndicator
+SDG_INDICATOR_3_1_1,3.1.1,Maternal mortality ratio,Active,SDGIndicator
+SDG_INDICATOR_3_1_2,3.1.2,Proportion of births attended by skilled health personnel,Active,SDGIndicator
+SDG_INDICATOR_3_2_1,3.2.1,Under-5 mortality rate,Active,SDGIndicator
+SDG_INDICATOR_3_2_2,3.2.2,Neonatal mortality rate,Active,SDGIndicator
+SDG_INDICATOR_3_3_1,3.3.1,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Active,SDGIndicator
+SDG_INDICATOR_3_3_2,3.3.2,"Tuberculosis incidence per 100,000 population",Active,SDGIndicator
+SDG_INDICATOR_3_3_3,3.3.3,"Malaria incidence per 1,000 population",Active,SDGIndicator
+SDG_INDICATOR_3_3_4,3.3.4,"Hepatitis B incidence per 100,000 population",Active,SDGIndicator
+SDG_INDICATOR_3_3_5,3.3.5,Number of people requiring interventions against neglected tropical diseases,Active,SDGIndicator
+SDG_INDICATOR_3_4_1,3.4.1,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Active,SDGIndicator
+SDG_INDICATOR_3_4_2,3.4.2,Suicide mortality rate,Active,SDGIndicator
+SDG_INDICATOR_3_5_1,3.5.1,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",Active,SDGIndicator
+SDG_INDICATOR_3_5_2,3.5.2,Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,Active,SDGIndicator
+SDG_INDICATOR_3_6_1,3.6.1,Death rate due to road traffic injuries,Active,SDGIndicator
+SDG_INDICATOR_3_7_1,3.7.1,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,Active,SDGIndicator
+SDG_INDICATOR_3_7_2,3.7.2,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",Active,SDGIndicator
+SDG_INDICATOR_3_8_1,3.8.1,Coverage of essential health services,Active,SDGIndicator
+SDG_INDICATOR_3_8_2,3.8.2,Proportion of population with positive out-of-pocket household expenditures on health exceeding 40 per cent of household discretionary budget,Active,SDGIndicator
+SDG_INDICATOR_3_9_1,3.9.1,Mortality rate attributed to household and ambient air pollution,Active,SDGIndicator
+SDG_INDICATOR_3_9_2,3.9.2,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",Active,SDGIndicator
+SDG_INDICATOR_3_9_3,3.9.3,Mortality rate attributed to unintentional poisoning,Active,SDGIndicator
+SDG_INDICATOR_3_a_1,3.a.1,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Active,SDGIndicator
+SDG_INDICATOR_3_b_1,3.b.1,Proportion of the target population covered by all vaccines included in their national programme,Active,SDGIndicator
+SDG_INDICATOR_3_b_2,3.b.2,Total net official development assistance to medical research and basic health sectors,Active,SDGIndicator
+SDG_INDICATOR_3_b_3,3.b.3,Health product access index,Active,SDGIndicator
+SDG_INDICATOR_3_c_1,3.c.1,Health worker density and distribution,Active,SDGIndicator
+SDG_INDICATOR_3_d_1,3.d.1,International Health Regulations (IHR) capacity and health emergency preparedness,Active,SDGIndicator
+SDG_INDICATOR_3_d_2,3.d.2,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,Active,SDGIndicator
+SDG_INDICATOR_4_1_1,4.1.1,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",Active,SDGIndicator
+SDG_INDICATOR_4_1_2,4.1.2,"Completion rate (primary education, lower secondary education, upper secondary education)",Active,SDGIndicator
+SDG_INDICATOR_4_2_1,4.2.1,"Proportion of children aged 24–59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",Active,SDGIndicator
+SDG_INDICATOR_4_2_2,4.2.2,"Participation rate in organized learning (one year before the official primary entry age), by sex",Active,SDGIndicator
+SDG_INDICATOR_4_3_1,4.3.1,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",Active,SDGIndicator
+SDG_INDICATOR_4_4_1,4.4.1,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",Active,SDGIndicator
+SDG_INDICATOR_4_5_1,4.5.1,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",Active,SDGIndicator
+SDG_INDICATOR_4_6_1,4.6.1,Youth/adult literacy rate,Active,SDGIndicator
+SDG_INDICATOR_4_7_1,4.7.1,Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,Active,SDGIndicator
+SDG_INDICATOR_4_a_1,4.a.1,"Proportion of schools offering basic services, by type of service",Active,SDGIndicator
+SDG_INDICATOR_4_b_1,4.b.1,Volume of official development assistance flows for scholarships,Active,SDGIndicator
+SDG_INDICATOR_4_c_1,4.c.1,"Proportion of teachers with the minimum required qualifications, by education level",Active,SDGIndicator
+SDG_INDICATOR_5_1_1,5.1.1,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex",Active,SDGIndicator
+SDG_INDICATOR_5_2_1,5.2.1,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",Active,SDGIndicator
+SDG_INDICATOR_5_2_2,5.2.2,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",Active,SDGIndicator
+SDG_INDICATOR_5_3_1,5.3.1,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,Active,SDGIndicator
+SDG_INDICATOR_5_3_2,5.3.2,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age",Active,SDGIndicator
+SDG_INDICATOR_5_4_1,5.4.1,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",Active,SDGIndicator
+SDG_INDICATOR_5_5_1,5.5.1,Proportion of seats held by women in (a) national parliaments and (b) local governments,Active,SDGIndicator
+SDG_INDICATOR_5_5_2,5.5.2,Proportion of women in managerial positions,Active,SDGIndicator
+SDG_INDICATOR_5_6_1,5.6.1,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",Active,SDGIndicator
+SDG_INDICATOR_5_6_2,5.6.2,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",Active,SDGIndicator
+SDG_INDICATOR_5_a_1,5.a.1,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Active,SDGIndicator
+SDG_INDICATOR_5_a_2,5.a.2,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,Active,SDGIndicator
+SDG_INDICATOR_5_b_1,5.b.1,"Proportion of individuals who own a mobile telephone, by sex",Active,SDGIndicator
+SDG_INDICATOR_5_c_1,5.c.1,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,Active,SDGIndicator
+SDG_INDICATOR_6_1_1,6.1.1,Proportion of population using safely managed drinking water services,Active,SDGIndicator
+SDG_INDICATOR_6_2_1,6.2.1,Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,Active,SDGIndicator
+SDG_INDICATOR_6_3_1,6.3.1,Proportion of domestic and industrial wastewater flows safely treated,Active,SDGIndicator
+SDG_INDICATOR_6_3_2,6.3.2,Proportion of bodies of water with good ambient water quality,Active,SDGIndicator
+SDG_INDICATOR_6_4_1,6.4.1,Change in water-use efficiency over time,Active,SDGIndicator
+SDG_INDICATOR_6_4_2,6.4.2,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Active,SDGIndicator
+SDG_INDICATOR_6_5_1,6.5.1,Degree of integrated water resources management,Active,SDGIndicator
+SDG_INDICATOR_6_5_2,6.5.2,Proportion of transboundary basin area with an operational arrangement for water cooperation,Active,SDGIndicator
+SDG_INDICATOR_6_6_1,6.6.1,Change in the extent of water-related ecosystems over time,Active,SDGIndicator
+SDG_INDICATOR_6_a_1,6.a.1,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,Active,SDGIndicator
+SDG_INDICATOR_6_b_1,6.b.1,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Active,SDGIndicator
+SDG_INDICATOR_7_1_1,7.1.1,Proportion of population with access to electricity,Active,SDGIndicator
+SDG_INDICATOR_7_1_2,7.1.2,Proportion of population with primary reliance on clean fuels and technology,Active,SDGIndicator
+SDG_INDICATOR_7_2_1,7.2.1,Renewable energy share in the total final energy consumption,Active,SDGIndicator
+SDG_INDICATOR_7_3_1,7.3.1,Energy intensity measured in terms of primary energy and GDP,Active,SDGIndicator
+SDG_INDICATOR_7_a_1,7.a.1,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",Active,SDGIndicator
+SDG_INDICATOR_7_b_1,7.b.1,Installed renewable energy-generating capacity in developing and developed countries (in watts per capita),Active,SDGIndicator
+SDG_INDICATOR_8_1_1,8.1.1,Annual growth rate of real GDP per capita,Active,SDGIndicator
+SDG_INDICATOR_8_2_1,8.2.1,Annual growth rate of real GDP per employed person,Active,SDGIndicator
+SDG_INDICATOR_8_3_1,8.3.1,"Proportion of informal employment in total employment, by sector and sex",Active,SDGIndicator
+SDG_INDICATOR_8_4_1,8.4.1,"Material footprint, material footprint per capita, and material footprint per GDP",Active,SDGIndicator
+SDG_INDICATOR_8_4_2,8.4.2,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",Active,SDGIndicator
+SDG_INDICATOR_8_5_1,8.5.1,"Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",Active,SDGIndicator
+SDG_INDICATOR_8_5_2,8.5.2,"Unemployment rate, by sex, age and persons with disabilities",Active,SDGIndicator
+SDG_INDICATOR_8_6_1,8.6.1,"Proportion of youth (aged 15–24 years) not in education, employment or training",Active,SDGIndicator
+SDG_INDICATOR_8_7_1,8.7.1,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",Active,SDGIndicator
+SDG_INDICATOR_8_8_1,8.8.1,"Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",Active,SDGIndicator
+SDG_INDICATOR_8_8_2,8.8.2,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",Active,SDGIndicator
+SDG_INDICATOR_8_9_1,8.9.1,Tourism direct GDP as a proportion of total GDP and in growth rate,Active,SDGIndicator
+SDG_INDICATOR_8_9_2,8.9.2,Employed persons in the tourism industries,Active,SDGIndicator
+SDG_INDICATOR_8_10_1,8.10.1,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",Active,SDGIndicator
+SDG_INDICATOR_8_10_2,8.10.2,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Active,SDGIndicator
+SDG_INDICATOR_8_a_1,8.a.1,Aid for Trade commitments and disbursements,Active,SDGIndicator
+SDG_INDICATOR_8_b_1,8.b.1,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",Active,SDGIndicator
+SDG_INDICATOR_9_1_1,9.1.1,Proportion of the rural population who live within 2 km of an all-season road,Active,SDGIndicator
+SDG_INDICATOR_9_1_2,9.1.2,"Passenger and freight volumes, by mode of transport",Active,SDGIndicator
+SDG_INDICATOR_9_2_1,9.2.1,Manufacturing value added as a proportion of GDP and per capita,Active,SDGIndicator
+SDG_INDICATOR_9_2_2,9.2.2,Manufacturing employment as a proportion of total employment,Active,SDGIndicator
+SDG_INDICATOR_9_3_1,9.3.1,"Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications",Active,SDGIndicator
+SDG_INDICATOR_9_3_2,9.3.2,Proportion of small-scale industries with a loan or line of credit,Active,SDGIndicator
+SDG_INDICATOR_9_4_1,9.4.1,CO2 emission per unit of value added,Active,SDGIndicator
+SDG_INDICATOR_9_5_1,9.5.1,Research and development expenditure as a proportion of GDP,Active,SDGIndicator
+SDG_INDICATOR_9_5_2,9.5.2,Researchers (in full-time equivalent) per million inhabitants,Active,SDGIndicator
+SDG_INDICATOR_9_a_1,9.a.1,Total official international support (official development assistance plus other official flows) to infrastructure,Active,SDGIndicator
+SDG_INDICATOR_9_b_1,9.b.1,Proportion of medium and high-tech industry value added in total value added,Active,SDGIndicator
+SDG_INDICATOR_9_c_1,9.c.1,"Proportion of population covered by a mobile network, by technology",Active,SDGIndicator
+SDG_INDICATOR_10_1_1,10.1.1,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,Active,SDGIndicator
+SDG_INDICATOR_10_2_1,10.2.1,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",Active,SDGIndicator
+SDG_INDICATOR_10_3_1,10.3.1,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,Active,SDGIndicator
+SDG_INDICATOR_10_4_1,10.4.1,Labour share of GDP,Active,SDGIndicator
+SDG_INDICATOR_10_4_2,10.4.2,Redistributive impact of fiscal policy on the Gini index,Active,SDGIndicator
+SDG_INDICATOR_10_5_1,10.5.1,Financial Soundness Indicators,Active,SDGIndicator
+SDG_INDICATOR_10_6_1,10.6.1,Proportion of members and voting rights of developing countries in international organizations,Active,SDGIndicator
+SDG_INDICATOR_10_7_1,10.7.1,Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Active,SDGIndicator
+SDG_INDICATOR_10_7_2,10.7.2,"Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",Active,SDGIndicator
+SDG_INDICATOR_10_7_3,10.7.3,Number of people who died or disappeared in the process of migration towards an international destination,Active,SDGIndicator
+SDG_INDICATOR_10_7_4,10.7.4,"Proportion of the population who are refugees, by country of origin",Active,SDGIndicator
+SDG_INDICATOR_10_a_1,10.a.1,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,Active,SDGIndicator
+SDG_INDICATOR_10_b_1,10.b.1,"Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)",Active,SDGIndicator
+SDG_INDICATOR_10_c_1,10.c.1,Remittance costs as a proportion of the amount remitted,Active,SDGIndicator
+SDG_INDICATOR_11_1_1,11.1.1,"Proportion of urban population living in slums, informal settlements or inadequate housing",Active,SDGIndicator
+SDG_INDICATOR_11_2_1,11.2.1,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",Active,SDGIndicator
+SDG_INDICATOR_11_3_1,11.3.1,Ratio of land consumption rate to population growth rate,Active,SDGIndicator
+SDG_INDICATOR_11_3_2,11.3.2,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,Active,SDGIndicator
+SDG_INDICATOR_11_4_1,11.4.1,"Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",Active,SDGIndicator
+SDG_INDICATOR_11_5_1,11.5.1,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Active,SDGIndicator
+SDG_INDICATOR_11_5_2,11.5.2,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),Active,SDGIndicator
+SDG_INDICATOR_11_5_3,11.5.3,"(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters",Active,SDGIndicator
+SDG_INDICATOR_11_6_1,11.6.1,"Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",Active,SDGIndicator
+SDG_INDICATOR_11_6_2,11.6.2,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),Active,SDGIndicator
+SDG_INDICATOR_11_7_1,11.7.1,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",Active,SDGIndicator
+SDG_INDICATOR_11_7_2,11.7.2,"Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",Active,SDGIndicator
+SDG_INDICATOR_11_a_1,11.a.1,Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space,Active,SDGIndicator
+SDG_INDICATOR_11_b_1,11.b.1,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,Active,SDGIndicator
+SDG_INDICATOR_11_b_2,11.b.2,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Active,SDGIndicator
+SDG_INDICATOR_11_c_1,11.c.1,"Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector",Active,SDGIndicator
+SDG_INDICATOR_12_1_1,12.1.1,"Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",Active,SDGIndicator
+SDG_INDICATOR_12_2_1,12.2.1,"Material footprint, material footprint per capita, and material footprint per GDP",Active,SDGIndicator
+SDG_INDICATOR_12_2_2,12.2.2,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",Active,SDGIndicator
+SDG_INDICATOR_12_3_1,12.3.1,(a) Food loss index and (b) food waste index,Active,SDGIndicator
+SDG_INDICATOR_12_4_1,12.4.1,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",Active,SDGIndicator
+SDG_INDICATOR_12_4_2,12.4.2,"(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",Active,SDGIndicator
+SDG_INDICATOR_12_5_1,12.5.1,"National recycling rate, tons of material recycled",Active,SDGIndicator
+SDG_INDICATOR_12_6_1,12.6.1,Number of companies publishing sustainability reports,Active,SDGIndicator
+SDG_INDICATOR_12_7_1,12.7.1,Number of countries implementing sustainable public procurement policies and action plans,Active,SDGIndicator
+SDG_INDICATOR_12_8_1,12.8.1,Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,Active,SDGIndicator
+SDG_INDICATOR_12_a_1,12.a.1,Installed renewable energy-generating capacity in developing and developed countries (in watts per capita),Active,SDGIndicator
+SDG_INDICATOR_12_b_1,12.b.1,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability,Active,SDGIndicator
+SDG_INDICATOR_12_c_1,12.c.1,Amount of fossil-fuel subsidies (production and consumption) per unit of GDP,Active,SDGIndicator
+SDG_INDICATOR_13_1_1,13.1.1,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Active,SDGIndicator
+SDG_INDICATOR_13_1_2,13.1.2,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,Active,SDGIndicator
+SDG_INDICATOR_13_1_3,13.1.3,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Active,SDGIndicator
+SDG_INDICATOR_13_2_1,13.2.1,"Number of countries with reports under the Paris Agreement, as submitted to the secretariat of the United Nations Framework Convention on Climate Change",Active,SDGIndicator
+SDG_INDICATOR_13_2_2,13.2.2,Total greenhouse gas emissions per year,Active,SDGIndicator
+SDG_INDICATOR_13_3_1,13.3.1,Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,Active,SDGIndicator
+SDG_INDICATOR_13_a_1,13.a.1,Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,Active,SDGIndicator
+SDG_INDICATOR_13_b_1,13.b.1,"Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change",Active,SDGIndicator
+SDG_INDICATOR_14_1_1,14.1.1,(a) Index of coastal eutrophication; and (b) plastic debris density,Active,SDGIndicator
+SDG_INDICATOR_14_2_1,14.2.1,Number of countries using ecosystem-based approaches to managing marine areas,Active,SDGIndicator
+SDG_INDICATOR_14_3_1,14.3.1,Average marine acidity (pH) measured at agreed suite of representative sampling stations,Active,SDGIndicator
+SDG_INDICATOR_14_4_1,14.4.1,Proportion of fish stocks within biologically sustainable levels,Active,SDGIndicator
+SDG_INDICATOR_14_5_1,14.5.1,Coverage of protected areas in relation to marine areas,Active,SDGIndicator
+SDG_INDICATOR_14_6_1,14.6.1,"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",Active,SDGIndicator
+SDG_INDICATOR_14_7_1,14.7.1,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",Active,SDGIndicator
+SDG_INDICATOR_14_a_1,14.a.1,Proportion of total research budget allocated to research in the field of marine technology,Active,SDGIndicator
+SDG_INDICATOR_14_b_1,14.b.1,Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,Active,SDGIndicator
+SDG_INDICATOR_14_c_1,14.c.1,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",Active,SDGIndicator
+SDG_INDICATOR_15_1_1,15.1.1,Forest area as a proportion of total land area,Active,SDGIndicator
+SDG_INDICATOR_15_1_2,15.1.2,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",Active,SDGIndicator
+SDG_INDICATOR_15_2_1,15.2.1,Progress towards sustainable forest management,Active,SDGIndicator
+SDG_INDICATOR_15_3_1,15.3.1,Proportion of land that is degraded over total land area,Active,SDGIndicator
+SDG_INDICATOR_15_4_1,15.4.1,Coverage by protected areas of important sites for mountain biodiversity,Active,SDGIndicator
+SDG_INDICATOR_15_4_2,15.4.2,(a) Mountain Green Cover Index and (b) proportion of degraded mountain land,Active,SDGIndicator
+SDG_INDICATOR_15_5_1,15.5.1,Red List Index,Active,SDGIndicator
+SDG_INDICATOR_15_6_1,15.6.1,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",Active,SDGIndicator
+SDG_INDICATOR_15_7_1,15.7.1,Proportion of traded wildlife that was poached or illicitly trafficked,Active,SDGIndicator
+SDG_INDICATOR_15_8_1,15.8.1,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,Active,SDGIndicator
+SDG_INDICATOR_15_9_1,15.9.1,"(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting",Active,SDGIndicator
+SDG_INDICATOR_15_a_1,15.a.1,(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments,Active,SDGIndicator
+SDG_INDICATOR_15_b_1,15.b.1,(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments,Active,SDGIndicator
+SDG_INDICATOR_15_c_1,15.c.1,Proportion of traded wildlife that was poached or illicitly trafficked,Active,SDGIndicator
+SDG_INDICATOR_16_1_1,16.1.1,"Number of victims of intentional homicide per 100,000 population, by sex and age",Active,SDGIndicator
+SDG_INDICATOR_16_1_2,16.1.2,"Conflict-related deaths per 100,000 population, by sex, age and cause",Active,SDGIndicator
+SDG_INDICATOR_16_1_3,16.1.3,"Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",Active,SDGIndicator
+SDG_INDICATOR_16_1_4,16.1.4,Proportion of population that feel safe walking alone around the area they live after dark,Active,SDGIndicator
+SDG_INDICATOR_16_2_1,16.2.1,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Active,SDGIndicator
+SDG_INDICATOR_16_2_2,16.2.2,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",Active,SDGIndicator
+SDG_INDICATOR_16_2_3,16.2.3,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,Active,SDGIndicator
+SDG_INDICATOR_16_3_1,16.3.1,"Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",Active,SDGIndicator
+SDG_INDICATOR_16_3_2,16.3.2,Unsentenced detainees as a proportion of overall prison population,Active,SDGIndicator
+SDG_INDICATOR_16_3_3,16.3.3,"Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",Active,SDGIndicator
+SDG_INDICATOR_16_4_1,16.4.1,Total value of inward and outward illicit financial flows (in current United States dollars),Active,SDGIndicator
+SDG_INDICATOR_16_4_2,16.4.2,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",Active,SDGIndicator
+SDG_INDICATOR_16_5_1,16.5.1,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",Active,SDGIndicator
+SDG_INDICATOR_16_5_2,16.5.2,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",Active,SDGIndicator
+SDG_INDICATOR_16_6_1,16.6.1,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",Active,SDGIndicator
+SDG_INDICATOR_16_6_2,16.6.2,Proportion of population satisfied with their last experience of public services,Active,SDGIndicator
+SDG_INDICATOR_16_7_1,16.7.1,"Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",Active,SDGIndicator
+SDG_INDICATOR_16_7_2,16.7.2,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",Active,SDGIndicator
+SDG_INDICATOR_16_8_1,16.8.1,Proportion of members and voting rights of developing countries in international organizations,Active,SDGIndicator
+SDG_INDICATOR_16_9_1,16.9.1,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",Active,SDGIndicator
+SDG_INDICATOR_16_10_1,16.10.1,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",Active,SDGIndicator
+SDG_INDICATOR_16_10_2,16.10.2,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",Active,SDGIndicator
+SDG_INDICATOR_16_a_1,16.a.1,Existence of independent national human rights institutions in compliance with the Paris Principles,Active,SDGIndicator
+SDG_INDICATOR_16_b_1,16.b.1,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,Active,SDGIndicator
+SDG_INDICATOR_17_1_1,17.1.1,"Total government revenue as a proportion of GDP, by source",Active,SDGIndicator
+SDG_INDICATOR_17_1_2,17.1.2,Proportion of domestic budget funded by domestic taxes,Active,SDGIndicator
+SDG_INDICATOR_17_2_1,17.2.1,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",Active,SDGIndicator
+SDG_INDICATOR_17_3_1,17.3.1,Additional financial resources mobilized for developing countries from multiple sources,Active,SDGIndicator
+SDG_INDICATOR_17_3_2,17.3.2,Volume of remittances (in United States dollars) as a proportion of total GDP,Active,SDGIndicator
+SDG_INDICATOR_17_4_1,17.4.1,"Debt service as a proportion of exports of goods, services and primary income",Active,SDGIndicator
+SDG_INDICATOR_17_5_1,17.5.1,"Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",Active,SDGIndicator
+SDG_INDICATOR_17_6_1,17.6.1,"Fixed broadband subscriptions per 100 inhabitants, by speed",Active,SDGIndicator
+SDG_INDICATOR_17_7_1,17.7.1,"Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",Active,SDGIndicator
+SDG_INDICATOR_17_8_1,17.8.1,Proportion of individuals using the Internet,Active,SDGIndicator
+SDG_INDICATOR_17_9_1,17.9.1,Dollar value of official development assistance committed to developing countries,Active,SDGIndicator
+SDG_INDICATOR_17_10_1,17.10.1,Worldwide weighted tariff-average,Active,SDGIndicator
+SDG_INDICATOR_17_11_1,17.11.1,Developing countries’ and least developed countries’ share of global exports,Active,SDGIndicator
+SDG_INDICATOR_17_12_1,17.12.1,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",Active,SDGIndicator
+SDG_INDICATOR_17_13_1,17.13.1,Macroeconomic Dashboard,Active,SDGIndicator
+SDG_INDICATOR_17_14_1,17.14.1,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,Active,SDGIndicator
+SDG_INDICATOR_17_15_1,17.15.1,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,Active,SDGIndicator
+SDG_INDICATOR_17_16_1,17.16.1,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,Active,SDGIndicator
+SDG_INDICATOR_17_17_1,17.17.1,Amount in United States dollars committed to public-private partnerships for infrastructure,Active,SDGIndicator
+SDG_INDICATOR_17_18_1,17.18.1,Statistical capacity indicators,Active,SDGIndicator
+SDG_INDICATOR_17_18_2,17.18.2,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,Active,SDGIndicator
+SDG_INDICATOR_17_18_3,17.18.3,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",Active,SDGIndicator
+SDG_INDICATOR_17_19_1,17.19.1,Dollar value of all resources made available to strengthen statistical capacity in developing countries,Active,SDGIndicator
+SDG_INDICATOR_17_19_2,17.19.2,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,Active,SDGIndicator
